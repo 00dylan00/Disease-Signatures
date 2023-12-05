@@ -1,0 +1,22 @@
+# Step 1: Install PostgreSQL
+sudo apt-get update
+sudo apt-get install postgresql postgresql-contrib
+
+# Step 2: Start the PostgreSQL Service
+sudo service postgresql start
+
+# Step 3: Access the PostgreSQL Command Line
+sudo -u postgres psql
+
+# Step 4: Create a Database
+# From the PostgreSQL command line, create a new database:
+
+CREATE DATABASE ilincs;
+
+# Step 5: Create a User
+
+CREATE USER ddalton WITH PASSWORD 'Teclado$$$111';
+
+#Step 6: Grant Permissions
+
+GRANT ALL PRIVILEGES ON DATABASE ilincs TO ddalton;
