@@ -1,3 +1,4 @@
 # Ignore everything in these directories
 data/
 cluster/
+logs/
