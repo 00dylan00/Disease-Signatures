@@ -16,10 +16,6 @@ import requests, os
 import pandas as pd
 import logging
 
-# Remove any existing handlers associated with the root logger.
-for handler in logging.root.handlers[:]:
-    logging.root.removeHandler(handler)
-
 # Reconfigure logging
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -237,7 +233,7 @@ def download_batch_signature_data(
     processed_data = {}
 
     for i in range(0, len(signature_ids), batch_size):
-        print(f"Batch {i}", end="\r")
+        logging.info(f"Batch {i}")
 
         batch_ids = signature_ids[i : i + batch_size]
         data = {
