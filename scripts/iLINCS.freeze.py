@@ -14,7 +14,7 @@ Structure:
 # imports
 import requests, os
 import pandas as pd
-import logging
+import logging, time
 
 # Reconfigure logging
 logging.basicConfig(
@@ -208,9 +208,8 @@ def download_signature_data(signature_ids, no_of_top_genes, display):
         print("Error:", response.status_code, response.text)
         return None
 
-
 def download_batch_signature_data(
-    signature_ids, no_of_top_genes, display, batch_size=10
+    signature_ids, no_of_top_genes, display, batch_size=10, retries=10, timeout=300
 ):
     """
     Download iLINCS Signature Data - optimized for Batch downloads
@@ -241,22 +240,27 @@ def download_batch_signature_data(
             "noOfTopGenes": no_of_top_genes,
             "display": display,
         }
-        response = requests.post(endpoint, data=data)
-        if response.status_code == 200:
-            raw_data = response.json()
-            for item in raw_data["data"]["signature"]:
-                signatureID = item["signatureID"]
-                if signatureID not in processed_data:
-                    processed_data[signatureID] = []
-                processed_data[signatureID].append(item)
 
-        else:
-            print(
-                f"Error in batch {i // batch_size + 1}: {response.status_code}, {response.text}"
-            )
+        for attempt in range(retries):
+            try:
+                response = requests.post(endpoint, data=data, timeout=timeout)
+                if response.status_code == 200:
+                    raw_data = response.json()
+                    for item in raw_data["data"]["signature"]:
+                        signatureID = item["signatureID"]
+                        if signatureID not in processed_data:
+                            processed_data[signatureID] = []
+                        processed_data[signatureID].append(item)
+                    break
+                else:
+                    logging.error(f"Error in batch {i // batch_size + 1}: {response.status_code}, {response.text}")
+                    time.sleep(2 ** attempt)  # Exponential backoff
+            except requests.exceptions.Timeout:
+                logging.error(f"Timeout occurred in batch {i // batch_size + 1}, attempt {attempt + 1}")
+                time.sleep(2 ** attempt)  # Exponential backoff
 
-    print()
     return processed_data
+
 
 # 2. Retrieve Data
 # get signatures
@@ -287,7 +291,7 @@ logging.info(f"Nº Disease Signatures {len(disease_signatureIDs)}")
 signature_vectors = download_batch_signature_data(signature_ids=disease_signatureIDs, 
                                                   no_of_top_genes=100000,
                                                   display=True, 
-                                                  batch_size=20)
+                                                  batch_size=10)
 
 # 3. Parse & Store Data
 # parse & store signatures
@@ -306,5 +310,5 @@ df_compounds = save_to_csv(compounds, os.path.join(OUTPUT_PATH, "compounds.csv")
 for signature_id, data in signature_vectors.items():
     df_signature = save_to_csv(
         data=data, 
-        filename=os.path.join(OUTPUT_PATH, "signature_data" ,f"{signature_id}.csv")
+        filename=os.path.join(OUTPUT_PATH, "signature_vectors" ,f"{signature_id}.csv")
     )
