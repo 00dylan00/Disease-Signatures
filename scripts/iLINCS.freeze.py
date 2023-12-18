@@ -107,6 +107,7 @@ def get_compounds():
     url = "http://www.ilincs.org/api/Compounds?"
     response = requests.get(url)
     if response.status_code == 200:
+        
         return response.json()
     else:
         print("Failed to retrieve compounds")
