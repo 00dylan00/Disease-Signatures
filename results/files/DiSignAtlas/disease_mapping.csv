@@ -1,0 +1,1837 @@
+disease,mesh_term,score
+Alzheimer's Disease,Alzheimer Disease,94
+Retinoblastoma,Retinoblastoma,100
+Congenital Myotonic Dystrophy,Myotonic Dystrophy,77
+Myotonic Dystrophy Type 1,Myotonic Dystrophy,84
+Allergic Disorder of Respiratory System,Respiratory System,63
+Brain Damage,"Brain Damage, Chronic",73
+Myocardial Ischemia,Myocardial Ischemia,100
+Gastric Cancer,Gastric Juice,74
+Diabetes,Dietetics,71
+COVID-19,COVID-19,100
+Clear Cell Ependymoma,Ependymoma,65
+Acute Liver Failure;Post Operative Delirium,Acute-On-Chronic Liver Failure,52
+Acute Liver Failure,Liver Failure,81
+Aortic Aneurysm,Aortic Aneurysm,100
+Angioimmunoblastic T-Cell Lymphoma,Immunoblastic Lymphadenopathy,63
+Chronic Kidney Disease,Chronic Disease,81
+Diabetic Kidney Disease,Kidney Diseases,74
+Amyotrophic Lateral Sclerosis,Amyotrophic Lateral Sclerosis,100
+Liver Cancer,Liberibacter,67
+Acute Pancreatitis,Autoimmune Pancreatitis,83
+Classic Galactosemia,Galactosemias,73
+Chronic Pain,Chronic Pain,100
+Neurodegenerative Diseases,Neurodegenerative Diseases,100
+Colon Cancer,"Colon, Transverse",69
+Lung Adenocarcinoma,Adenocarcinoma,85
+Lung Cancer,Lung Compliance,77
+Multiple Myeloma,Multiple Myeloma,100
+Prostate Cancer,Prostatein,72
+Cardiomyopathy,Cardiomyoplasty,90
+Diabetic Cardiomyopathy,Diabetic Cardiomyopathies,92
+Sporadic Creutzfeldt-Jakob Disease,Creutzfeldt-Jakob Syndrome,63
+Ischemic Insult,Ischemic Stroke,67
+Colorectal Adenoma,Colorectal Neoplasms,74
+Leukemia,Leukemia,100
+Social Defeat Stress,Social Defeat,79
+Colorectal Carcinoma,Adrenocortical Carcinoma,73
+Squamous Cell Carcinoma of Cervix,Squamous Cell Carcinoma of Head and Neck,77
+Type 1 Diabetes,Eye Diseases,59
+Type 2 Diabetes,Eye Diseases,59
+Acute Myeloid Leukemia,Multiple Myeloma,58
+Hepatoblastoma,Hepatoblastoma,100
+Adenocarcinoma,Adenocarcinoma,100
+Osteoarthritis,Osteoarthritis,100
+Asthma,Asthma,100
+Cervical Cancer,Cervical Cord,79
+Atherosclerosis,Atherosclerosis,100
+Breast Cancer,Breast Cancer Lymphedema,70
+Alopecia Areata,Alopecia Areata,100
+Polycystic Ovary Syndrome,Polycystic Ovary Syndrome,100
+Psoriasis,Psoriasis,100
+Polycystic Liver Disease,Polycystic Kidney Diseases,84
+Myocardial Infarction,Myocardial Infarction,100
+Pancreatic Cancer,Pancreatic Juice,79
+Conjunctival Melanoma,Conjunctival Neoplasms,79
+Renal Cell Carcinoma,Small Cell Lung Carcinoma,76
+Ovarian Fibroma,Ovarian Torsion,67
+Eosinophilic Esophagitis,Eosinophilic Esophagitis,100
+Dilated Cardiomyopathy,Diabetic Cardiomyopathies,77
+Ovarian Serous Adenocarcinoma,Adenocarcinoma,65
+Obesity,Obesity,100
+Parkinson's Disease,Parkinson Disease,94
+Ovarian Serous Cystadenoma,Ovarian Cysts,62
+Obstructive Sleep Apnea,Nutritive Sweeteners,56
+Sezary Syndrome,Sezary Syndrome,100
+Human Papilloma Virus Infection,Papillomavirus Infections,82
+Ischemia Reperfusion Injury,Reperfusion Injury,80
+Metastatic Ovarian Cancer,Hereditary Breast and Ovarian Cancer Syndrome,60
+Non-Alcoholic Fatty Liver Disease,Non-alcoholic Fatty Liver Disease,97
+Systemic Lupus Erythematosus,"Panniculitis, Lupus Erythematosus",72
+Melanoma,Melanoma,100
+Bile Duct Disease,Bile Duct Diseases,97
+Spinal And Bulbar Muscular Atrophy,Muscular Atrophy,64
+Tonsillar Cancer,Tonsillar Neoplasms,63
+Pancreatic Adenocarcinoma,Adenocarcinoma,72
+Oral Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,84
+Xfe Progeroid Syndrome,Asperger Syndrome,72
+Fatty Liver Disease,Liver Diseases,79
+Hepatocellular Adenoma,Macular Edema,63
+Limb-Girdle Muscular Dystrophy Type 2A,Muscular Dystrophies,62
+Bladder Cancer,Urinary Bladder Calculi,59
+Retinopathy,Tendinopathy,78
+Dengue Disease,Dent Disease,85
+Atopic Dermatitis,Dermatitis,74
+Thyroid Associated Opthalmopathies,Sepsis-Associated Encephalopathy,64
+Juvenile Idiopathic Arthritis,"Jaundice, Chronic Idiopathic",56
+Obsessive-Compulsive Disorder,Obsessive-Compulsive Disorder,100
+Hepatocellular Carcinoma,Teratocarcinoma,67
+Non-Alcoholic Steatohepatitis,Alcoholic Neuropathy,61
+Villitis of Unknown Etiology,Chronic Kidney Diseases of Uncertain Etiology,55
+Anterior Cruciate Ligament Tear,Anterior Cruciate Ligament,91
+Granulosa Cell Tumor,Granulosa Cell Tumor,100
+Facial Anomaly,Facial Asymmetry,67
+Dermatomyositis,Dermatomyositis,100
+Inclusion Body Myositis,Inclusion Bodies,72
+Necrotizing Myopathy,Nephrogenic Fibrosing Dermopathy,58
+Rett Syndrome,Rett Syndrome,100
+Pancreatic Neuroendocrine Tumor,Neuroendocrine Tumors,77
+Pre-Eclampsia,Pre-Eclampsia,100
+Rectal Cancer,Dental Care,67
+Non specific Myopathy,Sciatic Neuropathy,56
+Heart Failure,Heart Failure,100
+Metastatic Melanoma,Metastasectomy,61
+Retina Degeneration,Retinal Degeneration,97
+Head And Neck Cancer,Head and Neck Neoplasms,65
+Neurodevelopmental Disorder,Neurodevelopmental Disorders,98
+Chronic Myeloid Leukemia,Promyelocytic Leukemia Protein,59
+Progressive Chronic Myeloid Leukemia,Propionic Acidemia,56
+Metastatic Colorectal Cancer,Orthostatic Intolerance,59
+Juvenile Dermatomyositis,Dermatomyositis,77
+Chronic Obstructive Pulmonary Disease,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome,76
+Kawasaki Disease,Chagas Disease,73
+Sepsis,Sepsis,100
+Influenza,"Influenza, Human",72
+Multiple Sclerosis,Multiple Sclerosis,100
+Systemic-Onset Juvenile Idiopathic Arthritis,"Hyperostosis, Diffuse Idiopathic Skeletal",49
+Tuberculosis,Tuberculosis,100
+Progressive Colorectal Carcinoma,Progressive Patient Care,64
+High Grade Colorectal Adenoma,Adrenocortical Adenoma,63
+Rheumatoid Arthritis,Rheumatoid Vasculitis,73
+Osteoporosis,Osteoporosis,100
+Demyelination,Remyelination,92
+Kaposi Sarcoma,Liposarcoma,72
+Colon Tumor,Glomus Tumor,70
+T-Cell Prolymphocytic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,71
+Myelomeningocele,Meningocele,81
+Endometriosis,Endometriosis,100
+Premature Aging,Premature Birth,73
+Idiopathic Pulmonary Fibrosis,Idiopathic Pulmonary Fibrosis,100
+Non-Specific Interstitial Pneumonia,Idiopathic Interstitial Pneumonias,78
+Spinocerebellar Ataxia Type 12,Spinocerebellar Ataxias,83
+B-Cell Acute Lymphoblastic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,77
+Androgenetic Alopecia,Indoleacetic Acids,62
+Sebaceous Gland Carcinoma,Sebaceous Glands,73
+T-Cell Acute Lymphoblastic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,79
+Rhinitis,Rhinitis,100
+Asthma;Rhinitis,Rhinitis,70
+B-Cell Expansion With Nfkb And T-Cell Anergy,B-Cell Maturation Antigen,46
+Spinocerebellar Ataxia Type 10,Spinocerebellar Ataxias,83
+Fuchs Endothelial Corneal Dystrophy,Fuchs' Endothelial Dystrophy,86
+Ulcerative Colitis,Postoperative Complications,67
+Prediabetes,Primates,74
+Cystic Fibrosis,Cystic Fibrosis,100
+Liver Disease,Liver Diseases,96
+Pulmonary Infection,Pulmonary Infarction,92
+Acute Myeloid Leukemia (Aml-M2),Myeloid-Lymphoid Leukemia Protein,53
+Huntington's Disease,Huntington Disease,95
+Vascular Ehlers-Danlos Syndrome,Ehlers-Danlos Syndrome,83
+Henoch-Schonlein Purpura Nephritis,Lupus Nephritis,53
+Crohn's Disease,Crohn Disease,93
+Progressive Crohn's Disease,Crohn Disease,65
+Myositis,Myositis,100
+Spinal Muscular Atrophy,Muscular Atrophy,82
+Progressive Spinal Muscular Atrophy,Muscular Atrophy,63
+Primary Antiphospholipid Syndrome,Antiphospholipid Syndrome,86
+Peeling Skin Syndrome,Refeeding Syndrome,72
+Olfactory Neuroblastoma,Neuroblastoma,72
+Chronic Myelomonocytic Leukemia,Promyelocytic Leukemia Protein,66
+Colorectal Adenocarcinoma,Cystadenocarcinoma,74
+Cerebral Infarction,Cerebral Infarction,100
+Autism Spectrum Disorder,Autism Spectrum Disorder,100
+Whipple's Disease,Whipple Disease,94
+Sickle Cell Disease,Scleral Diseases,74
+Coeliac Disease,Celiac Disease,97
+Metastatic Head And Neck Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,66
+Microinvasive Breast Carcinoma,Breast Carcinoma In Situ,59
+Pancreatic Intraductal Papillary Mucinous Neoplasm,Pancreatic Intraductal Neoplasms,76
+Pancreatic Ductal Adenocarcinoma,Pancreatic Intraductal Neoplasms,66
+Myeloproliferative Neoplasm,Myeloproliferative Disorders,76
+Mast Cell Leukemia,Mast Cells,64
+Mast Cell Leukemia;Chronic Erythroblastic Leukemia,"Leukemia, Erythroblastic, Acute",62
+Embryonal Tumor With Multilayered Rosettes,Embryo Culture Techniques,48
+Basal Cell Carcinoma,Small Cell Lung Carcinoma,76
+Systemic Juvenile Idiopathic Arthritis,Systemic Vasculitis,53
+Gestational Diabetes Mellitus,Diabetes Mellitus,74
+Actinic Keratosis,Keratosis,69
+Lung Tumor,Krukenberg Tumor,69
+Rhinosinusitis,Rhinitis,73
+Colon Adenoma,Adenoma,70
+Colitis,Colitis,100
+Fragile X Syndrome,Fragile X Syndrome,100
+Muscular Dystrophy,Muscular Dystrophies,89
+Systemic Sclerosis [Scleroderma],Systemic Racism,55
+Glioblastoma,Glioblastoma,100
+Friedreich Ataxia,Friedreich Ataxia,100
+Stroke,Stroke,100
+Esophagitis,Esophagitis,100
+Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,100
+Duchenne Muscular Dystrophy,Muscular Dystrophies,72
+Chronic Colitis,Chronic Periodontitis,72
+Lymphoma,Lymphoma,100
+Eosinophilic Asthma,Eosinophilia,77
+Intracranial Aneurysm,Intracranial Aneurysm,100
+Myelofibrosis,Myofibromatosis,79
+Recessive Dystrophic Epidermolysis Bullosa,Epidermolysis Bullosa,67
+Cutaneous Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,78
+Medulloblastoma,Medulloblastoma,100
+Encephalomyelitis,Encephalomyelitis,100
+Recurrent Cholangiocarcinoma,Cholangiocarcinoma,78
+Follicular Lymphoma,Intraocular Lymphoma,77
+Myelodysplastic Syndrome,Myelodysplastic Syndromes,98
+Autosomal Recessive Congenital Ichthyosis,Leber Congenital Amaurosis,54
+Head And Neck Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,73
+Pulmonary Tuberculosis,Pulmonary Fibrosis,80
+Dissection of Aorta,"Dissection, Thoracic Aorta",80
+Wiskott-Aldrich Syndrome,Wiskott-Aldrich Syndrome,100
+Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,81
+Vasculitis,Vasculitis,100
+Glomerulosclerosis,Nephrosclerosis,73
+Membranous Nephropathy,Median Neuropathy,72
+Minimal Change Disease,Animal Diseases,70
+Early Inflammatory Arthritis,Macrophage Inflammatory Proteins,67
+Vestibular Schwannoma,Vestibular System,68
+Hutchinson-Gilford Progeria Syndrome,Muir-Torre Syndrome,58
+Infection Due To Toxoplasma Gondii,Intestinal Neoplasms,52
+Osteomyelitis,Osteomyelitis,100
+Ichthyosis,Ichthyosis,100
+Immune Reconstitution Inflammatory Syndrome,Immune Reconstitution Inflammatory Syndrome,100
+Bronchopulmonary Dysplasia,Bronchopulmonary Dysplasia,100
+Azoospermia,Azoospermia,100
+Intellectual Disability,Intellectual Disability,100
+Coronary Artery Disease,Coronary Artery Disease,100
+Acute Myocardial Infarction,Myocardial Infarction,88
+Acute Lung Injury,Acute Lung Injury,100
+Lymphoblastic Lymphoma,Plasmablastic Lymphoma,77
+Chronic Cutaneous Lupus Erythematosus,"Panniculitis, Lupus Erythematosus",74
+Subacute Cutaneous Lupus Erythematosus,"Panniculitis, Lupus Erythematosus",70
+Lupus Erythematosus,"Lupus Erythematosus, Discoid",81
+Pnsc-Derived Subcutaneous Tumors,Subcutaneous Tissue,59
+Temple Syndrome,Reye Syndrome,79
+Silver-Russell Syndrome,Silver-Russell Syndrome,100
+Gastric Tumor,Gastric Stump,77
+Meniere Disease,Meniere Disease,100
+Migraine,Maine,77
+Allergic Asthma,Allergists,72
+Mitral Valve Prolapse,Mitral Valve Prolapse,100
+Fibrosis; Liver,Fibrosis,70
+Idiopathic Pulmonary Fibrosis;Non-Specific Interstitial Pneumonia,Idiopathic Interstitial Pneumonias,67
+Frontotemporal Dementia,Frontotemporal Dementia,100
+Chronic Atrial And Intestinal Dysrhythmia,"Carotid Artery, Internal, Dissection",55
+Adolescent Idiopathic Scoliosis,Adolescent Mothers,61
+Ductal Carcinoma In Situ,Breast Carcinoma In Situ,79
+Obesity;Asthma,Obesity,67
+Ovarian Cancer,Ovarian Reserve,69
+Marfan Syndrome,Marfan Syndrome,100
+Sarcopenia,Sarcopenia,100
+Esophageal Small Cell Carcinoma,Esophageal Squamous Cell Carcinoma,86
+Familial Adenomatous Polyposis,Adenomatous Polyposis Coli,75
+Glioma,Glioma,100
+Secondary Glioma,Secondary Care,73
+Adenosquamous Carcinoma,Adenocarcinoma,70
+Polycythemia Vera,Polycythemia Vera,100
+Essential Thrombocythemia,Essential Tremor,68
+Hepatitis C,Hepatitis C,100
+Tuberculous Meningitis,"Tuberculosis, Meningeal",76
+Tuberous Sclerosis Complex,Tuberous Sclerosis Complex 1 Protein,84
+Mucopolysaccharidosis Type I,Mucopolysaccharidosis I,90
+Oligoarticular Juvenile Idiopathic Arthritis,Vascular Endothelial Growth Factors,48
+Polyarticular Juvenile Idiopathic Arthritis,"T-Lymphocytopenia, Idiopathic CD4-Positive",49
+Q Fever,Q Fever,100
+Keratoconus,Keratoconus,100
+Cachexia,Cachexia,100
+Lung Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,81
+Metabolic Syndrome,Metabolic Syndrome,100
+Brachial Plexus Lesions,Brachial Plexus,79
+Neuroblastoma,Neuroblastoma,100
+Lupus Nephritis,Lupus Nephritis,100
+Keratopathy,Naturopathy,73
+Central Centrifugal Cicatricial Alopecia,Central American People,54
+Cutaneous T Cell Lymphoma,Subcutaneous Emphysema,60
+Chronic Lymphocytic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,65
+Pulmonary Arterial Hypertension,Pulmonary Arterial Hypertension,100
+Malnutrition,Malnutrition,100
+Complete Hydatidiform Mole,Hydatidiform Mole,79
+Myotonic Dystrophy,Myotonic Dystrophy,100
+Type 2 Diabetes Mellitus,Diabetes Mellitus,83
+Focal Segmental Glomerulosclerosis,Intracranial Arteriosclerosis,54
+Schizophrenia,Schizophrenia,100
+IgA Nephropathy,Balkan Nephropathy,73
+Visceral Leishmaniasis,Leishmaniasis,74
+Kabuki Syndrome 1,Kounis Syndrome,75
+Uc - L Colitis,Colitis,67
+Uc - Pancolitis,Panniculitis,67
+Hypercholesterolemia,Hypercholesterolemia,100
+Posterior Polymorphous Corneal Dystrophy,Periodontal Atrophy,54
+Depression,Depression,100
+Idiopathic Dilated Cardiomyopathy,Diabetic Cardiomyopathies,66
+Metabolic Myopathy,Metabolic Syndrome,67
+Steatosis,Athetosis,78
+Acute Liver Inflammation,Inflammation,67
+Experimental Autoimmune Encephalomyelitis,Autoimmune Pancreatitis,59
+Axon Injury,Cold Injury,73
+Defective Skin Barrier Function,Executive Function,61
+HIV-1 Infection,HIV Infections,90
+Mitochondrial Myopathy; Encephalopathy; Lactic Acidosis; And Stroke-Like Episodes,Mitochondrial Encephalomyopathies,53
+Cutaneous Leishmaniasis,Leishmaniasis,72
+Hypertrophic Cardiomyopathy,Apical Hypertrophic Cardiomyopathy,89
+Intrahepatic Cholangiocarcinoma,Cholangiocarcinoma,73
+Primary Sjogren Syndrome,Sjogren's Syndrome,76
+Mitochondrial Abnormalities,Mitochondrial Myopathies,78
+Liver Tumor,Brenner Tumor,67
+Systemic Sclerosis With Lung Involvement,Subacute Sclerosing Panencephalitis,51
+Chagas Disease,Chagas Disease,100
+Mixed Lineage Leukemia,Friend murine leukemia virus,60
+Gne Myopathy,Enthesopathy,67
+West Nile Virus Infection,Pestivirus Infections,78
+Hidradenitis Suppurativa,Hidradenitis Suppurativa,100
+Pediatric Osteosarcoma,Osteosarcoma,71
+Acute Kidney Injury,Acute Kidney Injury,100
+Injury of Liver,Quality of Life,60
+Lymphatic Malformation 3,Lymphatic Irradiation,71
+Developmental Disability,Developmental Disabilities,92
+Williams Syndrome,Williams Syndrome,100
+Pure Total Flavonoids From Citrus,Peripheral Blood Stem Cells,50
+Respiratory Failure,Respiratory Rate,80
+Leprosy,Leprosy,100
+Pathological Retinal Angiogenesis,Neuro-Oncological Ventral Antigen,61
+Inflammatory Responses Driven By The High Fat Diet,Systemic Inflammatory Response Syndrome,54
+Lipomas,Lipoma,92
+Lung Injury,Lung Injury,100
+Lowe Syndrome,Down Syndrome,85
+Endometrial Cancer,Endometrial Hyperplasia,68
+Mitochondrial Myopathy,Mitochondrial Myopathies,91
+Abdominal Aortic Aneurysm,Aortic Aneurysm,75
+Kidney Disease,Kidney Diseases,97
+Inflammatory Bowel Disease,Inflammatory Bowel Diseases,98
+Acute Lymphoblastic Leukemia,Precursor Cell Lymphoblastic Leukemia-Lymphoma,70
+Cavernous Angioma With Symptomatic Hemorrhage,Basal Ganglia Hemorrhage,52
+Steatohepatitis,Steatitis,75
+Systemic Sclerosis,Systemic Racism,73
+Progressive Extrapyramidal Movement Disorder,Progressive Patient Care,59
+Chronic Fatigue Syndrome,Chilaiditi Syndrome,70
+Cockayne Syndrome,Cockayne Syndrome,100
+Angelman Syndrome,Angelman Syndrome,100
+Mammary Tumor,"Mammary Tumor Virus, Mouse",67
+Diffuse Cutaneous Systemic Sclerosis,Tuberous Sclerosis,56
+Hypertriglyceridemia,Hypertriglyceridemia,100
+Moyamoya Disease,Moyamoya Disease,100
+Damaged Optic Nerve,Optic Nerve,73
+Oral Leukoplakia,Leukoplakia,81
+Esophageal Adenocarcinoma,Nasopharyngeal Carcinoma,73
+AIPL1-Leber Congenital Amaurosis,Leber Congenital Amaurosis,90
+Allergic Contact Dermatitis,Digital Dermatitis,67
+Single Ventricle,Third Ventricle,71
+Tetralogy of Fallot,Tetralogy of Fallot,100
+Peripheral T-Cell Lymphoma,Enteropathy-Associated T-Cell Lymphoma,62
+Coronary Atherosclerosis,Atherosclerosis,77
+HTLV-1-Associated Myelopathy/Tropical Spastic Paraparesis,Tumor-Associated Macrophages,49
+Chronic Heart Failure,Heart Failure,76
+Tuberculosis Infection,Cross Infection,76
+Drug Hypersensitivity Syndrome,Drug Hypersensitivity Syndrome,100
+Myelodysplastic Syndromes,Myelodysplastic Syndromes,100
+Sickle Cell-Beta-Thalassemia Disease Syndrome,delta-Thalassemia,52
+Xeroderma Pigmentosum,Xeroderma Pigmentosum,100
+Brain Inflammation,Brain Infarction,82
+Bardet-Biedl Syndrome,Bardet-Biedl Syndrome,100
+Meckel Syndrome,Meige Syndrome,83
+Microcephaly,Microcephaly,100
+Fetal Alcohol Spectrum Disorder,Fetal Alcohol Spectrum Disorders,98
+Non-Small Cell Lung Cancer,Small Cell Lung Carcinoma,75
+Epilepsy,Epilepsy,100
+Autoimmune Polyendocrinopathy,Autoimmune Pancreatitis,65
+Dilated Cardiomyopathy With Ataxia,Diabetic Cardiomyopathies,64
+Alport Syndrome,Alstrom Syndrome,77
+Ankylosing Spondylitis,Spondylitis,67
+Bipolar Disorder,Bipolar Disorder,100
+Chronic Atrophic Gastritis,Chronic Urticaria,65
+Early Gastric Cancer,Early Detection of Cancer,67
+Gastric Metaplastic Polyp,Gastric Dilatation,60
+Synovitis,Synovitis,100
+Cholangiocarcinoma,Cholangiocarcinoma,100
+Baumannii Infection,Wound Infection,71
+Acute Megakaryoblastic Leukemia,"Leukemia, Megakaryoblastic, Acute",66
+Intestinal Graft Versus Host Disease,Graft vs Host Disease,70
+Sciatic Nerve Lesion,Sciatic Nerve,79
+Pemphigus,Pemphigus,100
+Age Related Macular Degeneration,Wet Macular Degeneration,82
+Persistent Polyclonal B-Cell Lymphocytosis,Persistent Organic Pollutants,51
+Acute-On-Chronic Liver Failure,Acute-On-Chronic Liver Failure,100
+Alcoholic Hepatitis,Alcoholic Neuropathy,72
+Rubinstein-Taybi Syndrome,Rubinstein-Taybi Syndrome,100
+Glioblastoma Multiforme,Glioblastoma,69
+Chronic Hepatitis,Chronic Periodontitis,74
+Non-Sjogren's sicca,Sjogren's Syndrome,54
+Aicardi Goutieres Syndrome,Aicardi Syndrome,76
+Colorectal Tumor,Colorectal Surgery,76
+Koolen De Vries Syndrome,Kounis Syndrome,72
+Ovarian Serous Carcinoma,Eccrine Porocarcinoma,62
+Myeloma,Myoma,83
+Ischemic Cardiomyopathy,Chagas Cardiomyopathy,73
+Myotonic Dystrophy Type 2,Myotonic Dystrophy,84
+Melasma,Melanoma,80
+Autoimmune Lymphoproliferative Syndrome,Autoimmune Lymphoproliferative Syndrome,100
+Nasopharyngeal Carcinoma,Nasopharyngeal Carcinoma,100
+Placenta Accreta Spectrum,Placenta Accreta,78
+Latent Autoimmune Diabetes In Adults,Latent Autoimmune Diabetes in Adults,97
+Intraabdominal Fibromatosis,Intra-Abdominal Fat,74
+Sjogren's Syndrome,Sjogren's Syndrome,100
+Melanoma In Situ,Carcinoma in Situ,73
+Hypoglycemia,Hypoglycemia,100
+Post Polycythaemia Vera Myelofibrosis,Polycythemia Vera,63
+Non-Functioning Pituitary Adenoma,ACTH-Secreting Pituitary Adenoma,74
+Familial Hypercholesterolemia,Homozygous Familial Hypercholesterolemia,84
+Erythroleukemia,Erythroplasia,71
+Sporadic Basal-Like Cancers,Surgical Clearance,53
+Typhoid Fever,Typhoid Fever,100
+Chronic Mucocutaneous Candidiasis,"Candidiasis, Chronic Mucocutaneous",63
+Anaplastic Thyroid Carcinoma,"Thyroid Carcinoma, Anaplastic",60
+Invasive Ductal Carcinoma,Invasive Fungal Infections,63
+Uterine Leiomyosarcoma,Leiomyosarcoma,78
+Uterine Leiomyoma,Leiomyoma,69
+Primary Leiomyosarcoma,Leiomyosarcoma,78
+Leiomyoma,Leiomyoma,100
+Primary Carcinoma,Primary Care Nursing,70
+Desmoid Fibromatosis,Hemochromatosis,69
+Extraskeletal Myxoid Chondrosarcoma,Chondrosarcoma,57
+Juvenile Myelomonocytic Leukemia,"Leukemia, Myelomonocytic, Juvenile",64
+Hypoxia,Hypoxia,100
+Juvenile Polymyositis,Polymyositis,73
+Childhood Onset,Child Abuse,62
+Thrombocytopenia,Thrombocytopenia,100
+Low-Grade Fibromyxoid Sarcoma,Leiomyosarcoma,60
+Tongue Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,84
+Placenta Accreta,Placenta Accreta,100
+Metastatic Prostate Cancer,Myelin Basic Protein,57
+Cryptorchidism,Cryptorchidism,100
+Myxofibrosarcoma,Myxosarcoma,81
+Severe Fever With Thrombocytopenia Syndrome Banyangvirus,Severe Fever with Thrombocytopenia Syndrome,85
+Burn-Mckeown Syndrome,Laurence-Moon Syndrome,74
+Autosomal Dominant Hyper-Ige Syndrome,Asperger Syndrome,59
+Solitary Fibrous Tumor,Solitary Fibrous Tumors,98
+Pancreatic Tumor,Pancreatic Ducts,75
+Adenocarcinoid Tumor,Adenomatoid Tumor,81
+Malaria,Malaria,100
+Unipolar Depression,Vascular Depression,74
+Cornelia De Lange Syndrome,De Lange Syndrome,79
+Relapsing-Remitting Multiple Sclerosis,Multiple Sclerosis,64
+Familial Danish Dementia,Capital Punishment,62
+Intervertebral Disc Degeneration,Intervertebral Disc Degeneration,100
+Adenoid Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,77
+Episodic Vestibular Syndrome With Hyperventilation-Induced Downbeat Nystagmus,"Paraneoplastic Syndromes, Nervous System",41
+Gestational Diabetes,Gestational Age,74
+Toxic Nephropathy,Toxic Optic Neuropathy,77
+Dementia With Lewy Bodies,Lewy Bodies,61
+C3 Glomerulopathy,Homeopathy,67
+Respiratory System Disease,Respiratory System,82
+Adult-Onset Still Disease,Acute Disease,63
+Hepatic Fibrosis,Cystic Fibrosis,77
+Metabolic Diseases,Metabolic Diseases,100
+Secondary Progressive Multiple Sclerosis,Multiple Sclerosis,62
+Spinal Cord Disorder,Spinal Cord Diseases,80
+Diabetic Gastroenteropathy,Diabetic Retinopathy,74
+Langerhans Cell Histiocytosis,Langerhans Cells,71
+Prenatal Stress,Prenatal Care,79
+Periodontitis,Periodontitis,100
+Aortic Valve Stenosis,Aortic Valve Stenosis,100
+Ataxia Telangiectasia,Ataxia Telangiectasia,100
+Lung Metastases,Lung Diseases,71
+Myxoid Subcutaneous Tumors,Subcutaneous Tissue,67
+Myeloid Leukemia,Leukemia,67
+Metastatic Cancer To The Breast,Breast Cancer Lymphedema,58
+Leigh Syndrome,Leriche Syndrome,87
+Chromophobe Renal Cell Carcinoma,Esophageal Squamous Cell Carcinoma,64
+Clear Cell Renal Cell Carcinoma,Small Cell Lung Carcinoma,64
+Papillary Renal Cell Carcinoma,Nasopharyngeal Carcinoma,67
+Nonallergic Asthma,Non-Neuronal Cholinergic System,61
+High Grade Intraepithelial Neoplasia,Prostatic Intraepithelial Neoplasia,76
+Metastatic Castration-Resistant Prostate Carcinoma,"Prostatic Neoplasms, Castration-Resistant",59
+Aortic Stenosis,Pyloric Stenosis,84
+Aortic Insufficiency,Aortic Valve Insufficiency,87
+Ovarian Cancer Stage I,American Cancer Society,62
+Uterine Endometriosis,Endometriosis,76
+Ovarian Endometriosis,Endometriosis,76
+Lung Carcinoid Tumor,Carcinoid Tumor,86
+Cervical Spondylosis With Myelopathy,Cerebral Amyloid Angiopathy,57
+Ossification of The Posterior Longitudinal Ligament of Spine,Ossification of Posterior Longitudinal Ligament,88
+Cognitive Impairment,Cognitive Science,70
+Keloid,Keloid,100
+Metastatic Uveal Melanoma,Mechanical Phenomena,58
+Major Depressive Disorder,Depressive Disorder,86
+Fever,Fever,100
+Peripheral Artery Disease,Peripheral Arterial Disease,92
+Plasmodium Falciparum Malaria,Plasmodium falciparum,80
+Ventilator-Induced Lung Injury,Ventilator-Induced Lung Injury,100
+Tuberculosis/Hyperglycaemia And Diabetes,Tuberculosis Societies,58
+Prostate Adenocarcinoma,Cystadenocarcinoma,78
+Psoriasis Vulgaris,Ichthyosis Vulgaris,70
+Pre-Eclampsia;Intrauterine Growth Restriction,Intrauterine Device Migration,54
+Intrauterine Growth Restriction,Intrauterine Device Migration,67
+Hepatitis B,Hepatitis B,100
+Liver Cirrhosis,Liver Cirrhosis,100
+Ataxia With Oculomotor Apraxia Type 1,Oculomotor Nerve,49
+Post-Traumatic Stress Disorder,Heat Stress Disorders,71
+Acne Inversa,Ankle Injuries,62
+Facioscapulohumeral Muscular Dystrophy,Autosomal Emery-Dreifuss Muscular Dystrophy,64
+Idiopathic Iga Nephopathy,Sciatic Neuropathy,65
+Renal Artery Stenosis,Renal Artery,73
+Plasma Cell Leukemia,Plasma Cells,69
+Werner Syndrome,Werner Syndrome,100
+Alexander Disease,Alexander Disease,100
+Acute Myeloblastic Leukemia,Precursor Cell Lymphoblastic Leukemia-Lymphoma,60
+Spondylocostal Dysostosis,Mandibulofacial Dysostosis,71
+Pyogenic Arthritis; Pyoderma Gangrenosum; And Acne Syndrome [Papa],Pyoderma Gangrenosum,47
+Thalassaemia,Thalassemia,96
+Kidney Injury,Acute Kidney Injury,81
+Extramammary Paget Disease,Pulmonary Heart Disease,61
+Papilloma,Papilloma,100
+Adrenomyeloneuropathy,Adrenoleukodystrophy,68
+Cerebral Adrenoleukodystrophy,Adrenoleukodystrophy,82
+Malignant Pleural Mesothelioma,Malignant Hyperthermia,65
+Classical Ehlers-Danlos Syndrome,Ehlers-Danlos Syndrome,81
+Tubulointerstitial Nephropathy,Tibial Neuropathy,64
+Alcohol Use Disorder,Alcohol Amnestic Disorder,80
+Allergic Rhinitis,Allergic Fungal Sinusitis,71
+Venous Thromboembolism,Venous Thromboembolism,100
+Granulomatosis With Polyangiitis,Granulomatosis with Polyangiitis,97
+Falciparum Malaria,Calcium Oxalate,61
+Discoid Lupus Erythematosus,"Panniculitis, Lupus Erythematosus",73
+Wilms Tumor; Aniridia; Genitourinary Anomalies; And Mental Retardation Syndrome,Persistent Fetal Circulation Syndrome,45
+Liver Steatosis,Liver Diseases,69
+Kindler Syndrome,Liddle Syndrome,84
+Primary Biliary Cholangitis,Primary Visual Cortex,58
+Primary Sclerosing Cholangitis,Pulmonary Sclerosing Hemangioma,69
+Psoriasis-Like Disease,Parasitic Diseases,70
+Cd46 Deficiency,Yin Deficiency,76
+Basal Cell Nevus Syndrome,Basal Cell Nevus Syndrome,100
+High-Grade Serous Ovarian Cancer,Ligand-Gated Ion Channels,49
+Severe Asthma,Asthma,63
+Classical Hodgkin Lymphoma,Plasmablastic Lymphoma,62
+Ulcer of Intestine,Intestines,64
+Granuloma Annulare,Granuloma Annulare,100
+Congenital Melanocytic Nevus,Congenital Abnormalities,65
+Methylmalonic Acidemia,Methylmalonic Acid,90
+Cervical Intraepithelial Neoplasia,Prostatic Intraepithelial Neoplasia,84
+Coronary Disease,Coronary Disease,100
+Heart Failure;Human Dilated Cardiomyopathy,"Heart Failure, Diastolic",55
+Hypoxic-Ischemic Encephalopathy,Hepatic Encephalopathy,72
+Epithelioid Trophoblastic Tumor,Epithelioid Cells,58
+Placental Site Trophoblastic Tumor,Placental Circulation,62
+Macroangiopathy,Macroautophagy,69
+Hemochromatosis,Hemochromatosis,100
+Renal Tumor,Adrenal Rest Tumor,69
+Trichothiodystrophy,Trichothiodystrophy Syndromes,79
+Congenital Heart Block,Heart Block,67
+Androgen Insensitivity Syndrome,Androgen-Insensitivity Syndrome,97
+Down Syndrome,Down Syndrome,100
+Acquired Immunodeficiency Syndrome,Acquired Immunodeficiency Syndrome,100
+Ischemic Stroke,Ischemic Stroke,100
+Constrictive Pericarditis,Contraceptive Devices,65
+S. Pneumoniae Infected,"Aneurysm, Infected",65
+Atopic Eczema,Eczema,63
+Seasonal Allergic Rhinitis,Allergic Fungal Sinusitis,59
+Acute Tonsillitis,Tonsillitis,79
+HBS1L Mutation,Mutation,73
+Steroid-Induced Osteonecrosis of The Femoral Head,Bisphosphonate-Associated Osteonecrosis of the Jaw,57
+Cirrhosis,Liver Cirrhosis,75
+Severe COVID-19,COVID-19,70
+Septic Shock,Peptichemio,61
+Systemic Inflammatory Response Syndrome,Systemic Inflammatory Response Syndrome,100
+Primary Myelofibrosis,Primary Myelofibrosis,100
+Generalized Pustular Psoriasis,Acute Generalized Exanthematous Pustulosis,61
+Cerebral Cavernous Malformation,Arteriovenous Malformations,72
+Gaucher Disease,Gaucher Disease,100
+Niemann-Pick Disease,Niemann-Pick Diseases,98
+Acne,Acer,75
+Autism,Mutism,83
+Complete Androgen Insensitivity Syndrome,Androgen-Insensitivity Syndrome,85
+Schistosomiasis,Schistosomiasis,100
+Nephrosclerosis,Nephrosclerosis,100
+Idiopathic Interstitial Pneumonia,Idiopathic Interstitial Pneumonias,99
+Progressive Sjogren's Syndrome,Sjogren's Syndrome,75
+Endometrioma,Endometrium,87
+Progressive Idiopathic Pulmonary Fibrosis,Idiopathic Pulmonary Fibrosis,83
+Endogenous Depression,Enzyme Repression,68
+Glaucoma,Glaucoma,100
+Hodgkin Lymphoma,Burkitt Lymphoma,69
+Sarcoidosis,Sarcoidosis,100
+Sotos Syndrome,Sotos Syndrome,100
+Epidermolysis Bullosa Simplex,Epidermolysis Bullosa Simplex,100
+Neurofibromatosis Type 1,Neurofibromatosis 1,88
+Global Developmental Delay,Moral Development,70
+Cerebral Palsy,Cerebral Palsy,100
+Leber Congenital Amaurosis,Leber Congenital Amaurosis,100
+Meningeal Tuberculosis,Latent Tuberculosis,73
+Idiopathic Pulmonary Arterial Hypertension,Pulmonary Arterial Hypertension,85
+Secondary Pulmonary Arterial Hypertension,Pulmonary Arterial Hypertension,86
+Scleroderma,Scleromyxedema,80
+Interstitial Lung Disease,Intestinal Diseases,77
+Adrenal Tumor,Adrenal Rest Tumor,84
+Respiratory Syncytial Virus (Rsv),Respiratory Syncytial Viruses,90
+HIV encephalitis,Encephalitis,79
+Aneurysm,Aneurysm,100
+Pompe Disease,Lyme Disease,80
+Niemann-Pick Disease Type C,"Niemann-Pick Disease, Type C",98
+Bacterial Pneumonia,Bacterial Load,73
+Influenza And Pneumonia,"Influenza, Human",67
+Bacterial pneumonia;influenza A pneumonia,Haemophilus parainfluenzae,51
+Inflammatory Myopathy,Inflammatory Breast Neoplasms,64
+Hereditary Gingival Fibromatosis,Peritoneal Fibrosis,63
+Tibial Muscular Dystrophy,Muscular Dystrophies,76
+Primary Open Angle Glaucoma,Low Tension Glaucoma,55
+Cryopyrin-Associated Periodic Syndromes,Cryopyrin-Associated Periodic Syndromes,100
+Pilocytic Astrocytoma,Astrocytoma,69
+Portal inflammation,Inflammation,71
+Familial Hypertrophic Cardiomyopathy,Apical Hypertrophic Cardiomyopathy,89
+Bk Viral Infection,Zika Virus Infection,79
+Bk Virus Nephropathy,Balkan Nephropathy,74
+Monoclonal Gammopathy of Undetermined Significance,Monoclonal Gammopathy of Undetermined Significance,100
+Smoldering Multiple Myeloma,Smoldering Multiple Myeloma,100
+Recurrent Thromboembolism,Venous Thromboembolism,77
+Polymyositis,Polymyositis,100
+Endometrium In Polycystic Ovary Syndrome,Polycystic Ovary Syndrome,77
+Iscu Myopathy,Radiculopathy,62
+Lewy Body Disease,Lewy Body Disease,100
+Seizure,Seizures,93
+Cach Syndrome,Crush Syndrome,81
+Wilson Disease,Weil Disease,85
+Chronic Myelogenous Leukemia,Chronobiology Phenomena,55
+Vulvar Intraepithelial Neoplasia,Prostatic Intraepithelial Neoplasia,81
+Chronic Idiopathic Urticaria,Chronic Urticaria,76
+Turner Syndrome,Turner Syndrome,100
+Intestinal Polyposis,Intestinal Polyposis,100
+Infantile Krabbe Disease,Cartilage Diseases,67
+Waldenstrom Macroglobulinemia,Waldenstrom Macroglobulinemia,100
+Teratozoospermia,Teratozoospermia,100
+Idiopathic Pulmonary Hypertension,Idiopathic Pulmonary Fibrosis,77
+Arterial Tortuosity Syndrome,Acute Aortic Syndrome,69
+Northern Epilepsy Syndrome,Netherton Syndrome,68
+Respiratory Syncytial Virus Infectious Disease,Respiratory Syncytial Virus Infections,88
+Adenomyosis,Adenomyosis,100
+Non ischemic cardiomyopathy,Diabetic Cardiomyopathies,65
+Acute Appendicitis,Appendicitis,80
+Adenoma,Adenoma,100
+Transverse Aortic Constriction,Vasoconstriction,65
+Right Ventricular Dysfunction,Ventricular Dysfunction,88
+Cleft Lip/Palate,Cleft Palate,86
+Vitiligo,Vitiligo,100
+Bladder Urothelial Carcinoma,Adrenocortical Carcinoma,65
+Familial Combined Hyperlipidemia,Hyperlipidemias,60
+Uterine Fibroid,Peritoneal Fibrosis,71
+Prostate Tumor,Prostate,73
+Cardiac Dysfunction,Vocal Cord Dysfunction,73
+Williams-Beuren Syndrome,Williams Syndrome,83
+Autoimmune Hepatitis,Autoimmune Pancreatitis,84
+Poikiloderma With Neutropenia,Febrile Neutropenia,62
+Lethal Congenital Contracture Syndrome,Congenital Bone Marrow Failure Syndromes,69
+Atopic Asthma,Asthma,63
+Nemaline Myopathy,Small Fiber Neuropathy,62
+Myocarditis,Myocarditis,100
+Succinic Semialdehyde Dehydrogenase Deficiency,Succinate-Semialdehyde Dehydrogenase,78
+Adenomatous Polyposis Coli,Adenomatous Polyposis Coli,100
+Barrett's Esophagus,Barrett Esophagus,94
+Pancreatic Intraductal Papillary-Mucinous Adenoma,Pancreatic Intraductal Neoplasms,69
+Intraductal Papillary Adenocarcinoma,Cardiac Papillary Fibroelastoma,57
+Pancreatic Intraductal Papillary-Mucinous Neoplasm,Pancreatic Intraductal Neoplasms,76
+X-Linked Chronic Granulomatous Disease,"Granulomatous Disease, Chronic",62
+Mitochondrial Encephalomyopathies,Mitochondrial Encephalomyopathies,100
+Juvenile Spondyloarthropathy,Spondylarthropathies,71
+Juvenile Rheumatoid Arthritis,Rheumatoid Vasculitis,60
+Mental Depression,Depression,74
+Caries,Canaries,86
+Testicular Seminoma,Testicular Diseases,68
+Papillary Thyroid Carcinoma,"Thyroid Carcinoma, Anaplastic",61
+Discoid Lupus Rash,Discoidins,57
+Severe Acute Respiratory Syndrome,Severe Acute Respiratory Syndrome,100
+Progressive Myoclonus Epilepsy,Drug Resistant Epilepsy,57
+Salivary Gland Adenoid Cystic Carcinoma,Salivary Gland Fistula,62
+Idiopathic Thrombocytopenic Purpura,"Purpura, Thrombocytopenic",63
+Congenital Merosin-Deficient Muscular Dystrophy 1A,Autosomal Emery-Dreifuss Muscular Dystrophy,62
+Idiopathic Fibrosing Alveolitis,Idiopathic Pulmonary Fibrosis,63
+Peripheral Neuropathy,Femoral Neuropathy,77
+Peritonitis;Sepsis,Peritonitis,76
+Astrocytoma,Astrocytoma,100
+Oligodendroglioma,Oligodendroglioma,100
+Prolactinoma,Prolactinoma,100
+Hypersensitivity Pneumonitis,Hypersensitivity,73
+Oral Mucosa Leukoplakia,Leukoplakia,65
+X-Linked Dystonia Disorders Parkinsonism,Dystonic Disorders,59
+Invasive Ductal Breast Carcinoma,Breast Carcinoma In Situ,57
+Retinoschisis,Retinoschisis,100
+Thymic Carcinoma,Carcinoma,72
+Rift Valley Fever,Rift Valley Fever,100
+Hypertension,Hypertension,100
+Diamond-Blackfan Anemia,"Anemia, Diamond-Blackfan",68
+Tendinopathy,Tendinopathy,100
+Dent Disease,Dent Disease,100
+Idiopathic Myelofibrosis,Idiopathic Pulmonary Fibrosis,72
+Aldosterone-Producing Adenoma,Menstruation-Inducing Agents,56
+Esophagus Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,93
+Primary Pulmonary Hypoplasia,Familial Primary Pulmonary Hypertension,69
+Papillary Thyroid Cancer,Capillary Resistance,64
+Liver Dysplasia,Dentin Dysplasia,71
+Progressive Hepatocellular Carcinoma,Progressive Patient Care,63
+High Grade Liver Dysplasia,Uterine Cervical Dysplasia,58
+Pulmonary Sarcoidosis,Pulmonary Fibrosis,77
+Setleis Syndrome,Meigs Syndrome,80
+Emphysema,Emphysema,100
+Spinal Muscular Atrophy With Respiratory Distress Type 1,Spinal Muscular Atrophies of Childhood,57
+Invasive Lobular Carcinoma,Nasopharyngeal Carcinoma,60
+Large Granular Lymphocytic Leukemia,"Leukemia, Large Granular Lymphocytic",73
+Macular Degeneration,Macular Degeneration,100
+Serous Cystadenocarcinoma,Cystadenocarcinoma,84
+Idiopathic Hemorrhagic Thrombocythemia,Idiopathic Hypersomnia,60
+Congestive Heart Failure,Heart Failure,70
+Skin Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,77
+Early Pregnancy Loss,Pregnancy Tests,69
+Microinvasive Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,76
+Squamous Intraepithelial Lesion,Squamous Intraepithelial Lesions,98
+Dyt1 Dystonia Disorders,Dystonic Disorders,83
+Spondyloarthropathy,Spondylarthropathies,87
+Autosomal Dominant Macrothrombocytopenia,Thrombocytopenia,54
+Impulse Control Disorder,Compulsive Personality Disorder,69
+Pediatric Crohn's Disease,Crohn Disease,68
+Pediatric Ulcerative Colitis,Pediatric Nurse Practitioners,63
+Acute Hepatitis,Hepatitis,75
+Rheumatic Disease,Rheumatic Diseases,97
+AL Amyloidosis,Amyloidosis,88
+Alcoholic Cirrhosis,Alcoholics,69
+Aplastic Anemia,Aspartic Acid,64
+Astroblastoma,Osteoblastoma,85
+Autosomal Dominant Retinitis Pigmentosa,Retinitis Pigmentosa,68
+Behcet's Disease,Bowen's Disease,77
+Brain Tumor,Brenner Tumor,75
+Bronchial Asthma,Bronchial Fistula,79
+Cancer,Chancre,77
+Candidemia,Candidemia,100
+Cortical Hyperostosis With Syndactyly,Acquired Hyperostosis Syndrome,57
+Bacterial Infection,Bacterial Infections,97
+"Arthritis, Collagen-Induced","Akathisia, Drug-Induced",64
+Common Variable Immunodeficiency,Common Variable Immunodeficiency,100
+Viral Infection,Vibrio Infections,81
+Lymphedema,Lymphedema,100
+Breast Adenocarcinoma,Adenocarcinoma,80
+C4 Deficiency,Yin Deficiency,81
+Cyfip2 Deficiency,Yin Deficiency,77
+Degenerative Intervertebral Discs,Intervertebral Disc,73
+Developmental Dysplasia of The Hip,Developmental Dysplasia of the Hip,97
+Prostate Carcinoma,Prostatectomy,71
+Dupuytren's Disease,Bowen's Disease,71
+Dyslipidemia,Dyslipidemias,96
+Esophageal Cancer,Esophageal Cyst,75
+Sebaceous of Jadassohn Nevus,"Nevus, Sebaceous of Jadassohn",77
+Familial Mediterranean Fever,Familial Mediterranean Fever,100
+Focal Cortical Dysplasia,Focal Cortical Dysplasia,100
+Gastroenteritis,Gastroenteritis,100
+Gata2 Deficiency,GATA2 Deficiency,81
+Gingivitis,Gingivitis,100
+Gram-Negative Sepsis,Gram-Negative Bacteria,76
+Gulf War Illness,Gulf War,67
+Hydrosalpinx (Disease),Brain Diseases,67
+Hyperhomocysteinemia,Hyperhomocysteinemia,100
+Hypothyroidism,Hypothyroidism,100
+Idiopathic Intracranial Hypertension,Intracranial Hypertension,82
+Spinocerebellar Ataxia Type 2,Spinocerebellar Ataxias,85
+Hyperlactatemia,Hyperlactatemia,100
+Cerebral Malaria,Cerebral Palsy,73
+Retinitis Pigmentosa,Retinitis Pigmentosa,100
+Intraductal Papillary Neoplasm,Pancreatic Intraductal Neoplasms,65
+Invasive Aspergillosis,Invasive Pulmonary Aspergillosis,81
+IPF Alveolar Septae,Alveolata,64
+IPF Fibrobalst Foci,Fibroblasts,60
+Irritable Bowel Syndrome,Irritable Bowel Syndrome,100
+Cardiac Hypertrophy,Hypertrophy,73
+Ketosis-Prone Diabetes (Mellitus),Diabetes Mellitus,68
+Late-Onset Form of Familial Alzheimer Disease,Alzheimer Disease,55
+Leptospirosis,Leptospirosis,100
+Klinefelter Syndrome,Klinefelter Syndrome,100
+Localized Scleroderma,Scleromyxedema,57
+African Trypanosomiasis,Trypanosomiasis,79
+Spinocerebellar Ataxia Type 1,Spinocerebellar Ataxias,85
+Hereditary Spastic Paraplegia 3A,"Spastic Paraplegia, Hereditary",61
+Neonatal-Onset Multisystem Inflammatory Disease,Pelvic Inflammatory Disease,65
+Mycosis Fungoides,Mycosis Fungoides,100
+Neuropathy In Association With Hereditary Ataxia,"Nephritis, Hereditary",49
+Memory Dysfunction,Primary Graft Dysfunction,70
+Opioid Use Disorder; Severe,Opioid-Related Disorders,63
+Fungal Keratitis,Keratitis,72
+Restrictive Respiratory Disease,Bovine Respiratory Disease Complex,68
+Peanut Allergy,Peanut Oil,67
+Food Allergy,Food Security,64
+Pfapa Syndrome,Caplan Syndrome,83
+Porto-sinusoidal vascular disease,Peripheral Vascular Diseases,66
+Post–Polycythemia Vera Myelofibrosis,Polycythemia Vera,64
+Post-Infection Irritable Bowel Syndrome,Irritable Bowel Syndrome,76
+Neurocognitive Disorders,Neurocognitive Disorders,100
+Post-Traumatic Osteoarthritis Nos,Post-Traumatic Headache,64
+Prostatic Intraepithelial Neoplasia,Prostatic Intraepithelial Neoplasia,100
+Protein C Deficiency,Protein C Deficiency,100
+7Q11.23 Microduplication Syndrome,Exfoliation Syndrome,64
+Pregnancy Loss,Pregnancy Tests,83
+Reproductive And Metabolic Disorders,Iron Metabolism Disorders,72
+Retinal Pigment Epithelium,Retinal Pigment Epithelium,100
+Scleroderma-Associated Interstitial Lung Disease,Death-Associated Protein Kinases,55
+Severe Fever With Thrombocytopenia Syndrome,Severe Fever with Thrombocytopenia Syndrome,98
+Kallmann Syndrome,Kallmann Syndrome,100
+Peripartum Cardiomyopathy,Takotsubo Cardiomyopathy,73
+Skin Inflammation,Inflammation,83
+Spinocerebellar Ataxia Type 3,Spinocerebellar Ataxias,85
+STK4 Deficiency,GATA2 Deficiency,77
+Stomach Cancer,Stomach Ulcer,81
+Tauopathy,Naturopathy,80
+Cervical Adenocarcinoma,Adenocarcinoma,76
+Timothy Syndrome,Trisomy 13 Syndrome,74
+Tnf Receptor-Associated Periodic Fever Syndrome (Traps),Cryopyrin-Associated Periodic Syndromes,66
+Low-Grade Glioma,Granuloma,56
+Unexplained Infertility,Plant Infertility,75
+Villous Atrophy,Muscular Atrophy,65
+Vogt-Koyanagi-Harada Disease,Tangier Disease,60
+Smoldering Myeloma,Smoldering Multiple Myeloma,80
+Gastric Adenocarcinoma,Adenocarcinoma,78
+Severe Congenital Neutropenia,Leber Congenital Amaurosis,69
+Nijmegen Breakage Syndrome,Nijmegen Breakage Syndrome,100
+Tumors of The Central Nervous System,Central Nervous System,76
+Central Nervous System Tumor,Central Nervous System,88
+Extracranial Solid Tumor,Intracranial Embolism,67
+Brain Metastatic,Brain Death,67
+Bone Metastases,Bone Diseases,71
+Metastatic Colon Carcinoma,Adrenocortical Carcinoma,60
+X-Linked Juvenile Retinoschisis 1,Retinoschisis,57
+Urothelial Carcinoma of The Urinary Bladder,Squamous Cell Carcinoma of Head and Neck,55
+Severe Combined Immunodeficiency,Severe Combined Immunodeficiency,100
+Invasive Breast Carcinoma,Breast Carcinoma In Situ,65
+Myeloid Leukemia Associated With Down Syndrome,Meconium Aspiration Syndrome,65
+Orofacial Cleft,Social Defeat,64
+Lymphangioleiomyomatosis,Lymphangioleiomyomatosis,100
+Chronic Liver Disease,Chronic Disease,83
+Cushing Syndrome,Cushing Syndrome,100
+Diffuse Large B-Cell Lymphoma,B-Cell Lymphoma 3 Protein,56
+Facioscapulohumeral Dystrophy,Muscular Dystrophies,57
+Urothelial Carcinoma,Adrenocortical Carcinoma,73
+Invasive Lung Mucinous Adenocarcinoma,Adenocarcinoma,55
+Malignant Peripheral Nerve Sheath Tumor,Peripheral Nervous System,59
+Diarrhea,Diarrhea,100
+Multiple Endocrine Neoplasia Syndrome,Multiple Endocrine Neoplasia,86
+Very Low Birth Weight,"Infant, Very Low Birth Weight",84
+Cutaneous Lupus Erythematosus,"Panniculitis, Lupus Erythematosus",77
+Polycythemia Due To High Altitude,Polycythemia Vera,56
+Renal Cysts,Renal Dialysis,72
+Autoimmune Polyendocrinopathy Syndrome,Autoimmune Lymphoproliferative Syndrome,68
+Chronic Pancreatitis,Pancreatitis,75
+Metastatic Pancreatic Ductal Adenocarcinoma,Pancreatic Intraductal Neoplasms,56
+Kufs Disease,Anus Diseases,80
+Respiratory Distress Syndrome,Respiratory Distress Syndrome,100
+Resistance To Thyroid Hormone,"Receptors, Thyroid Hormone",76
+Cutaneous Melanoma,Cutaneous Fistula,69
+Inclusion Body Myopathy; Sporadic,Occlusion Body Matrix Proteins,60
+Osteosarcoma,Osteosarcoma,100
+Dystonia Disorders Disorders,Dystonic Disorders,74
+Cleft Palate,Cleft Palate,100
+Guillain-Barre Syndrome,Guillain-Barre Syndrome,100
+Congenital Lipoid Adrenal Hyperplasia,Dental Enamel Hypoplasia,62
+5Q-Syndrome,Syndrome,84
+Epithelial Ovarian Cancer,Epithelial Cells,63
+Atrial Fibrillation,Atrial Fibrillation,100
+High Grade Glioblastoma,Glioblastoma,69
+Shwachman-Diamond Syndrome,Shwachman-Diamond Syndrome,100
+Diabetes;Heart Malformation,Vascular Malformations,69
+Germ Cell Tumor,Sertoli Cell Tumor,79
+Subsyndromal Symptomatic Depression,Long-Term Synaptic Depression,66
+Progressive Osteoarthritis,Osteoarthritis,70
+Hypertrophic Obstructive Cardiomyopathy,Apical Hypertrophic Cardiomyopathy,74
+Autosomal Dominant Polycystic Kidney Disease,Polycystic Kidney Diseases,71
+H1N1 Influenza,"Influenza, Human",60
+Cutaneous Sarcoidosis,Sarcoidosis,69
+Acute Quadriplegic Myopathy,Acute Febrile Encephalopathy,62
+Becker Muscular Dystrophy,Muscular Dystrophies,76
+Emery-Dreifuss Muscular Dystrophy,X-Linked Emery-Dreifuss Muscular Dystrophy,88
+Hereditary Spastic Paraplegia,"Spastic Paraplegia, Hereditary",61
+Limb-Girdle Muscular Dystrophy Type 2B,Muscular Dystrophies,62
+Anencephaly;Spina Bifida,Anencephaly,63
+Spina Bifida,Spina Bifida Occulta,75
+Acute Myeloid Leukemia With Multilineage Dysplasia,T-Cell Acute Lymphocytic Leukemia Protein 1,49
+Mecp2 Duplication Or Triplication Syndrome,Meconium Aspiration Syndrome,60
+T-Cell Leukemia,Leukemia,70
+Mammary Carcinoma,Carcinoma,69
+Coenzyme Q10 Deficiency,Protein S Deficiency,70
+Peri-Implantitis,Peri-Implantitis,100
+Gastrointestinal Cancer,Gastrointestinal Tract,84
+Multiple System Atrophy,Multiple System Atrophy,100
+Progressive Supranuclear Palsy,Progressive Patient Care,59
+Angina,Aging,73
+Neurogenic Inflammation,Neurogenic Inflammation,100
+Neurocytoma,Neurocytoma,100
+Pineocytoma,Pinocytosis,73
+AIDS Dementia,Dementia,76
+Inflammation,Inflammation,100
+Polycystic Lipomembranous Osteodysplasia With Sclerosing Leukoencephalopathy 1,Posterior Leukoencephalopathy Syndrome,48
+Spinocerebellar Ataxia Type 7,Spinocerebellar Ataxias,85
+Epidermolysis Bullosa Simplex With Mottled Pigmentation,Epidermolysis Bullosa Simplex,69
+Thrombotic Thrombocytopenic Purpura,"Purpura, Thrombotic Thrombocytopenic",76
+Hepatitis E,Hepatitis E,100
+Severe Blunt Trauma,Sexual Trauma,62
+Chronic Rhinosinusitis,Chronic Periodontitis,65
+Ischemia,Ischemia,100
+Burn,Burns,89
+Uremia,Uremia,100
+Aphthous Stomatitis,Stomatitis,69
+Atherosclerosis;Systemic Lupus Erythematosus,"Panniculitis, Lupus Erythematosus",60
+Hypertensive Nephropathy,Hypertensive Encephalopathy,86
+Chronic Cholangitis,Cholangitis,73
+Pulmonary Fibrosis,Pulmonary Fibrosis,100
+Renal Fibrosis,Peritoneal Fibrosis,79
+Dysphasia,Dyspepsia,78
+Tropical Spastic Paraparesis,Neoplastic Processes,58
+Oral Lichen Planus,Lichen Planus,84
+Chronic Infantile Neurological Cutaneous And Articular Syndrome,Chronic Exertional Compartment Syndrome,53
+Loeys-Dietz Syndrome,Loeys-Dietz Syndrome,100
+Endotoxemia,Endotoxemia,100
+Tumor,Tremor,73
+Arthritis,Arthritis,100
+Arteriovenous Fistula,Arteriovenous Fistula,100
+Chuvash Polycythemia,Polycythemia,75
+Hoil1 Deficiency,Yin Deficiency,80
+Deficiency Disease,Deficiency Diseases,97
+Muckle-Wells Syndrome,Mallory-Weiss Syndrome,70
+IgG4-Related Disease,Immunoglobulin G4-Related Disease,75
+Bacterial Meningitis,Bacterial Proteins,74
+Sicca,Pica,67
+Usual Interstitial Pneumonia,Idiopathic Interstitial Pneumonias,77
+Spondylitis,Spondylitis,100
+Heart Failure With Preserved Ejection Fraction,Fertility Preservation,56
+Autoimmune Pulmonary Alveolar Proteinosis,Pulmonary Alveolar Proteinosis,85
+Aromatic L-Amino Acid Decarboxylase Deficiency,Aromatic-L-Amino-Acid Decarboxylases,80
+Primary Immunoglobulin A Nephropathy (Disorder),"Immunoglobulin A, Secretory",59
+Ciliopathy,Ciliopathies,82
+Gestational Hypertension,Essential Hypertension,78
+Diabetes Mellitus,Diabetes Mellitus,100
+Myocardial Disease,Mitochondrial Diseases,75
+Hemorrhoids,Hemorrhoids,100
+Obstructive Lung Disease,Lung Diseases,65
+Stroke-Like Episodes,"Strikes, Employee",59
+Blister,Blister,100
+Alveolar Rhabdomyosarcoma,Rhabdomyosarcoma,78
+Erythema Migrans,Erythema Chronicum Migrans,76
+Cdags Syndrome,Capgras Syndrome,87
+End-Stage Renal Disease,End Stage Liver Disease,78
+Descending Thoracic Aorta Aneurysm,Descending Thoracic Aortic Aneurysm,96
+Dilated Cardiomyopathy;Heart Failure,"Cardiomyopathy, Hypertrophic, Familial",62
+H Syndrome,Syndrome,89
+Autoinflammatory Disease,Neuroinflammatory Diseases,88
+Tnf Receptor-Associated Periodic Syndrome (Traps),Cryopyrin-Associated Periodic Syndromes,70
+Sepsis/Inflammation,Inflammation,77
+Pterygium,Pterygium,100
+Cerebrovascular Disorders,Cerebrovascular Disorders,100
+Ureteral Obstruction,Ureteral Obstruction,100
+Devastating Woree Syndrome,Wasting Syndrome,71
+Motor Deficit,Myotoxicity,67
+Nephropathy,Nephrotomy,76
+Lewis Lung Carcinoma,Small Cell Lung Carcinoma,71
+Intellectual Developmental Disorder With Cardiac Arrhythmia,Language Development Disorders,54
+Pulmonary Atresia With Intact Ventricular Septum,Ventricular Septum,55
+Acute Ischemic Heart Disease,Rheumatic Heart Disease,75
+Female Infertility,Infertility,76
+Secretory Breast Carcinoma,Breast Carcinoma In Situ,64
+Mandibulofacial Dysostosis-Microcephaly Syndrome,Mandibulofacial Dysostosis,70
+Diabetic Retinopathy,Diabetic Retinopathy,100
+Chronic Graft-Versus-Host Disease,Graft vs Host Disease,67
+Pneumocystis Pneumonia,Pneumocystis Infections,76
+Coccidiosis Granuloma,Coccidiosis,69
+Tuberculosis Granuloma,"Tuberculosis, Oral",80
+Thymic Lymphoma,Lymphoma,70
+Bile Duct Paucity,Bile Ducts,67
+Herpes Simplex Virus Encephalitis,Herpes Simplex Virus Vaccines,77
+Acute Graft Versus Host Disease,Graft vs Host Disease,77
+Tumor of Fallopian Tube,Fallopian Tubes,74
+Pharyngitis,Pharyngitis,100
+Myotonic Dystrophy 1,Myotonic Dystrophy,95
+Diet-Induced Obese  Non-Alcoholic Steatohepatitis ,Opioid-Induced Constipation,44
+Global Glomerulosclerosis,Zona Glomerulosa,63
+Mucinous Carcinoma,Carcinoma,67
+Rhabdomyosarcoma,Rhabdomyosarcoma,100
+Striated Muscle Laminopathies,Synucleinopathies,65
+Hemorrhagic Fever With Renal Syndrome,Hemorrhagic Fever with Renal Syndrome,97
+CTBP1 Mutations,Mutation,70
+Collagenous Colitis,Collagenous Sprue,67
+Glycogen Storage Disease,Glycogen Storage Disease,100
+Type I Tyrosinemia,Tyrosinemias,73
+Pitt-Hopkins Syndrome,Sick Sinus Syndrome,70
+Environmental Enteric Dysfunction,Gene-Environment Interaction,69
+Graft Versus Host Disease,Graft vs Host Disease,87
+Hyperplastic Polyp,Hyperplasia,69
+Ductal Breast Carcinoma,Breast Carcinoma In Situ,68
+Adrenocortical Adenoma,Adrenocortical Adenoma,100
+Adrenocortical Carcinoma,Adrenocortical Carcinoma,100
+Liver Metastatic,Liver Transplantation,65
+Pleomorphic Adenoma Carcinoma,Adenocarcinoma,60
+High Grade Serous Carcinoma,Esophageal Squamous Cell Carcinoma,56
+Clear Cell Sarcoma of The Kidney,Squamous Cell Carcinoma of Head and Neck,58
+Collecting Duct Carcinoma,Cholangiocarcinoma,65
+Renal Lipoma,Lipoma,67
+Renal Oncocytoma,Neurocytoma,59
+Acute Decompensation,Oocyte Donation,69
+Rhabdoid Tumor of The Kidney,Rhabdoid Tumor,67
+Wilms Tumor,Wilms Tumor,100
+TAB2 haploinsufficiency,Haploinsufficiency,83
+"Hepatitis C, Chronic","Hepatitis C, Chronic",100
+Latent Tuberculosis,Latent Tuberculosis,100
+Vaginal Atrophy,Periodontal Atrophy,71
+Odontogenic Keratocysts of The Jaw,Odontogenic Cysts,63
+Odontogenic Keratocyst,Odontogenic Cysts,77
+Cardiovascular Disease,Cardiovascular Diseases,98
+Ewing Sarcoma,Sarcoma,70
+Ossification of Ligamentun Flavum(Olf),Ligamentum Flavum,58
+Chilblains,Chilblains,100
+Adult Onset Asthma,"Adjuvants, Anesthesia",56
+Idiopathic Environmental Intolerance,Environmental Indicators,63
+Septicemia,Peptichemio,76
+Ruptured Aneurysm,Heart Aneurysm,65
+Non-Erosive Reflux Disease,Nose Diseases,62
+Particulate Matter,Particulate Matter,100
+B-Cell Pediatric Acute Lymphoblastic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,68
+Clinically Isolated Syndrome,Central Cord Syndrome,65
+Bronchoconstriction,Bronchoconstriction,100
+Echinococcosis,Echinococcosis,100
+Multidrug-Resistant Tuberculosis,Extensively Drug-Resistant Tuberculosis,76
+Drug-Sensitive Tuberculosis(Ds-Tb),Extensively Drug-Resistant Tuberculosis,60
+Recurrent Implantation Failure,Dental Implantation,65
+Icf Syndrome,Isaacs Syndrome,81
+Immune Dysregulation,Immunomodulation,67
+Sandhoff Disease,Sandhoff Disease,100
+Tay-Sachs Disease,Tay-Sachs Disease,100
+Tay-Sachs Disease; Juvenile,Tay-Sachs Disease,77
+Smith-Lemli-Opitz Syndrome,Smith-Lemli-Opitz Syndrome,100
+Biliary Atresia,Biliary Atresia,100
+Trichohepatoenteric Syndrome 2,Anticholinergic Syndrome,67
+Trigeminal Neuralgia,Trigeminal Neuralgia,100
+Transposition of The Great Arteries,Transposition of Great Vessels,77
+Radiologically Isolated Syndrom,Radiology Information Systems,60
+Non-Bacterial Osteomyelitis,Osteomyelitis,65
+High Grade Ovarian Serous Carcinoma,Mammary Analogue Secretory Carcinoma,54
+Wegener's Granulomatosis,Farber Lipogranulomatosis,65
+Chronic Thromboembolic Pulmonary Hypertension,Familial Primary Pulmonary Hypertension,62
+Metabolic Ectopic Mineralization Disorder Pseudoxanthoma Elsaticum,Pseudoxanthoma Elasticum,51
+Subretinal Fibrosis,Subretinal Fluid,74
+Nedamss Syndrome,Nelson Syndrome,77
+Nasu-Hakola Disease,Vascular Diseases,72
+Neurotoxoplasmosis,Toxoplasmosis,77
+Aortic Dissection,Aortic Dissection,100
+Non-Obstructive Azoospermia,Asthenozoospermia,59
+Periodontal Ehlers-Danlos Syndrome,Ehlers-Danlos Syndrome,79
+Primary Progressive Multiple Sclerosis,Primary Progressive Nonfluent Aphasia,67
+Large Artery Atherosclerotic Stroke,"Plaque, Atherosclerotic",62
+B-Cell Chronic Lymphocytic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,72
+Bloom Syndrome,Bloom Syndrome,100
+Infant Acute Respiratory Distress Syndrome,Respiratory Distress Syndrome,82
+Acromegaly,Acromegaly,100
+Disrupted-In-Schizophrenia-1,Schizophrenia,63
+Hepatosplenic T-Cell Lymphoma,Enteropathy-Associated T-Cell Lymphoma,66
+Measles,Measles,100
+Infectious Keratitis,Infectious Encephalitis,79
+Monosomy 21,Monosomy,84
+Frontal Fibrosing Alopecia,Nephrogenic Fibrosing Dermopathy,59
+Lichen Planopilaris,Lichen Planus,75
+Kashin-Beck Disease,Kashin-Beck Disease,100
+Small Cell Lung Cancer,Small Cell Lung Carcinoma,81
+Multiple Organ Failure,Multiple Organ Failure,100
+Proliferative Diabetic Retinopathy,Diabetic Retinopathy,74
+Chronic Rejection of Renal Transplant,Corneal Transplantation,57
+Acute Coronary Syndrome,Acute Coronary Syndrome,100
+Ataxia-Telangiectasia,Ataxia Telangiectasia,95
+Chronic Periodontitis,Chronic Periodontitis,100
+Blastic Plasmacytoid Dendritic Cell Neoplasm (Bpdcn),Blastocyst Inner Cell Mass,49
+Tuberous Sclerosis,Tuberous Sclerosis,100
+Optic Neuritis,Optic Neuritis,100
+St Segment Elevation Myocardial Infarction,ST Elevation Myocardial Infarction,87
+Liposarcoma,Liposarcoma,100
+Patau Syndrome,Proteus Syndrome,80
+Edwards Syndrome,Capgras Syndrome,75
+7Q31 Microdeletion Syndrome,22q11 Deletion Syndrome,72
+Mitral Regurgitation,Maternal Deprivation,70
+Lyme Disease,Lyme Disease,100
+Left Ventricular Noncompaction,Ventricular Function,72
+Osteoarthritis of Knee,"Osteoarthritis, Knee",90
+Peripheral T-Cell Lymphoma; Not Otherwise Specified,B-Cell Lymphoma 3 Protein,50
+Giant Cell Arteritis,Giant Cell Arteritis,100
+Metastatic Lung Cancer,Orthostatic Intolerance,58
+Severe Cognitive Disability And Early Dementia,Severe Acute Respiratory Syndrome,51
+Cognitive Dysfunction,Cognitive Dysfunction,100
+CHOPS Syndrome,POEMS Syndrome,79
+Tongue Tumor,Glomus Tumor,67
+Prolidase Deficiency,Prolidase Deficiency,100
+Necrotizing Enterocolitis,Enterocolitis,68
+Mastitis,Mastitis,100
+Nestor-Guillermo Progeria Syndrome,Zellweger Syndrome,62
+Adult-Onset Autosomal Dominant Leukodystrophy,"Polycystic Kidney, Autosomal Dominant",54
+Acutely Injured,Acute Kidney Injury,71
+Disorganized Schizophrenia,Schizophrenia,67
+Paranoid Schizophrenia,Schizophrenia,74
+Undifferentiated Schizophrenia,Undifferentiated Connective Tissue Diseases,60
+Schizoaffective Disorder,Seasonal Affective Disorder,78
+Hyperlipidemia,Hyperlipidemias,97
+Heterotopic Ossification,Book Classification,65
+Active Tuberculosis,Latent Tuberculosis,79
+Pneumonia,Pneumonia,100
+Childhood Gliosarcoma,Gliosarcoma,69
+Tangier Disease,Tangier Disease,100
+ICF-specific DNMT3B dysfunction,Erectile Dysfunction,59
+Diabetic Peripheral Angiopathy,Diabetic Retinopathy,72
+Gastroesophageal Junction Adenocarcinoma,Nasopharyngeal Carcinoma,59
+Hirschsprung Disease,Hirschsprung Disease,100
+Thyroid Tumor,Rhabdoid Tumor,74
+Multiple Symmetric Lipomatosis,Familial Multiple Lipomatosis,68
+Pleuropulmonary Blastoma,Pulmonary Blastoma,86
+Dyt6 Dystonia Disorders,Dystonic Disorders,83
+Kidney Fibrosis,Peritoneal Fibrosis,71
+Obesity;Stroke,Obesity,67
+RelA haploinsufficiency,Haploinsufficiency,83
+Microcystic Lymphatic Malformation,Nervous System Malformations,61
+Macrocystic Lymphatic Malformation,Nervous System Malformations,61
+Neuromyelitis Optica,Neuromyelitis Optica,100
+Double Hit Lymphoma,Burkitt Lymphoma,69
+Corticobasal Degeneration,Corticobasal Degeneration,100
+Dopa-Responsive Dystonia Disorders,Dystonic Disorders,65
+Idiopathic Parkinsonism Or Parkinson's Disease,Parkinson Disease,54
+Muscle Injury,Muscle Tonus,72
+Pancreatitis,Pancreatitis,100
+Vitamin D Deficiency,Vitamin D Deficiency,100
+Cholangiocellular Carcinoma,Cholangiocarcinoma,80
+Gata6 Deficiency,IgG Deficiency,80
+Ovarian Tumor,Ovarian Torsion,79
+Tendon Injury,Tendon Injuries,86
+T-Lymphoblastic Lymphoma,Plasmablastic Lymphoma,74
+Hepatic Steatosis,Hepatic Stellate Cells,72
+Carcinoma of The Base of The Tongue,"Carcinoma, Basosquamous",55
+Piriformal Recessus Carcinoma,Small Cell Lung Carcinoma,59
+Glottic Carcinoma,Carcinoma,69
+Subglottic Carcinoma,Adrenocortical Carcinoma,64
+Encephalitis,Encephalitis,100
+Supraglottic Carcinoma,Supraglottitis,67
+Transglottic Carcinoma,Teratocarcinoma,70
+Malignant Tumor of Floor of Mouth,Giant Cell Tumor of Tendon Sheath,55
+Pten Deficiency,Protein Deficiency,91
+Carcinoma of The Retromolar Trigonu,"Carcinoma, Mucoepidermoid",57
+Tongue Carcinoma,Carcinoma,72
+Pharyngeal Carcinoma,Nasopharyngeal Carcinoma,86
+Soft Palate Carcinoma,Adrenocortical Carcinoma,62
+Tonsillar Carcinoma,Carcinoma,64
+Alpha Thalassemia-Intellectual Disability Syndrome Type 1,Intellectual Disability,57
+Sinonasal Inverted Papilloma,Cottontail rabbit papillomavirus,53
+Atr-X Syndrome,Alstrom Syndrome,80
+X-Linked Acrogigantism,GPI-Linked Proteins,63
+Lichen Planus,Lichen Planus,100
+Frontotemporal Lobar Degeneration,Frontotemporal Lobar Degeneration,100
+Lewy Body Dementia,Lewy Body Disease,74
+Limb-Girdle Muscular Dystrophy,Muscular Dystrophies,68
+Opioid Use Disorder,Opioid-Related Disorders,74
+Active Uveitis,Uveitis,67
+Medullary Thyroid Cancer,Medullary Sponge Kidney,64
+Hernia,Hernia,100
+Community Acquired Pneumonia,Community-Acquired Infections,77
+Myocardial Fibrosis,Endomyocardial Fibrosis,86
+Microcephalic Osteodysplastic Primordial Dwarfism; Type 1,Multiple Endocrine Neoplasia Type 1,46
+Grover's Disease,Graves Disease,87
+Cystic Tumor,Cystic Duct,70
+Fanconi-Bickel Syndrome,Fanconi Syndrome,82
+Endocrine Tumor,Neuroendocrine Tumors,78
+Arthritis-Associated Interstitial Diseases,Colitis-Associated Neoplasms,60
+Neoplasm,Neoplasms,94
+Pulmonary Alveolar Microlithiasis,Pulmonary Alveolar Proteinosis,79
+Lung Disease,Lung Diseases,96
+Increased Intracranial Pressure,Intracranial Pressure,81
+Major Depression,Depression,77
+Congenital Pseudoarthrosis of The Limbs,Congenital Hypothyroidism,59
+Atrophy of testis,Electrophoresis,62
+Peripheral Nerve Damage,Peripheral Nerves,80
+Prostatic Hyperplasia,Prostatic Hyperplasia,100
+Achalasia,Acatalasia,84
+Diabetic Vascular Disorder,Cerebrovascular Disorders,67
+Aldh18A1 Mutations,Mutation,62
+POR-deficient,Ricin,56
+POR-Mutations,Mutation,76
+Bronchitis,Bronchitis,100
+Ischemic Heart Disease,Rheumatic Heart Disease,84
+Allergy,Clergy,77
+Endotoxic Shock,Endotoxins,64
+Erythema Nodosum,Erythema Nodosum,100
+Panniculitis,Panniculitis,100
+Trachoma,Trachoma,100
+Transfusion Dependent Thalassemia,"Transduction, Genetic",56
+Hypertensive Pregnancies,"Hypertension, Pregnancy-Induced",73
+Systemic Capillary Leak Syndrome,Capillary Leak Syndrome,84
+Ventricular Septal Defects,Heart Septal Defects,78
+Recurrent Epithelial Ovarian Cancer,Neuroepithelial Cells,57
+Attention Deficit Hyperactivity Disorder,Attention Deficit Disorder with Hyperactivity,73
+Brittle Cornea Syndrome,Bartter Syndrome,77
+Adrenoleukodystrophy,Adrenoleukodystrophy,100
+Hepatitis C;Adrenoleukodystrophy,Adrenoleukodystrophy,77
+Tracheal Stenosis,Tracheal Stenosis,100
+Giant Cell Tumor,Giant Cell Tumors,97
+Dengue Hemorrhagic Fever,"Hemorrhagic Fever, Omsk",72
+Duodenitis,Duodenitis,100
+Anal Melanoma,Melanoma,76
+Rheumatic Heart Disease,Rheumatic Heart Disease,100
+Acute Rheumatic Fever,Rheumatic Fever,83
+Recurrent Non-Muscle Invasive Tumor,Non-Muscle Invasive Bladder Neoplasms,58
+Fibrolamellar Hepatocellular Carcinoma,"Carcinoma, Hepatocellular",54
+Stress Induced Cardiomyopathy,Takotsubo Cardiomyopathy,68
+Prurigo Nodularis,Nodularia,62
+Unspecified Septicemia,Hemorrhagic Septicemia,59
+Phelan-Mcdermid Syndrome,Poland Syndrome,72
+Systemic Sclerosis-Associated Interstitial Lung Disease,Gastrointestinal Diseases,52
+"Dysautonomia, Familial","Dysautonomia, Familial",100
+Globoid Cell Leukodystrophy,Adrenoleukodystrophy,60
+Panic Disorder,Panic Disorder,100
+Choroideremia,Choroideremia,100
+Rasmussen Encephalitis,Encephalitis,71
+Focal Cortical Dysplasia Type I,Focal Cortical Dysplasia,87
+Severe Aplastic Anemia,Hyperprolactinemia,60
+Cocaine Related Disorders,Cocaine-Related Disorders,96
+Secondary Acute Myeloid Leukemia,Secondary Metabolism,54
+Chronic Myeloproliferative Neoplasm,Myeloproliferative Disorders,67
+Nematode Infections,Nematode Infections,100
+B-Cell Non-Hodgkin's Lymphoma,B-Cell Lymphoma 3 Protein,56
+Chronic Active Ebv Infection,Coronaviridae Infections,65
+B-Cell Non-Hodgkin Lymphoma,B-Cell Lymphoma 3 Protein,58
+Narcolepsy,Narcolepsy,100
+Rapid-Onset Obesity With Hypothalamic Dysfunction; Hypoventilation; And Autonomic Dysregulation,Obesity Hypoventilation Syndrome,46
+Congenital Central Hypoventilation Syndrome,Obesity Hypoventilation Syndrome,75
+Cardiac Failure,Academic Failure,77
+X-Linked Adrenoleukodystrophy,Adrenoleukodystrophy,82
+Type C Niemann-Pick Disease,Niemann-Pick Diseases,83
+Hypermobile Ehlers-Danlos Syndrome,Ehlers-Danlos Syndrome,79
+Hypermobility Spectrum Disorders,Fetal Alcohol Spectrum Disorders,69
+Rash,Rats,75
+Non steroidal Anti-Inflammatory Drug,Nonsteroidal Anti-Androgens,67
+Schistosoma Japonicum Infection,Schistosoma japonicum,77
+Still's Disease,Silo Filler's Disease,78
+Staphylococcus Infection,Staphylococcal Infections,90
+Strep Infection,Latent Infection,77
+Juvenile Neuronal Ceroid Lipofuscinosis,Neuronal Ceroid-Lipofuscinoses,81
+Infiltrating Ductal Carcinoma,Adrenocortical Carcinoma,64
+Ollier Enchondroma,Osteochondroma,69
+Seborrheic Keratosis,Keratosis,62
+Sanfilippo Syndrome Type B,"Ehlers-Danlos Syndrome, Type IV",67
+Gaucher Disease Type 1,Gaucher Disease,81
+Fetal Alcohol Syndrome,Central Cord Syndrome,70
+Acute Otitis Media,Otitis Media,80
+Malt Lymphoma,Lymphoma,76
+Metachromatic Leukodystrophy,Adrenoleukodystrophy,62
+Bipolar Depression,Vascular Depression,76
+Hypoplastic Left Heart Syndrome,Hypoplastic Left Heart Syndrome,100
+Plasmodium,Plasmodium,100
+Chronic Chagas' Disease Cardiomyopathy,Chagas Cardiomyopathy,71
+Fetal Growth Restriction,Fetal Growth Retardation,88
+Umor of Retina,Work of Breathing,65
+Acth-Independent Macronodular Adrenal Hyperplasia,Focal Nodular Hyperplasia,54
+Primary Ciliary Dyskinesia,Biliary Dyskinesia,77
+Trisomy 18,Trisomy,82
+Skeletal Muscle Atrophy,Skeletal Muscle Ventricle,75
+Familial Hemophagocytic Lymphohistiocytosis,Familial Multiple Lipomatosis,53
+Multifocal Motor Neuropathy,Median Neuropathy,64
+Intestinal Tuberculosis,Intestinal Mucosa,75
+Surf1 Gene Mutations,Silent Mutation,69
+Herpesviral  Infections,Herpesviridae Infections,89
+Diabetes;Heart Failure,Heart Failure,74
+Eosinophilia Myalgia Syndrome,Eosinophilia-Myalgia Syndrome,97
+Lupus,Lupinus,83
+Defective Complex I,Dynactin Complex,69
+Rectal Carcinoma,Adrenocortical Carcinoma,75
+FRAXE Mutations,Mutation,70
+Craniosynostosis,Craniosynostoses,94
+HIV-Associated Neurocognitive Disorder,Neurocognitive Disorders,74
+Nodular Lymphocyte Predominant Hodgkin Lymphoma,"Receptors, Lymphocyte Homing",51
+Melas Syndrome,Meigs Syndrome,86
+Golabi-Ito-Hall Syndrome,Pallister-Hall Syndrome,72
+Pelvic Organ Prolapse,Pelvic Organ Prolapse,100
+Dry Eyes,Dry Ice,67
+Infective Endocarditis,Infectious Encephalitis,71
+Human T-Cell Lymphotrophic Virus; Type I,Human T-lymphotropic virus 2,76
+Complex I Deficiency,Choline Deficiency,79
+Cardioembolic Stroke,Thrombotic Stroke,76
+Erythematotelangiectatic Rosacea,Erythema Infectiosum,58
+Papulopustular Rosacea,Vascular Resistance,59
+Rosacea,Rosacea,100
+Cerebral Aneurysm,Cerebral Arteries,76
+Hellp Syndrome,Felty Syndrome,79
+Gallstones,Gallstones,100
+Cushing's Disease,Chagas Disease,77
+Plaque Psoriasis,Psoriasis,72
+Progressive Neurodegeneration,Pantothenate Kinase-Associated Neurodegeneration,65
+Dyskeratosis Congenita,Dyskeratosis Congenita,100
+Uveitis,Uveitis,100
+Pituitary Tumor,Pituitary Hormones,73
+Male Infertility,Infertility,81
+Fibromyalgia,Fibromyalgia,100
+Spoan Syndrome,Cogan Syndrome,86
+Familial Amyloid Polyneuropathy,Amyloid Neuropathies,63
+Acute Hepatitis B,Hepatitis B,79
+Group A Streptococcal Infections,Streptococcal Infections,86
+Biphasic Inflammatory,Biphasic Insulins,63
+Varicose Vein,Varicose Veins,96
+Dextran Sodium Sulfate Induced-Colitis,Sodium Sulfate Cotransporter,58
+Patchy Type Disease,Gaucher Disease,71
+Transient Patchy Type Disease,Tracheal Diseases,61
+Alopecia Totalis,Alopecia Areata,71
+Alopecia Universalis,Alopecia Areata,63
+Anaphylaxis,Anaphylaxis,100
+Head Trauma,Sexual Trauma,75
+Peroxisome Biogenesis Disorders,Peroxisomal Biogenesis Factor 2,74
+Atypical Hemolytic Uremic Syndrome;Common Variable Immune Deficiency,Atypical Hemolytic Uremic Syndrome,67
+Chronic Sinusitis,Ethmoid Sinusitis,76
+HIV Infection,HIV Infections,96
+Leishmaniasis,Leishmaniasis,100
+Brucellosis,Brucellosis,100
+Myeloproliferative Disorder,Myeloproliferative Disorders,98
+Charcot-Marie-Tooth Disease Type 1A,Charcot-Marie-Tooth Disease,87
+Schnitzler Syndrome,Schnitzler Syndrome,100
+Age-Related Hearing Loss,Hearing Loss,67
+Xeroderma Pigmentosum Variant,Xeroderma Pigmentosum,84
+Glucose Intolerance,Glucose Intolerance,100
+Coronary Heart Disease,Coronary Artery Disease,84
+Mecp2 Duplication Syndrome,Rumination Syndrome,71
+Morbid Obesity,Morbidity,78
+Obliterative Airway Disease,Uterine Cervical Diseases,62
+Restrictive Cardiomyopathy,Diabetic Cardiomyopathies,71
+Esophageal Tumor,Esophageal Mucosa,79
+Blast Traumatic Brain Injury,Construction Industry,53
+Graves Disease,Graves Disease,100
+Intravascular Large B-Cell Lymphoma,Intraocular Lymphoma,69
+Prion Disease,Prion Diseases,96
+Chronic Spontaneous Urticaria,Chronic Urticaria,74
+Pola1 Deficiency,Prolidase Deficiency,83
+Tumorigenesis,Thermogenesis,77
+Hidradenitis,Hidradenitis,100
+Lissencephaly,Lissencephaly,100
+Behavioral Sensitization,Behavioral Sciences,70
+Amyloidosis,Amyloidosis,100
+Ulcer,Ulcer,100
+Subarachnoid Hemorrhage,Subarachnoid Hemorrhage,100
+Perinatal Subarachnoid Hemorrhage,Subarachnoid Hemorrhage,82
+Henoch-Schoenlein Purpura,Benzoylcholine,46
+Ichthyosis Hystrix of Curth-Macklin,Ichthyosis Bullosa of Siemens,56
+Neutrophilic Dermatosis,Neurolymphomatosis,68
+Randall's Plaque,Dental Plaque,69
+Liver Failure,Liver Failure,100
+Gallbladder Cancer,Gallbladder,76
+X-Linked Dystonia Disorders-Parkinsonism,Dystonic Disorders,59
+Avascular Necrosis of Femoral Head,Tumor Necrosis Factor-alpha,59
+Bronchiolitis Obliterans,Bronchiolitis Obliterans,100
+X-Linked Syndromic Intellectual Disability,Intellectual Disability,71
+Meth-Dependency Without Psychosis,"Dependency, Psychological",62
+Methamphetamine Dependence,Morphine Dependence,76
+Schimke Immuno-Osseous Dysplasia,Septo-Optic Dysplasia,57
+Congenital Insensitivity To Pain,Contrast Sensitivity,62
+Sporadic Amyotrophic Lateral Sclerosis,Amyotrophic Lateral Sclerosis,87
+Acute Respiratory Distress Syndrome,Respiratory Distress Syndrome,91
+B-Acute Lymphoblastic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,68
+Acute Pyelonephritis,Pyelonephritis,82
+"Amyotrophic Lateral Sclerosis, Familial",Amyotrophic Lateral Sclerosis,85
+Miscarriage,Marriage,84
+22Q11 Deletion Syndrome,22q11 Deletion Syndrome,96
+Colon Serrated Polyposis,Clonal Hematopoiesis,64
+Sessile Serrated Adenoma/Polyp,Pelger-Huet Anomaly,53
+Adenomatous Polyps,Adenomatous Polyps,100
+Listeriosis,Listeriosis,100
+Colon Carcinoma Metastatic To The Liver,"Choriocarcinoma, Non-gestational",54
+Early Proximal Colon Preneoplasia,Canonical Correlation Analysis,51
+Progeria,Progeria,100
+Pemphigoid,Pemphigus,74
+Osteoarthritis Arthritis,Osteoarthritis,74
+Gastroesophageal Reflux Disease,Gastroesophageal Reflux,85
+Prader-Willi Syndrome,Prader-Willi Syndrome,100
+Chronic Hepatic Encephalopathy,Chronic Traumatic Encephalopathy,87
+Trauma,Drama,73
+Inflammatory Mfh,Inflammation,71
+Spinocerebellar Ataxia Type 28,Spinocerebellar Ataxias,83
+Squamous Cell Carcinoma In Situ,Breast Carcinoma In Situ,73
+Primary Mitochondrial Respiratory Chain Disease,Mitochondrial Diseases,61
+Immune Thrombocytopenia,Thrombocytopenia,82
+Refractory Anemia With Ring Sideroblasts,"Anemia, Sideroblastic",59
+Congenital Muscular Dystrophy (Disorder),Congenital Cranial Dysinnervation Disorders,65
+Dystonia Disorders,Dystonic Disorders,94
+Basal-Like Breast Cancer,Work-Life Balance,54
+Breast Hypoplasia,Breast Neoplasms,73
+Fibrogensis Imperfecta Ossium,Dentinogenesis Imperfecta,70
+Zellweger Spectrum Disorder,Autism Spectrum Disorder,71
+Colon Adenocarcinoma,Adenocarcinoma,82
+Xerophthalmia,Xerophthalmia,100
+Traumatic Brain Injury,Brain Injuries,61
+Central Nervous System Neurodegenerative Disorder,Central Nervous System Agents,72
+Dysferlinopathy,Dysferlin,75
+Caveolinopathy 3,Caveolin 3,77
+Four And A Half Lim Domains Protein 1 Deficiency,Protein S Deficiency,56
+Rhabdomyolysis;Acute Kidney Injury,Acute Kidney Injury,72
+Chronic Granulomatous Disease,"Granulomatous Disease, Chronic",71
+Postpartum Depression,Postpartum Period,79
+Mantle Cell Lymphoma,Intraocular Lymphoma,60
+Heart Ischemia,Warm Ischemia,81
+Non-Obese Diabetes,Nose Diseases,65
+Monocytosis,Endocytosis,82
+Intrahepatic Cholestasis of Pregnancy,Methyl-Accepting Chemotaxis Proteins,52
+Intrahepatic Cholestasis,Cholestasis,63
+Invasive Pneumococcal Disease; Recurrent Isolated,"Communicable Diseases, Imported",48
+Twin-Twin Transfusion Syndrome,Rumination Syndrome,61
+Complex Regional Pain Syndrome,Complex Regional Pain Syndromes,98
+Metastatic Colorectal Carcinoma,Nasopharyngeal Carcinoma,62
+Hydronephrosis,Hydronephrosis,100
+Osteoma Cutis,Osteoma,70
+Pulmonary Hypertension,Pulmonary Arterial Hypertension,83
+Ausitm Spectrum Disorder,Autism Spectrum Disorder,92
+Presbycusis,Presbycusis,100
+Lipodystrophy,Lipodystrophy,100
+Antiphospholipid Syndrome,Antiphospholipid Syndrome,100
+Lupus With Antiphospholipid Syndrome,Antiphospholipid Syndrome,82
+Coffin-Lowry Syndrome,Coffin-Lowry Syndrome,100
+Chronic Antibody-Mediated Rejection,Antigen-Antibody Reactions,59
+Type A Aortic Dissection,Aortic Dissection,83
+X-Linked Hypophosphatemia;Low Renal Retention,"Hypophosphatemia, Familial",54
+Viral Myocarditis,Myocarditis,79
+Focal Palmoplantar Keratoderma,"Keratoderma, Palmoplantar, Epidermolytic",57
+Critical Illness Myopathy,Critical Illness,78
+Myopathy,Myography,71
+Hepatic Encephalopathy,Hepatic Encephalopathy,100
+Pemphigus Foliaceus,Pemphigus,64
+Pemphigus Vulgaris,Lupus Vulgaris,75
+Eosinophilic Gastritis,Eosinophilic Esophagitis,78
+Sensory Neuropathy,Femoral Neuropathy,78
+Mucopolysaccharidosis Type Iiib,Mucopolysaccharidosis I,85
+Proteinuria;Glomerulosclerosis;Progressive Renal Failure,"Glomerulosclerosis, Focal Segmental",53
+Bone Fracture,Knee Fractures,81
+Metastatic Lung Tumor,Klatskin Tumor,57
+Gastric Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,77
+Skin Injury,Lung Injury,73
+Rotator Cuff Tear,Rotator Cuff,83
+Idiopathic Non-Cirrhotic Portal Hypertension,Idiopathic Noncirrhotic Portal Hypertension,97
+"Ehlers-Danlos Syndrome, Hypermobility Type","Ehlers-Danlos Syndrome, Type IV",77
+Fibrodysplasia Ossificans Progressiva,"Aphasia, Primary Progressive",58
+Malignant Buccal Mucosa Tumor,Malignant Catarrh,57
+Insulin Receptor Mutations,Insulin Receptor Substrate Proteins,79
+Intensive Care Unit Acquired Weakness,Intensive Care Units,70
+Melanosis,Melanosis,100
+Tubular Adenoma,Tubular Sweat Gland Adenomas,70
+Familial Pulmonary Arterial Hypertension,Pulmonary Arterial Hypertension,87
+Chronic Small Plaque Psoriasis,Chronic Periodontitis,55
+Generalized Periodontitis,Periapical Periodontitis,73
+Generalized Chronic Periodontitis,Chronic Periodontitis,78
+Paroxysmal Nocturnal Hemoglobinuria,Paroxysmal Hemicrania,64
+Alpha-1 Antitrypsin Deficiency,alpha 1-Antitrypsin Deficiency,90
+Malignant Breast Neoplasm,Breast Neoplasms,73
+Arthrogryposis With Renal Dysfunction And Cholestasis Syndrome,Temporomandibular Joint Dysfunction Syndrome,51
+Sebaceous Hyperplasia,Thymus Hyperplasia,72
+Dilated Cardiomyopathy 1A,Diabetic Cardiomyopathies,72
+AIDS related complex,AIDS-Related Complex,85
+Paroxysmal Kinesigenic Dyskinesia,Tardive Dyskinesia,59
+Extrapulmonary Tuberculosis,Pulmonary Fibrosis,67
+Preleukemia,Preleukemia,100
+Bicuspid Aortic Valve,Quadricuspid Aortic Valve,87
+Hermansky-Pudlak Syndrome,Hermanski-Pudlak Syndrome,96
+Congenital Anomalies of Kidney And Urinary Tract 1,Congenital Abnormalities,54
+Mixed Hcc/Cc Tumours,"Mixed Tumor, Mullerian",57
+Teratoma,Teratoma,100
+Metastatic Adenocarcinoma,Cystadenocarcinoma,74
+Multicentric Carpotarsal Osteolysis Syndrome,Poult Enteritis Mortality Syndrome,59
+Critical Limb Ischemia,Chronic Limb-Threatening Ischemia,65
+Chagas Cardiomyopathy,Chagas Cardiomyopathy,100
+Psoriatic Arthritis,Periarthritis,75
+Acute Leukemia,Leukemia,73
+Spinocerebellar Ataxia Type 6 (Disorder),Spinocerebellar Ataxias,73
+Infectious Mononucleosis,Infectious Mononucleosis,100
+Myasthenia Gravis,Myasthenia Gravis,100
+Non syndromic cleft lip/palate (NSCL/P),Valine Dehydrogenase (NADP+),42
+Asymptomatic Myeloma,Asymptomatic Diseases,73
+Congenital Heart Disease,Urogenital Diseases,74
+Oxidation Resistance 1 Mutation,Oxidation-Reduction,64
+Invasive Mucinous Lung Adenocarcinoma,Adenocarcinoma,55
+Diffuse Scleroderma,Scleromyxedema,61
+Acute Monocytic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,63
+High Grade Gastric Cancer,Esophageal and Gastric Varices,58
+Enteritis,Enteritis,100
+Meningeal Tumor,Brenner Tumor,71
+Cervical Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,82
+Signet Ring Cell Carcinoma,Meningeal Carcinomatosis,64
+Colorectal Polyps,Colonic Polyps,77
+Skin Carcinoma,Carcinoma,78
+Stable Angina Pectoris,Angina Pectoris,81
+Unstable Angina Pectoris,Angina Pectoris,77
+Oculopharyngeal Muscular Dystrophy,Muscular Dystrophies,63
+Respiratory Bronchiolitis Interstitial Lung Disease,Respiratory Tract Diseases,60
+Autoinflammatory Syndrome,Acute Coronary Syndrome,71
+Charge Syndrome,Bartter Syndrome,77
+Metastatic Neuroblastoma,Neuroblastoma,70
+Kabuki Syndrome,Kounis Syndrome,80
+Fibromyalgia Syndrome,Fibromyalgia,73
+Kidney Tumor,Kidney Cortex,72
+Kidney Clear Cell Carcinoma,Small Cell Lung Carcinoma,62
+Cleft Secondary Palate,Cleft Palate,71
+Cleft Lip With Or Without Cleft Palate,Cleft Palate,48
+Acute Wounding,Accounting,67
+Chronic Wounding,Chronic Pain,71
+Meningitis,Meningitis,100
+Acute Erythroid Leukemia,Erythroid Cells,56
+Rathke Cleft Cysts,Platelet Count,56
+Metastatic Ovarian Serous Carcinoma,Mammary Analogue Secretory Carcinoma,56
+Genital Prolapse,Rectal Prolapse,84
+Cholestasis,Cholestasis,100
+Fracture,Hip Fractures,76
+Disuse Osteoporosis,Osteoporosis,77
+Exencephaly,Anencephaly,82
+Cranial Defect,Cranial Nerves,71
+Hypertrophy,Hypertrophy,100
+Stress Fracture,Stress Granules,73
+Adenocarcinoma; Metastatic,"Adenocarcinoma, Sebaceous",71
+Inflammatory Pain,Inflammation,76
+Autosomal Dominant Centronuclear Myopathy,"Optic Atrophy, Autosomal Dominant",49
+X-Linked Myotubular Myopathy,X-Linked Emery-Dreifuss Muscular Dystrophy,60
+Progressive Melanoma,Progressive Patient Care,64
+Polytrauma,Barotrauma,70
+Hemorrhagic Shock,Hemorrhagic Stroke,86
+Muscle Atrophy,Muscular Atrophy,87
+Iron-Deficiency Anemia,Iron Deficiencies,72
+Thyroid Proliferative Lesion,Myeloproliferative Disorders,61
+Hemangiosarcoma,Hemangiosarcoma,100
+Wart,Warts,89
+T-Cell Lymphoma,B-Cell Lymphoma 3 Protein,70
+Merkel Cell Carcinoma,Small Cell Lung Carcinoma,70
+Gastrointestinal Inflammation,Gastrointestinal Tract,75
+Epithelioid Hemangioendothelioma,Hemangioendothelioma,77
+Anaplastic Pleomorphic Xanthoastrocytoma,Anaplastic Lymphoma Kinase,52
+Pleomorphic Xanthoastrocytoma,Necrobiotic Xanthogranuloma,57
+Skeletal Muscle Acute Injury,Skeletal Muscle Ventricle,68
+Pseudomonas Aeruginosa Infection,Pseudomonas aeruginosa,78
+Albinism,Albinism,100
+Metachondromatosis,Enchondromatosis,82
+Skin Tumor,Klatskin Tumor,75
+Hepatoma,Hematoma,88
+Alcohol Dependence,Alcohol Abstinence,72
+Left Ventricular Hypertrophy,Univentricular Heart,62
+Neural Tube Defects,Neural Tube Defects,100
+Periapical Periodontitis,Periapical Periodontitis,100
+Alcoholic Liver Disease,Non-alcoholic Fatty Liver Disease,79
+Spinal Cord Contusion Injury,Spinal Cord Compression,71
+Female Sterility,Femoral Artery,67
+Diabetic Cataract,Diabetic Coma,73
+Temporal Lobe Epilepsy,Temporal Lobe,74
+Chordoma,Chordoma,100
+Malignant Mixed Mullerian Tumor,Giant Cell Tumors,58
+B-Cell Lymphomas,B-Cell Lymphoma 3 Protein,73
+Otitis Media,Otitis Media,100
+Thyroid Carcinoma,Thyroid Cartilage,76
+White Matter Abnormalities,Eye Abnormalities,70
+Oropharyngeal Cancer,Parapharyngeal Space,75
+Oligoasthenoteratozoospermia,Asthenozoospermia,71
+Oligospermia,Oligospermia,100
+Intestinal Tumor,Intestinal Mucosa,79
+Cytomegalovirus Infection,Cytomegalovirus Infections,98
+Listeria Monocytogenes,Listeria monocytogenes,95
+Stress; Psychological,"Stress, Psychological",95
+Airway Injury,Arm Injuries,64
+Infection By Leishmania Braziliensis,Leishmania braziliensis,75
+Embryopathies,Laminopathies,69
+Immune Dysfunction,Cognitive Dysfunction,72
+Ebola Virus Disease,Slow Virus Diseases,79
+Lower Respiratory Tract Infections,Respiratory Tract Infections,90
+Asthma;Respiratory Tract Infections,Respiratory Tract Infections,89
+Diabetes;Obesity,Diabetes Mellitus,67
+Neuropathic Pain,Neuroticism,67
+Epileptic Syndromes,Epileptic Syndromes,100
+Cutaneous Lichenoid Immune-Related Adverse Events,Adult Survivors of Child Adverse Events,52
+Drug Induced Liver Injury,Chemical and Drug Induced Liver Injury,79
+Drug Induced Liver Injury;Liver Cancer,"Chemical and Drug Induced Liver Injury, Chronic",68
+Adhesive Capsulitis,Adhesiveness,65
+"Atopic Dermatitis, Chronic","Hepatitis, Chronic",73
+Limited Systemic Sclerosis,Systemic Racism,59
+Diffuse Sclerosis,Multiple Sclerosis,69
+Pulp Inflammation,Inflammation,83
+Pituitary Adenoma,Pituitary Neoplasms,72
+Lymphocytic Choriomeningitis,Lymphocytic Choriomeningitis,100
+Duodenal Tumor,Duodenum,73
+Stress,Sutures,77
+Trisomy 13,Trisomy,82
+Lymphocytic Colitis,Lymphocytic Choriomeningitis,77
+Salmonella Infection Nos,Salmonella Infections,93
+Acute Alcoholic Hepatitis,Alcoholic Neuropathy,62
+Irritable Bowel Syndrome With Diarrhea,Irritable Bowel Syndrome,77
+Eosinophilic Granulomatosis With Polyangiitis,Granulomatosis with Polyangiitis,81
+Microtia,Microstomia,84
+Vulvovaginal Candidiasis,Vulvovaginitis,68
+Polyuria,Polyuria,100
+Insulin Resistance,Insulin Resistance,100
+Adenocarcinoma of Esophagus,Adenocarcinoma of Lung,78
+Malignant Glioma,Malignant Catarrh,67
+Multiple Suture Craniosynostosis,Craniosynostoses,62
+Circulating Tumor,Circulating Tumor DNA,89
+Alveolar Soft Part Sarcoma,"Sarcoma, Alveolar Soft Part",68
+Adenoid Cystic Carcinoma,Adrenocortical Carcinoma,75
+Mir-424/503 Deficiency,Yin Deficiency,67
+Liver Neoplasm,Liver Neoplasms,97
+Spared Nerve Injury,Abducens Nerve Injury,70
+Pleomorphic Sarcoma,Leiomyosarcoma,61
+Severe Periodontitis,Periodontitis,79
+Diabetic Peripheral Neuropathy,Diabetic Neuropathies,71
+Beta-Cell Dysfunction,Erectile Dysfunction,73
+Reactive Oxygen Injury,Reactive Oxygen Species,71
+Pulmonary Aspergillosis,Pulmonary Aspergillosis,100
+Lung Carcinoma,Carcinoma,78
+Cardiac Hypoxia,Cardiac Myosins,73
+Neonatal Hypoxic And Ischemic Brain Injury,"Hypoxia-Ischemia, Brain",58
+Internal Carotid Artery Stenosis,Carotid Artery Thrombosis,67
+Dementia,Dementia,100
+Post-Stroke Non Dementia,Posterior Eye Segment,58
+Undifferentiated Soft Tissue Sarcoma,Undifferentiated Connective Tissue Diseases,71
+Lung Cysts,Bone Cysts,70
+Behavioral Abnormality,"Behavior, Animal",74
+Kidney Damage,Kidney Diseases,71
+Sudden Infant Death Syndrome,Sudden Infant Death,81
+Disorder of Skull,Disorders of Sex Development,62
+Brain Ischemia,Brain Ischemia,100
+Dysbiosis,Dysbiosis,100
+Pyogranulomas,Granuloma,73
+Influenza A (H1N1),Influenza A virus,69
+Proctitis,Proctitis,100
+Sarcomatoid Carcinoma,Somatostatinoma,67
+Hypertensive Heart Failure,Comprehensive Health Care,67
+Spindle Cell Carcinoma,Small Cell Lung Carcinoma,72
+Papillary Carcinoma,Nasopharyngeal Carcinoma,70
+Viral Encephalitis,Encephalitis,80
+Radiation Injury,Radiation Injuries,88
+Dermatitis,Dermatitis,100
+Asthma;Dermatitis;Rhinitis,Dermatitis,56
+Ocular Hypertension,Ocular Hypertension,100
+Multiple Sclerosis Nos,Multiple Sclerosis,90
+Plaa-Associated Neurodevelopmental Disorder,Neurodevelopmental Disorders,76
+Meningococcal Infection,Meningococcal Infections,98
+Progressive Diabetic Kidney Disease,Polycystic Kidney Diseases,69
+22Q11.2 Deletion Syndrome,22q11 Deletion Syndrome,92
+End Stage Renal Disease,End Stage Liver Disease,83
+Ataxia With Oculomotor Apraxia Type 2,Oculomotor Nerve,49
+Oculomotor Apraxia,Oculomotor Nerve,71
+Diabetic Foot Ulcer,Diabetic Foot,81
+Ovarian Adenocarcinoma,Adenocarcinoma,78
+Hereditary Sensory Neuropathy Type 1F,Hereditary Sensory and Motor Neuropathy,76
+2Q23.1 Microdeletion Syndrome,22q11 Deletion Syndrome,77
+Lynch Syndrome,Lynch Syndrome II,90
+Multiple Mitochondrial Dysfunctions Syndrome,Mitochondrial Trifunctional Protein,66
+Unilateral Nasal Obstruction,Nasal Obstruction,76
+Leber Hereditary Optic Neuropathy,Toxic Optic Neuropathy,65
+Epstein-Barr Virus Infection,Epstein-Barr Virus Infections,98
+Cerebral Ischemia,Cold Ischemia,73
+Noonan Syndrome,Noonan Syndrome,100
+Ameloblastoma,Ameloblastoma,100
+Cleft Palate;Calvarial Defect,Cleft Palate,59
+Acute Viral Encephalitis,Acute Febrile Encephalopathy,69
+Central Nervous System Sensitization,Central Nervous System Sensitization,100
+Chronic Constriction Injury,Construction Industry,71
+Preterm Labor,Germ Layers,58
+Fatty Liver,Fatty Liver,100
+Influenza A/H5N1,"Influenza, Human",69
+Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy,Autoimmune Pancreatitis,47
+Metastatic Invasive Breast Carcinoma,Breast Carcinoma In Situ,53
+Cervical Squamous Cell Carcinoma;Endocervical Adenocarcinoma,Esophageal Squamous Cell Carcinoma,57
+Metastatic Invasive Cervical Squamous Cell Carcinoma;Endocervical Adenocarcinoma,Esophageal Squamous Cell Carcinoma,47
+Metastatic Invasive Head And Neck Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,59
+Kidney Chromophobe,"Adenoma, Chromophobe",74
+Liver Hepatocellular Carcinoma,Teratocarcinoma,62
+Hereditary Pheochromocytoma-Paraganglioma,Pheochromocytoma,56
+Metastatic Invasive Hereditary Pheochromocytoma-Paraganglioma,"Telangiectasia, Hereditary Hemorrhagic",48
+Paraganglioma,Paraganglioma,100
+Pheochromocytoma,Pheochromocytoma,100
+Rectum Adenocarcinoma,Adenocarcinoma,80
+Sarcoma,Sarcoma,100
+Skin Cutaneous Celanoma,Cutaneous Fistula,60
+Metastatic Invasive Skin Cutaneous Celanoma,Passive Cutaneous Anaphylaxis,53
+Stomach Adenocarcinoma,Adenocarcinoma,78
+Metastatic Invasive Thyroid Carcinoma,"Thyroid Carcinoma, Anaplastic",52
+Thymoma,Thymoma,100
+Uterine Corpus Endometrioid Carcinoma,Uterine Contraction,57
+Rhabdoid Tumor,Rhabdoid Tumor,100
+Bronchiolitis; Viral,"Bronchiolitis, Viral",95
+Cerebellar Malformation,Vascular Malformations,71
+Interstitial Cystitis,Intestinal Polyposis,68
+Muscle Ache,Muscle Cells,70
+"Inclusion Body Myopathy, Autosomal Dominant","Optic Atrophy, Autosomal Dominant",68
+Lymphatic Filariasis,Lymphatic Metastasis,75
+Tibial Fracture,Tibial Fractures,97
+Disorder of Skeletal Muscle,Disorders of Sex Development,62
+Microglossia,Macroglossia,92
+Submucosal Cleft Palate,Cleft Palate,69
+Intestinal Perforation,Intestinal Perforation,100
+Alveolar Injury,Cold Injury,69
+Chondrosarcoma,Chondrosarcoma,100
+Intraosseous Ameloblastoma,Ameloblastoma,67
+Keratocystic Odontogenic Tumor,Odontogenic Tumors,71
+Embryonal Rhabdomyosarcoma,Rhabdomyosarcoma,76
+Tumor of Lung,Tumor Burden,64
+Vascular Abnormalities,Cardiovascular Abnormalities,84
+Small Intestine Tumor,"Cell Line, Tumor",65
+Avian Influenza,Alcian Blue,62
+Benign Struma Ovarii,Struma Ovarii,79
+Malignant Struma Ovarii,Struma Ovarii,72
+Synovial Sarcoma,Myosarcoma,62
+Granuloma,Granuloma,100
+Diffuse Astrocytoma,Astrocytoma,73
+Anaplastic Astrocytoma,Astrocytoma,67
+Ependymoma,Ependymoma,100
+Atypical Teratoid Rhabdoid Tumor,Rhabdoid Tumor,61
+Choroid Plexus Papilloma,Choroid Plexus,74
+Eosinophilic Infiltration of The Esophagus,Eosinophilic Esophagitis,64
+Mammary Gland Aplasia,"Mammary Glands, Animal",74
+Nerve Entrapment,Tendon Entrapment,73
+Myomatous Tumor,Glomus Tumor,74
+Skin Wound,Surgical Wound,67
+Vitamin A Deficiency,Vitamin A Deficiency,100
+Proximal Aortic Coarctation,Aortic Coarctation,80
+Urinary Tract Infection,Urinary Tract Infections,98
+Minor Trauma,Historical Trauma,69
+Vaginal Dryness,Vaginal Diseases,71
+Cystitis,Cystitis,100
+Infertility,Infertility,100
+Middle Cerebral Artery Occlusion,Middle Cerebral Artery,81
+Burkitt Lymphoma,Burkitt Lymphoma,100
+D-2-Hydroxyglutaric Aciduria,3-Hydroxybutyric Acid,73
+Hypercapnia,Hypercapnia,100
+Clear Cell Renal Carcinoma,Small Cell Lung Carcinoma,71
+Deafness,Deafness,100
+Primitive Neuroectodermal Tumor,Neuroectodermal Tumors,79
+Chronic Lung Inflammation,Neurogenic Inflammation,75
+"Disorder of Vestibular Function, Unspecified",Vestibular Function Tests,61
+Desmosterolosis,Desmosterol,85
+Rhinovirus Infection,Echovirus Infections,85
+Glomerulopathy,Homeopathy,75
+Conjunctival Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,77
+Squamous Cell Papilloma,Esophageal Squamous Cell Carcinoma,67
+Neonatal Hypoparathyroidism,Hypoparathyroidism,80
+T Cell Prolymphocytic Leukemia,T-Cell Acute Lymphocytic Leukemia Protein 1,68
+Aortic Valve Disease,Aortic Valve Disease,100
+Tracheoesophageal Fistula,Tracheoesophageal Fistula,100
+X-Linked Retinitis Pigmentosa,Retinitis Pigmentosa,82
+Preterm Birth,Premature Birth,79
+Adult T-Cell Leukemia,Preleukemia,56
+Borderline Ovarian Epithelial Tumor,"Carcinoma, Ovarian Epithelial",69
+High-Grade Squamous Intraepithelial Lesions,Squamous Intraepithelial Lesions,85
+Low-Grade Squamous Intraepithelial Lesions,Squamous Intraepithelial Lesions,86
+Retinal Detachment,Retinal Detachment,100
+Ovarian Clear Cell Adenocarcinoma,Adenocarcinoma,60
+Hepatic Carcinosarcoma,Carcinosarcoma,78
+Ganglioglioma,Ganglioglioma,100
+Shwannoma,Shewanella,63
+Chronic (Viral) Hepatitis B,Viral Hepatitis Vaccines,63
+Fatal Familial Insomnia,"Insomnia, Fatal Familial",60
+Lymphoplasmacytic Lymphoma,Plasmablastic Lymphoma,71
+Gastritis,Gastritis,100
+Sclerotic Aortic Valve,Aortic Valve,71
+Calcified Aortic Valve,Quadricuspid Aortic Valve,72
+Thyroid Cancer,Thyroid Gland,74
+Hepatitis,Hepatitis,100
+Pseudotumor (Inflammatory) of Orbit,Pseudotumor Cerebri,56
+Ophthalmopathies Thyroid Assoc,Graves Ophthalmopathy,55
+Hepatic Hemangioma,Hemangioma,71
+Acral Lentiginous Melanoma,"Antigens, Plant",54
+Pheochromocytomas And Paragangliomas,Pheochromocytoma,62
+Liver Dysplastic Nodule,Rheumatic Nodule,62
+Malignant Neoplasm of Oesophagus,Ovarian Neoplasms,57
+Myelodysplasia,Angiodysplasia,71
+Mitochondrial Encephalomyopathy,Mitochondrial Encephalomyopathies,94
+Squamous Cell Lung Carcinoma,Small Cell Lung Carcinoma,83
+Anaemia,Anemia,92
+Olive Pollen Allergy,Clonal Anergy,55
+Noonan/Jmml Syndrome,Noonan Syndrome,86
+Abnormality of The Pulmonary Veins,"Stenosis, Pulmonary Vein",62
+D-2-Hydroxyglutaric Aciduria 2,3-Hydroxybutyric Acid,71
+Meningioma,Meningioma,100
+Schwannoma,Acanthoma,63
+Metabolically Healthy Obesity,Metabolic Diseases,60
+Obesity; Metabolically Benign,"Obesity, Metabolically Benign",97
+Pck1 Deficiency; Cytosolic,Immunologic Deficiency Syndromes,55
+Severe Trauma,Sexual Trauma,69
+Anti-Basement Membrane Glomerulonephritis,Glomerulonephritis,61
+Obstructive Uropathy,Naturopathy,58
+Postmenopausal Osteoporosis,Postmenopause,65
+Mucositis,Mucositis,100
+Ectodermal Dysplasia,Ectodermal Dysplasia,100
+Non-Hodgkins Lymphoma,Composite Lymphoma,62
+C26-Tumor,Tremor,53
+Ullrich Congenital Muscular Dystrophy,Vitelliform Macular Dystrophy,61
+Primary Lateral Sclerosis,Amyotrophic Lateral Sclerosis,74
+Motor Neuron Disease,Motor Neuron Disease,100
+Idiopathic Cd4 Lymphocytopenia,Idiopathic Hypersomnia,65
+Fanconi Anemia,Fanconi Anemia,100
+"Carcinoma, Lewis Lung","Carcinoma, Lewis Lung",100
+Pericementitis,Pericoronitis,74
+Aortic Disease,Aortic Diseases,97
+Precocious Puberty,Pyrococcus abyssi,57
+Primary Biliary Cirrhosis,Primary Care Nursing,62
+Haemoperitoneum,Hemoperitoneum,97
+Orbit (Eye Disorders),Anxiety Disorders,68
+Japanese Encephalitis,Japanese Encephalitis Vaccines,82
+Vexas Syndrome,Meigs Syndrome,79
+Diabetic Macular Edema,Macular Edema,74
+Non-Proliferative Dr,Myeloproliferative Disorders,67
+Proliferative Dr,Preoperative Care,73
+Psoriasiform Dermatitis,Digital Dermatitis,63
+Maculopapular Lesion,Vascular Depression,62
+Von Willebrand Disease Type 3,"von Willebrand Disease, Type 3",95
+Neurotic; Stress-Related And Somatoform Disorders,Narcotic-Related Disorders,64
+Cbl-Related Disorder,Cocaine-Related Disorders,80
+Large-Artery Atherosclerotic Stroke,"Plaque, Atherosclerotic",62
+Pregnancy Loss; Recurrent; Susceptibility To; 2,Disease Susceptibility,55
+Joint Pain/Joint Inflammation,Inflammation,59
+Zika Virus Infection,Zika Virus Infection,100
+Aspergillosis,Aspergillosis,100
+Candidiasis,Candidiasis,100
+Mucormycosis,Mucormycosis,100
+Viral Respiratory Tract Infection,Respiratory Tract Infections,89
+Bacterial Sepsis,Bacterial Adhesion,76
+Cerebral Hemorrhage,Cerebral Hemorrhage,100
+Syndromic Biliary Atresia,Biliary Atresia,75
+Alagille Syndrome,Alagille Syndrome,100
+Isolated Biliary Atresia,Biliary Atresia,77
+Hyperglycemia,Hyperglycemia,100
+Visual Impairment,Visually Impaired Persons,71
+Postoperative Delirium,Postoperative Period,81
+Skin Fibroma,Fibroma,74
+Breast Metastasis,Neoplasm Metastasis,78
+Netherton Syndrome,Netherton Syndrome,100
+Mycobacterium Tuberculosis,Mycobacterium tuberculosis,96
+Infantile Liver Failure,Liver Failure,72
+Retinal Diseases,Retinal Diseases,100
+Urinary Bladder Inflammation,Urinary Bladder Neoplasms,72
+Non-Alcoholic Steatohepatitis;Hepatocellular Carcinoma,Esophageal Squamous Cell Carcinoma,45
+Imyc B-Lymphoma,Lymphoma,70
+Infertile,Infertility,80
+Papillary Serous Ovarian Adenocarcinomas,Papillomavirus Vaccines,54
+Hyper-Ige Syndrome,Asperger Syndrome,80
+Hyperplastic Polyposis Syndrome,Dysplastic Nevus Syndrome,68
+Scleroderma;Pulmonary Hypertension,Familial Primary Pulmonary Hypertension,71
+Transitional Cell Tumor,Transitional Care,75
+Kidney Oncocytoma,Hidrocystoma,62
+Simple Ductal Hyperplasia,Gingival Hyperplasia,67
+Atypical Ductal Hyperplasia,Focal Epithelial Hyperplasia,69
+Malignant Germ Cell Tumor,Giant Cell Tumors,71
+Seminoma,Seminoma,100
+Follicular Thyroid Carcinoma,Follicular Atresia,61
+Follicular Thyroid Adenoma,Follicular Atresia,64
+Thyroid Oncocytic Adenoma,Adrenocortical Adenoma,64
+Thyroid Oncocytic Carcinoma,Adrenocortical Carcinoma,67
+Medullary Thyroid Carcinoma,"Thyroid Carcinoma, Anaplastic",61
+Cancer of The Gastric Cardia,"Chief Cells, Gastric",54
