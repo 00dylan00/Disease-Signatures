@@ -1,0 +1,1068 @@
+TERM,N_SIGNATURES,N_TISSUE_INFO,N_TISSUE_TYPES,N_DATASETS,N_HUMAN_SIGNATURES,N_HUMAN_TISSUE_INFO,N_HUMAN_TISSUE_TYPES,N_HUMAN_DATASETS
+Dementia,541,478,54,162,214,163,39,104
+Basal Ganglia Diseases,485,414,42,151,190,130,30,110
+Dyskinesias,357,319,24,80,73,45,12,43
+Huntington Disease,331,299,23,66,62,40,11,34
+Chorea,331,299,23,66,62,40,11,34
+Colonic Diseases,318,288,39,169,224,205,32,121
+Carcinoma,271,176,29,165,214,124,22,135
+Inflammatory Bowel Diseases,259,231,29,103,234,206,28,92
+Urologic Diseases,224,177,22,133,150,108,19,93
+Neuroectodermal Tumors,212,127,16,119,176,104,13,99
+Kidney Diseases,208,162,21,123,146,105,18,90
+Diabetes Mellitus,203,147,43,120,142,89,27,87
+Respiratory Hypersensitivity,202,132,24,91,192,122,24,84
+Adenocarcinoma,193,127,20,114,154,91,18,95
+Colitis,180,167,29,88,118,107,23,59
+Alzheimer Disease,171,151,40,88,113,95,33,62
+Asthma,170,112,22,77,160,102,22,70
+Gastrointestinal Neoplasms,158,136,24,104,121,108,16,79
+"Influenza, Human",154,49,8,32,114,11,4,19
+Orthomyxoviridae Infections,154,49,8,32,114,11,4,19
+"Leukemia, Myeloid",152,101,10,82,132,84,8,70
+Synucleinopathies,151,112,29,85,126,88,25,77
+"Muscular Disorders, Atrophic",144,116,25,69,93,70,16,46
+Muscular Dystrophies,144,116,25,69,93,70,16,46
+Parkinsonian Disorders,144,105,29,82,119,81,24,74
+"Genital Diseases, Female",141,98,20,90,123,81,16,77
+Urogenital Neoplasms,141,102,15,80,124,85,12,70
+Gram-Positive Bacterial Infections,140,112,14,70,100,72,11,60
+Obesity,139,119,36,84,42,31,15,35
+Overweight,139,119,36,84,42,31,15,35
+Parkinson Disease,136,98,26,79,111,74,21,71
+Intestinal Neoplasms,136,119,19,87,101,93,12,64
+Colorectal Neoplasms,133,116,17,84,101,93,12,64
+"Neoplasms, Neuroepithelial",132,83,8,70,111,72,7,58
+Actinomycetales Infections,125,97,12,67,97,69,11,58
+Crohn Disease,124,108,24,64,118,102,24,62
+Mycobacterium Infections,124,97,12,66,96,69,11,57
+"Demyelinating Autoimmune Diseases, CNS",122,86,22,78,92,62,18,57
+Breast Neoplasms,117,85,14,73,89,60,10,59
+"Colitis, Ulcerative",116,105,22,59,109,98,22,55
+TDP-43 Proteinopathies,111,65,21,53,87,43,16,42
+Pulmonary Fibrosis,111,89,3,61,88,66,3,49
+Glioma,109,71,5,56,96,63,5,47
+Tuberculosis,108,82,11,60,80,54,10,51
+Psoriasis,107,92,11,58,94,79,9,51
+"Arthritis, Rheumatoid",105,68,16,55,99,62,14,52
+Rectal Diseases,103,88,15,70,81,73,11,56
+Multiple Sclerosis,103,71,19,64,92,62,18,57
+Intellectual Disability,101,53,21,70,81,33,13,56
+Lymphoma,100,61,10,50,67,46,7,36
+Non-alcoholic Fatty Liver Disease,100,93,3,64,28,25,2,19
+"Pulmonary Disease, Chronic Obstructive",92,46,16,53,86,40,13,48
+Idiopathic Pulmonary Fibrosis,91,69,3,52,84,62,3,48
+"Leukemia, Myeloid, Acute",89,56,8,59,75,42,6,51
+Amyotrophic Lateral Sclerosis,89,50,14,45,65,28,9,34
+Myeloproliferative Disorders,88,62,7,37,82,59,7,33
+Neuroendocrine Tumors,80,44,11,49,65,32,9,41
+"Diabetes Mellitus, Type 1",79,46,17,43,62,30,10,32
+"Leukemia, Lymphoid",78,38,8,48,60,27,4,36
+Paraproteinemias,77,47,8,39,69,45,6,35
+Adnexal Diseases,73,51,14,49,62,41,12,41
+Kidney Neoplasms,71,49,5,39,67,45,5,37
+Ovarian Diseases,71,49,14,48,62,41,12,41
+Urologic Neoplasms,71,49,5,39,67,45,5,37
+"Genital Neoplasms, Female",70,53,11,41,57,40,8,33
+Lung Neoplasms,70,51,4,45,57,39,3,36
+Respiratory Tract Neoplasms,70,51,4,45,57,39,3,36
+Melanoma,69,37,9,42,55,26,7,35
+Lung Injury,68,62,4,15,13,13,3,4
+Astrocytoma,65,46,4,38,63,45,4,36
+Liver Neoplasms,64,41,3,32,26,8,3,11
+Hemostatic Disorders,64,41,10,39,56,39,8,35
+"Lipid Metabolism, Inborn Errors",64,31,9,30,41,9,4,20
+Myocardial Infarction,63,58,12,26,18,14,4,11
+"Lymphoma, Non-Hodgkin",62,42,7,32,51,36,6,28
+"Brain Diseases, Metabolic",60,44,16,34,34,18,9,22
+"Diabetes Mellitus, Type 2",59,51,20,35,34,27,13,25
+"Dermatitis, Atopic",57,54,6,24,46,43,5,21
+Myelodysplastic Syndromes,55,42,3,33,55,42,3,33
+Multiple Myeloma,54,32,7,32,46,30,5,28
+"Brain Diseases, Metabolic, Inborn",54,38,13,32,28,12,6,20
+"Leukemia, B-Cell",53,25,5,27,45,22,4,22
+"Muscular Dystrophy, Duchenne",53,48,12,24,19,14,4,10
+"Carcinoma, Renal Cell",53,35,5,34,51,33,5,32
+"Leukemia, Lymphocytic, Chronic, B-Cell",53,25,5,27,45,22,4,22
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",52,38,6,19,48,35,6,17
+Glioblastoma,50,36,3,34,48,35,3,32
+Sarcoma,50,12,7,30,30,3,3,19
+Flaviviridae Infections,47,23,6,24,45,22,6,22
+Renal Insufficiency,46,41,7,27,16,11,6,10
+"Carcinoma, Squamous Cell",46,25,9,37,39,20,8,31
+Arteriosclerosis,44,24,12,26,37,17,8,20
+"Muscular Atrophy, Spinal",44,33,15,21,22,11,9,11
+Central Nervous System Neoplasms,43,31,5,18,34,25,4,12
+"Hepatitis, Viral, Human",43,22,7,23,40,19,7,22
+Lysosomal Storage Diseases,41,30,11,20,18,7,4,11
+Lipidoses,40,28,9,19,19,7,4,11
+Gram-Negative Bacterial Infections,40,27,12,18,28,19,11,14
+Rhinitis,39,27,10,20,39,27,10,20
+Cerebrovascular Disorders,39,28,13,24,25,18,8,17
+Malaria,39,29,7,14,15,11,3,8
+Ovarian Neoplasms,39,28,5,24,32,21,3,19
+Nephritis,38,28,6,25,31,26,6,21
+"Hypertension, Pregnancy-Induced",37,32,9,23,37,32,9,23
+"Neoplasms, Squamous Cell",37,26,9,30,26,17,6,21
+Brain Neoplasms,37,26,4,13,31,23,3,9
+Myositis,37,34,8,19,37,34,8,19
+Down Syndrome,36,19,10,28,26,9,6,22
+"Lysosomal Storage Diseases, Nervous System",36,30,11,17,13,7,4,8
+Glomerulonephritis,35,28,6,23,30,26,6,20
+"Anemia, Hemolytic",35,32,7,17,29,26,4,14
+"Lymphoma, T-Cell",35,20,3,15,28,18,2,13
+Dyslipidemias,35,8,5,20,26,2,1,12
+Leukoencephalopathies,34,25,14,23,12,6,5,8
+"Carcinoma, Hepatocellular",34,14,3,14,22,4,2,7
+Myotonic Dystrophy,34,23,11,20,32,21,9,19
+Euglenozoa Infections,34,20,8,18,26,13,5,13
+Adenocarcinoma of Lung,34,27,2,23,25,19,1,17
+Uterine Diseases,34,26,7,20,30,22,5,18
+Myotonic Disorders,34,23,11,20,32,21,9,19
+Colonic Neoplasms,33,33,5,15,21,21,2,9
+Sphingolipidoses,33,27,8,15,12,6,3,7
+"Neuroectodermal Tumors, Primitive",32,16,4,20,15,8,2,11
+Thyroid Neoplasms,32,24,2,18,30,22,2,17
+Ovarian Cysts,32,21,10,24,30,20,10,22
+Sarcoidosis,32,17,7,19,32,17,7,19
+Polycystic Ovary Syndrome,32,21,10,24,30,20,10,22
+"Heart Defects, Congenital",32,14,8,25,29,11,6,23
+Pre-Eclampsia,31,26,8,22,31,26,8,22
+Aortic Valve Disease,31,24,13,24,24,18,11,19
+"Rhinitis, Allergic",31,19,7,15,31,19,7,15
+Retinal Degeneration,31,20,3,20,20,10,3,13
+"Muscular Dystrophy, Facioscapulohumeral",31,22,7,19,27,22,7,17
+Acute Kidney Injury,30,29,3,16,3,2,1,2
+Alcoholism,30,30,11,12,21,21,8,10
+Aortic Valve Stenosis,30,23,12,24,23,17,10,19
+"Neoplasms, Connective Tissue",30,10,7,20,25,9,6,16
+Endometriosis,30,17,2,17,30,17,2,17
+"Anemia, Hemolytic, Congenital",30,27,7,15,24,21,4,12
+Uterine Neoplasms,29,23,7,16,25,19,5,14
+Atherosclerosis,29,15,7,15,22,8,3,9
+"Carcinoma, Bronchogenic",28,16,3,17,28,16,3,17
+Craniofacial Abnormalities,28,19,9,18,22,14,4,13
+Cerebellar Diseases,28,21,6,16,13,6,3,10
+Polymyositis,28,26,6,15,28,26,6,15
+Bronchial Neoplasms,28,16,3,17,28,16,3,17
+Retroviridae Infections,27,16,7,13,26,15,6,12
+"Hemorrhagic Fevers, Viral",27,13,3,12,20,12,2,9
+"Sexually Transmitted Diseases, Viral",27,15,7,13,26,14,6,12
+"Cardiomyopathy, Dilated",26,19,8,20,20,13,8,15
+Lentivirus Infections,26,15,7,12,25,14,6,11
+Hepatitis C,26,10,5,13,26,10,5,13
+Cystic Fibrosis,26,18,10,21,21,13,8,17
+HIV Infections,26,15,7,12,25,14,6,11
+Spinocerebellar Ataxias,25,19,5,14,10,4,2,8
+"Neoplasms, Muscle Tissue",25,15,4,17,15,12,3,11
+Candidiasis,25,23,4,6,24,22,3,5
+"Mental Retardation, X-Linked",25,9,8,16,22,6,5,13
+Epilepsy,25,24,6,13,3,3,3,3
+Acute Lung Injury,25,19,2,6,0,0,0,0
+Ataxia,25,19,5,14,10,4,2,8
+Dermatomyositis,25,23,5,14,25,23,5,14
+Progeria,25,7,3,15,22,6,2,13
+Cerebellar Ataxia,25,19,5,14,10,4,2,8
+Uterine Cervical Diseases,24,16,4,14,24,16,4,14
+Diabetic Nephropathies,24,21,8,17,14,11,6,12
+Gaucher Disease,24,20,6,9,5,1,1,3
+Hereditary Autoinflammatory Diseases,24,18,5,17,23,17,4,16
+"Lymphoma, T-Cell, Cutaneous",24,18,2,10,24,18,2,10
+"Arthritis, Experimental",24,24,6,4,0,0,0,0
+"Anemia, Sickle Cell",24,21,7,12,18,15,4,9
+Spondylitis,24,18,6,16,22,16,5,14
+"Carcinoma, Non-Small-Cell Lung",24,12,3,14,24,12,3,14
+Hyperlipidemias,23,6,4,14,16,2,1,8
+"Brain Damage, Chronic",23,21,7,10,7,5,2,4
+Herpesviridae Infections,22,7,4,13,21,6,3,12
+Frontotemporal Lobar Degeneration,22,15,8,8,22,15,8,8
+Leishmaniasis,22,16,5,11,17,12,4,9
+Spondylarthritis,22,16,5,14,22,16,5,14
+Frontotemporal Dementia,21,14,7,7,21,14,7,7
+Neurocutaneous Syndromes,21,13,6,15,15,7,3,11
+Flavivirus Infections,21,13,3,11,19,12,2,9
+Urogenital Abnormalities,21,11,7,17,18,10,6,15
+Otorhinolaryngologic Neoplasms,21,17,3,17,21,17,3,17
+Uterine Cervical Neoplasms,21,15,4,12,21,15,4,12
+Dermatomycoses,20,20,2,2,20,20,2,2
+"Candidiasis, Chronic Mucocutaneous",20,20,2,2,20,20,2,2
+Spondylarthropathies,20,14,5,13,20,14,5,13
+Spinocerebellar Degenerations,19,16,5,9,6,3,2,4
+Periodontitis,19,14,5,15,17,12,4,13
+Malabsorption Syndromes,19,11,6,15,18,11,6,14
+Alcohol-Induced Disorders,19,19,5,16,6,6,2,6
+Aortic Aneurysm,19,10,5,8,9,8,4,5
+Acquired Immunodeficiency Syndrome,18,8,3,9,18,8,3,9
+"Encephalomyelitis, Autoimmune, Experimental",18,15,6,13,0,0,0,0
+"Nervous System Autoimmune Disease, Experimental",18,15,6,13,0,0,0,0
+Xerostomia,18,16,9,13,16,14,8,11
+"Neoplasms, Ductal, Lobular, and Medullary",18,16,4,11,13,11,4,10
+Central Nervous System Viral Diseases,18,10,3,6,8,0,0,3
+Sjogren's Syndrome,18,16,9,13,16,14,8,11
+Insulin Resistance,17,15,6,9,11,9,5,7
+Celiac Disease,17,11,6,13,17,11,6,13
+Dengue,17,13,3,8,16,12,2,7
+"Diabetes, Gestational",17,13,7,9,17,13,7,9
+Hyperinsulinism,17,15,6,9,11,9,5,7
+Liver Failure,17,12,5,13,17,12,5,13
+"Lymphoma, B-Cell",17,13,4,11,13,9,3,9
+Sex Chromosome Disorders,17,5,5,12,17,5,5,12
+Cholangiocarcinoma,17,11,2,9,10,4,1,7
+Esophagitis,16,16,4,9,15,15,4,8
+"Thyroid Cancer, Papillary",16,12,1,11,16,12,1,11
+Polyneuropathies,16,5,3,11,16,5,3,11
+"Renal Insufficiency, Chronic",16,12,6,11,13,9,6,8
+"Adenocarcinoma, Papillary",16,12,1,11,16,12,1,11
+Hypergammaglobulinemia,16,10,3,12,16,10,3,12
+Leprosy,16,15,4,6,16,15,4,6
+Esophageal Neoplasms,16,11,3,13,14,9,2,11
+"Mycobacterium Infections, Nontuberculous",16,15,4,6,16,15,4,6
+"Skin Diseases, Parasitic",16,10,3,8,11,6,2,6
+Bone Marrow Failure Disorders,16,8,1,11,16,8,1,11
+Coronary Disease,16,10,6,12,16,10,6,12
+Macular Degeneration,16,8,3,10,15,8,3,9
+Axial Spondyloarthritis,15,11,4,9,15,11,4,9
+Hepatitis B,15,11,5,10,12,8,5,9
+Lupus Nephritis,15,15,4,10,13,13,4,8
+"Spondylitis, Ankylosing",15,11,4,9,15,11,4,9
+Disorders of Sex Development,15,9,6,12,15,9,6,12
+Hepadnaviridae Infections,15,11,5,10,12,8,5,9
+"Skin Diseases, Bacterial",15,14,2,9,15,14,2,9
+Metabolic Syndrome,15,13,4,7,10,8,4,6
+Coronary Artery Disease,15,9,6,11,15,9,6,11
+Hidradenitis,15,14,2,10,15,14,2,10
+Medulloblastoma,14,8,2,10,5,3,1,4
+Pancreatic Neoplasms,14,13,4,7,12,12,3,5
+Osteosarcoma,14,0,0,10,11,0,0,7
+Esophageal Squamous Cell Carcinoma,14,9,2,11,13,8,2,10
+Pharyngeal Neoplasms,14,12,2,13,14,12,2,13
+Spirochaetales Infections,14,4,2,6,10,4,2,5
+Neuroblastoma,14,4,1,9,9,4,1,7
+Leiomyoma,14,11,2,10,14,11,2,10
+Squamous Cell Carcinoma of Head and Neck,14,4,4,11,14,4,4,11
+"Liver Failure, Acute",14,9,3,11,14,9,3,11
+Encephalitis,14,6,3,6,8,0,0,3
+"Neoplasms, Bone Tissue",14,0,0,10,11,0,0,7
+Phagocyte Bactericidal Dysfunction,14,3,3,6,14,3,3,6
+"Neuroectodermal Tumors, Primitive, Peripheral",14,4,1,9,9,4,1,7
+Intracranial Arterial Diseases,13,10,7,10,11,8,6,9
+Irritable Bowel Syndrome,13,12,5,6,13,12,5,6
+Precursor Cell Lymphoblastic Leukemia-Lymphoma,13,7,3,11,5,1,1,5
+"Colonic Diseases, Functional",13,12,5,6,13,12,5,6
+Nerve Sheath Neoplasms,13,7,3,8,12,6,2,7
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,13,7,3,11,5,1,1,5
+Ichthyosis,13,13,1,4,13,13,1,4
+Fetal Diseases,13,10,5,9,1,1,1,1
+Hereditary Central Nervous System Demyelinating Diseases,13,7,6,9,12,6,5,8
+"Aortic Stenosis, Supravalvular",13,9,4,9,11,7,3,7
+Williams Syndrome,13,9,4,9,11,7,3,7
+Cholestasis,13,8,2,9,7,6,2,6
+Hidradenitis Suppurativa,13,12,2,8,13,12,2,8
+Congenital Bone Marrow Failure Syndromes,13,6,1,8,13,6,1,8
+"Bulbo-Spinal Atrophy, X-Linked",13,8,6,7,8,3,3,3
+Wilms Tumor,13,9,1,4,13,9,1,4
+Trypanosomiasis,12,4,3,7,9,1,1,4
+Behcet Syndrome,12,8,3,9,11,7,2,8
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis,12,3,3,6,12,3,3,6
+Monoclonal Gammopathy of Undetermined Significance,12,6,3,12,12,6,3,12
+"Uveitis, Anterior",12,8,3,9,11,7,2,8
+Listeriosis,12,12,3,1,0,0,0,0
+Eosinophilia,12,12,4,8,11,11,4,7
+"Shock, Septic",12,10,3,10,11,9,2,9
+"Neoplasms, Fibrous Tissue",12,8,5,7,12,8,5,7
+"Aortic Stenosis, Subvalvular",12,9,4,11,9,7,4,9
+"Cardiomyopathy, Hypertrophic",12,9,4,11,9,7,4,9
+"Cholestasis, Intrahepatic",12,7,2,8,7,6,2,6
+Systemic Vasculitis,12,3,3,6,12,3,3,6
+Panuveitis,12,8,3,9,11,7,2,8
+"Aortic Aneurysm, Abdominal",12,4,3,4,3,3,2,2
+"Leukemia, T-Cell",12,6,4,10,10,4,2,9
+Ventilator-Induced Lung Injury,11,11,2,3,11,11,2,3
+Encephalomyelitis,11,11,5,5,4,4,3,3
+Chronic Urticaria,11,9,4,8,11,9,4,8
+Bronchopulmonary Dysplasia,11,11,2,3,11,11,2,3
+Eosinophilic Esophagitis,11,11,3,7,10,10,3,6
+Alopecia,11,11,4,7,8,8,3,6
+Granulomatosis with Polyangiitis,11,2,2,5,11,2,2,5
+Chronic Inducible Urticaria,11,9,4,8,11,9,4,8
+Hypotrichosis,11,11,4,7,8,8,3,6
+Urticaria,11,9,4,8,11,9,4,8
+Chagas Disease,11,3,2,6,9,1,1,4
+Brain Ischemia,11,11,6,6,2,2,1,2
+Granuloma,11,11,3,5,4,4,2,4
+Cryopyrin-Associated Periodic Syndromes,11,9,4,8,11,9,4,8
+"Anemia, Aplastic",11,8,1,8,11,8,1,8
+"Carbohydrate Metabolism, Inborn Errors",11,5,5,8,8,2,2,6
+Hyperlipoproteinemia Type II,11,1,1,5,10,1,1,4
+Ciliopathies,11,5,3,6,9,3,2,5
+Hyperlipoproteinemias,11,1,1,5,10,1,1,4
+Carcinoma in Situ,11,10,2,5,4,3,1,3
+Malformations of Cortical Development,10,9,5,8,6,5,3,5
+Central Nervous System Parasitic Infections,10,8,5,5,3,1,1,2
+De Lange Syndrome,10,7,2,6,10,7,2,6
+Nasopharyngeal Neoplasms,10,8,1,9,10,8,1,9
+Primary Myelofibrosis,10,9,4,9,10,9,4,9
+"Liver Cirrhosis, Biliary",10,5,2,6,5,4,2,4
+Mitochondrial Myopathies,10,9,3,5,10,9,3,5
+"Infertility, Male",10,6,1,6,7,3,1,3
+Intracranial Aneurysm,10,8,6,8,10,8,6,8
+"Myopathies, Structural, Congenital",10,10,7,4,0,0,0,0
+Hypothalamic Diseases,10,8,3,7,9,8,3,6
+Sex Chromosome Disorders of Sex Development,10,5,5,8,10,5,5,8
+Mucocutaneous Lymph Node Syndrome,10,10,4,7,10,10,4,7
+"Encephalitis, Viral",10,2,2,4,8,0,0,3
+Infectious Encephalitis,10,2,2,4,8,0,0,3
+Central Nervous System Protozoal Infections,10,8,5,5,3,1,1,2
+"Liver Diseases, Alcoholic",10,10,2,9,6,6,2,6
+Fibroma,10,7,5,6,10,7,5,6
+Retinitis Pigmentosa,10,6,1,6,5,1,1,4
+Muscular Atrophy,10,10,5,6,4,4,2,4
+Rett Syndrome,10,6,5,7,8,4,3,5
+Nasopharyngeal Carcinoma,10,8,1,9,10,8,1,9
+"Steroid Metabolism, Inborn Errors",9,1,1,3,8,0,0,2
+Retinal Dystrophies,9,6,1,5,4,1,1,3
+"Scleroderma, Localized",9,6,2,8,9,6,2,8
+Adenoma,9,7,4,7,6,6,4,5
+"Lymphoma, Follicular",9,8,3,7,9,8,3,7
+"Thrombocythemia, Essential",9,2,1,6,9,2,1,6
+"Carcinoma, Intraductal, Noninfiltrating",9,8,1,4,4,3,1,3
+Ataxia Telangiectasia,9,5,2,7,7,3,2,6
+Food Hypersensitivity,9,0,0,2,9,0,0,2
+Pituitary Diseases,9,8,3,6,8,8,3,5
+Otitis Media,9,9,2,3,0,0,0,0
+"Hypertension, Pulmonary",9,6,3,7,6,3,2,5
+"Lymphoma, Large B-Cell, Diffuse",9,6,3,6,9,6,3,6
+Rectal Neoplasms,9,8,2,6,9,8,2,6
+Breast Carcinoma In Situ,9,8,1,4,4,3,1,3
+Smith-Lemli-Opitz Syndrome,9,1,1,3,8,0,0,2
+Deficiency Diseases,9,8,4,5,0,0,0,0
+Common Variable Immunodeficiency,9,8,3,6,9,8,3,6
+Latent Tuberculosis,9,6,3,5,9,6,3,5
+Fetal Alcohol Spectrum Disorders,9,9,4,7,0,0,0,0
+"Glomerulosclerosis, Focal Segmental",9,6,4,6,6,6,4,5
+Avitaminosis,9,8,4,5,0,0,0,0
+Thrombocytosis,9,2,1,6,9,2,1,6
+"Malformations of Cortical Development, Group I",9,8,4,7,5,4,2,4
+"Meningitis, Viral",8,8,1,2,0,0,0,0
+"Anemia, Hypoplastic, Congenital",8,6,1,5,8,6,1,5
+Adrenal Gland Neoplasms,8,5,2,5,8,5,2,5
+Cystitis,8,7,1,5,4,3,1,3
+"Glomerulonephritis, IGA",8,5,2,8,8,5,2,8
+Lymphocytic Choriomeningitis,8,8,1,2,0,0,0,0
+"Lung Diseases, Fungal",8,8,1,3,0,0,0,0
+Epstein-Barr Virus Infections,8,5,2,4,8,5,2,4
+Waldenstrom Macroglobulinemia,8,7,1,4,8,7,1,4
+Schistosomiasis,8,8,2,4,0,0,0,0
+Urinary Bladder Diseases,8,7,1,5,4,3,1,3
+Endometrial Neoplasms,8,8,3,4,4,4,1,2
+Borrelia Infections,8,2,1,4,8,2,1,4
+Rhabdomyosarcoma,8,2,2,5,0,0,0,0
+Acute-On-Chronic Liver Failure,8,4,3,6,8,4,3,6
+Myelodysplastic-Myeloproliferative Diseases,8,7,1,4,7,7,1,3
+Hypopigmentation,8,7,4,7,6,5,3,5
+Barrett Esophagus,8,6,2,7,8,6,2,7
+"Granulomatous Disease, Chronic",8,1,1,2,8,1,1,2
+"Leishmaniasis, Cutaneous",8,3,1,4,8,3,1,4
+Neuroma,8,6,2,5,8,6,2,5
+Trematode Infections,8,8,2,4,0,0,0,0
+Lewy Body Disease,8,7,6,5,8,7,6,5
+Alopecia Areata,8,8,3,5,5,5,2,4
+Mycosis Fungoides,8,8,1,2,8,8,1,2
+Hepatoblastoma,8,7,1,7,7,6,1,6
+Neural Tube Defects,8,7,5,5,3,2,2,3
+Peripheral Nervous System Neoplasms,8,5,1,5,8,5,1,5
+Myosarcoma,8,2,2,5,0,0,0,0
+Arenaviridae Infections,8,8,1,2,0,0,0,0
+Biliary Atresia,8,8,2,5,3,3,1,3
+Bunyaviridae Infections,8,0,0,3,4,0,0,2
+Lyme Disease,8,2,1,4,8,2,1,4
+Neurilemmoma,8,6,2,5,8,6,2,5
+"Leukemia, Myelomonocytic, Juvenile",8,7,1,4,7,7,1,3
+Dwarfism,7,4,3,5,7,4,3,5
+Multiple System Atrophy,7,7,4,6,7,7,4,6
+Pituitary Neoplasms,7,6,2,4,6,6,2,3
+Hearing Loss,7,5,3,5,0,0,0,0
+"Anemia, Diamond-Blackfan",7,6,1,4,7,6,1,4
+Vestibulocochlear Nerve Diseases,7,5,1,4,7,5,1,4
+Hereditary Sensory and Autonomic Neuropathies,7,0,0,4,7,0,0,4
+Diabetic Angiopathies,7,6,4,5,6,5,3,4
+"Red-Cell Aplasia, Pure",7,6,1,4,7,6,1,4
+"Neoplasms, Adipose Tissue",7,6,3,3,3,2,1,2
+Adrenoleukodystrophy,7,2,2,4,7,2,2,4
+Hearing Disorders,7,5,3,5,0,0,0,0
+Epileptic Syndromes,7,6,2,4,1,1,1,1
+Coronavirus Infections,7,7,2,3,5,5,1,2
+"Blood Coagulation Disorders, Inherited",7,0,0,5,7,0,0,5
+Salmonella Infections,7,7,2,2,0,0,0,0
+Dupuytren Contracture,7,4,3,4,7,4,3,4
+Hypercholesterolemia,7,2,2,5,3,0,0,2
+"Amino Acid Metabolism, Inborn Errors",7,3,3,7,4,1,1,4
+Fragile X Syndrome,7,0,0,4,7,0,0,4
+Thrombocytopenia,7,7,3,2,1,1,1,1
+"Dysautonomia, Familial",7,0,0,4,7,0,0,4
+Peroxisomal Disorders,7,2,2,4,7,2,2,4
+Uremia,7,6,5,6,7,6,5,6
+Prediabetic State,7,3,2,3,5,1,1,2
+"Myopathies, Nemaline",7,7,7,2,0,0,0,0
+"Hepatitis, Viral, Animal",7,0,0,2,3,0,0,1
+Tuberous Sclerosis,7,6,3,5,4,3,1,3
+Azoospermia,7,4,1,3,6,3,1,2
+Enterobacteriaceae Infections,7,7,2,2,0,0,0,0
+Intracranial Hemorrhages,7,4,3,3,6,3,2,2
+"Neuroma, Acoustic",7,5,1,4,7,5,1,4
+Cranial Nerve Neoplasms,7,5,1,4,7,5,1,4
+"Hepatitis, Animal",7,0,0,2,3,0,0,1
+Coronaviridae Infections,7,7,2,3,5,5,1,2
+Severe Acute Respiratory Syndrome,7,7,2,3,5,5,1,2
+Central Nervous System Bacterial Infections,7,6,4,6,7,6,4,6
+Rift Valley Fever,7,0,0,2,3,0,0,1
+Nidovirales Infections,7,7,2,3,5,5,1,2
+Neuronal Ceroid-Lipofuscinoses,7,1,1,4,7,1,1,4
+"Meningitis, Bacterial",7,6,4,6,7,6,4,6
+Polycystic Kidney Diseases,6,2,1,2,4,0,0,1
+Adrenal Cortex Neoplasms,6,3,2,4,6,3,2,4
+"Sarcoma, Ewing",6,0,0,4,6,0,0,4
+Trachoma,6,4,2,4,6,4,2,4
+Pneumocystis Infections,6,6,1,2,0,0,0,0
+"Hepatitis, Alcoholic",6,6,2,6,4,4,2,4
+Klinefelter Syndrome,6,4,4,5,6,4,4,5
+Hereditary Sensory and Motor Neuropathy,6,3,2,4,6,3,2,4
+"Leishmaniasis, Visceral",6,6,3,3,6,6,3,3
+Acute Coronary Syndrome,6,6,4,4,6,6,4,4
+Ependymoma,6,5,2,3,6,5,2,3
+"Abortion, Spontaneous",6,5,3,5,6,5,3,5
+Supratentorial Neoplasms,6,5,1,3,5,5,1,2
+"Carcinoma, Basal Cell",6,0,0,1,6,0,0,1
+Odontogenic Cysts,6,0,0,1,6,0,0,1
+"Dermatitis, Allergic Contact",6,6,1,2,4,4,1,1
+Leptospirosis,6,2,1,2,2,2,1,1
+Jaw Cysts,6,0,0,1,6,0,0,1
+"Neoplasms, Basal Cell",6,0,0,1,6,0,0,1
+"Carcinoma, Ductal",6,5,1,5,6,5,1,5
+Job Syndrome,6,2,2,4,6,2,2,4
+Thalassemia,6,6,1,3,6,6,1,3
+Vitamin D Deficiency,6,6,3,3,0,0,0,0
+"Polycystic Kidney, Autosomal Dominant",6,2,1,2,4,0,0,1
+Dysostoses,6,4,2,4,5,3,1,3
+Atrial Fibrillation,6,3,2,4,5,3,2,3
+Chlamydiaceae Infections,6,4,2,4,6,4,2,4
+Hypothalamic Neoplasms,6,5,1,3,5,5,1,2
+"Eye Infections, Bacterial",6,4,2,4,6,4,2,4
+"Lupus Erythematosus, Discoid",6,6,2,5,6,6,2,5
+Ureteral Diseases,6,6,1,3,0,0,0,0
+22q11 Deletion Syndrome,6,4,1,3,6,4,1,3
+"Conjunctivitis, Bacterial",6,4,2,4,6,4,2,4
+Amyloidosis,6,1,1,3,6,1,1,3
+"Myositis, Inclusion Body",6,6,4,6,6,6,4,6
+"Corneal Dystrophies, Hereditary",6,3,2,5,6,3,2,5
+AIDS Dementia Complex,6,6,3,1,6,6,3,1
+Ureteral Obstruction,6,6,1,3,0,0,0,0
+"Kidney Diseases, Cystic",6,2,1,2,4,0,0,1
+Fuchs' Endothelial Dystrophy,6,3,2,5,6,3,2,5
+"Pneumonia, Pneumocystis",6,6,1,2,0,0,0,0
+Basal Cell Nevus Syndrome,6,0,0,1,6,0,0,1
+Vitiligo,6,6,3,5,5,5,3,4
+"Malaria, Cerebral",6,4,3,4,3,1,1,2
+"Dermatitis, Contact",6,6,1,2,4,4,1,1
+Mouth Abnormalities,6,4,4,4,0,0,0,0
+"Sarcoma, Kaposi",6,0,0,5,6,0,0,5
+"Carcinoma, Ductal, Breast",6,5,1,5,6,5,1,5
+Mouth Neoplasms,6,5,2,4,5,4,1,3
+Chlamydia Infections,6,4,2,4,6,4,2,4
+"Keratosis, Actinic",6,6,2,5,6,6,2,5
+Mitochondrial Encephalomyopathies,6,5,2,3,6,5,2,3
+"Leukoplakia, Oral",5,4,1,3,5,4,1,3
+"Hemoglobinuria, Paroxysmal",5,5,1,2,5,5,1,2
+"Tuberculosis, Meningeal",5,4,3,5,5,4,3,5
+Neisseriaceae Infections,5,5,5,1,5,5,5,1
+Mononeuropathies,5,5,1,1,0,0,0,0
+"Pemphigoid, Bullous",5,5,1,1,5,5,1,1
+Leber Congenital Amaurosis,5,3,1,3,2,0,0,2
+"Respiratory Distress Syndrome, Newborn",5,5,2,1,5,5,2,1
+"Thyroid Carcinoma, Anaplastic",5,5,1,4,5,5,1,4
+Acute Aortic Syndrome,5,5,2,5,3,3,2,3
+"Arthritis, Juvenile",5,3,3,5,5,3,3,5
+Loeys-Dietz Syndrome,5,4,1,2,5,4,1,2
+Hypoplastic Left Heart Syndrome,5,3,2,4,3,1,1,3
+Meningococcal Infections,5,5,5,1,5,5,5,1
+"Encephalitis, Herpes Simplex",5,0,0,1,5,0,0,1
+Smoldering Multiple Myeloma,5,4,1,5,5,4,1,5
+"Colitis, Microscopic",5,5,2,3,5,5,2,3
+Mucopolysaccharidoses,5,0,0,3,5,0,0,3
+"Dissection, Blood Vessel",5,5,2,5,3,3,2,3
+Neurofibroma,5,1,1,3,4,0,0,2
+Optic Neuritis,5,0,0,2,4,0,0,1
+Osteoarthritis,5,5,2,2,1,1,1,1
+Bone Marrow Neoplasms,5,3,1,5,5,3,1,5
+"Disorder of Sex Development, 46,XY",5,4,3,4,5,4,3,4
+Keloid,5,4,1,4,5,4,1,4
+Hodgkin Disease,5,4,3,3,5,4,3,3
+"Tuberculosis, Extrapulmonary",5,4,3,5,5,4,3,5
+"Tuberculosis, Central Nervous System",5,4,3,5,5,4,3,5
+Pulmonary Emphysema,5,4,1,3,3,2,1,2
+"Multiple Sclerosis, Relapsing-Remitting",5,5,3,4,5,5,3,4
+"Muscular Dystrophy, Emery-Dreifuss",5,5,2,2,5,5,2,2
+Liposarcoma,5,4,2,2,1,0,0,1
+"Tuberculosis, Pulmonary",5,4,3,5,5,4,3,5
+Toxoplasmosis,5,5,3,2,0,0,0,0
+Aortic Dissection,5,5,2,5,3,3,2,3
+Polycythemia Vera,5,3,1,5,5,3,1,5
+Osteoporosis,5,4,2,3,5,4,2,3
+"Arthritis, Psoriatic",5,3,2,4,5,3,2,4
+Sciatic Neuropathy,5,5,1,1,0,0,0,0
+Graves Disease,5,5,4,3,5,5,4,3
+Mononegavirales Infections,5,3,1,3,3,3,1,2
+Myocarditis,5,5,1,2,0,0,0,0
+Coccidiosis,5,5,3,2,0,0,0,0
+Dyskeratosis Congenita,5,0,0,3,5,0,0,3
+"Ichthyosiform Erythroderma, Congenital",5,5,1,2,5,5,1,2
+Q Fever,5,4,2,3,5,4,2,3
+Trophoblastic Neoplasms,4,2,2,3,4,2,2,3
+"Epilepsies, Myoclonic",4,3,1,2,0,0,0,0
+Brain Abscess,4,4,2,1,0,0,0,0
+"Hypoxia, Brain",4,4,4,2,1,1,1,1
+"Hepatitis, Chronic",4,4,4,4,4,4,4,4
+"Hypoxia-Ischemia, Brain",4,4,4,2,1,1,1,1
+Lichenoid Eruptions,4,3,3,3,4,3,3,3
+Endolymphatic Hydrops,4,1,1,2,4,1,1,2
+Glycogen Storage Disease,4,4,4,3,2,2,2,2
+Aspergillosis,4,2,1,2,2,0,0,1
+Germinoma,4,4,1,2,4,4,1,2
+Giant Cell Arteritis,4,4,2,2,4,4,2,2
+Neurofibromatosis 1,4,1,1,2,3,0,0,1
+"Toxoplasmosis, Cerebral",4,4,2,1,0,0,0,0
+Hyperglycemia,4,4,3,3,1,1,1,1
+Seminoma,4,4,1,2,4,4,1,2
+Turner Syndrome,4,1,1,3,4,1,1,3
+"Vasculitis, Central Nervous System",4,4,2,2,4,4,2,2
+"Multiple Sclerosis, Chronic Progressive",4,3,1,3,4,3,1,3
+"Cystitis, Interstitial",4,3,1,3,4,3,1,3
+Meniere Disease,4,1,1,2,4,1,1,2
+"Colitis, Collagenous",4,4,1,2,4,4,1,2
+Gastritis,4,3,1,3,3,3,1,2
+"Amyloidosis, Familial",4,0,0,1,4,0,0,1
+"Osteoarthritis, Hip",4,4,1,1,0,0,0,0
+"Carcinoma, Lewis Lung",4,4,2,2,0,0,0,0
+Cerebral Hemorrhage,4,1,1,1,4,1,1,1
+"Leukemia-Lymphoma, Adult T-Cell",4,3,3,3,2,1,1,2
+Lichen Planus,4,3,3,3,4,3,3,3
+Prader-Willi Syndrome,4,4,3,2,0,0,0,0
+Sezary Syndrome,4,3,1,2,4,3,1,2
+"Amyloid Neuropathies, Familial",4,0,0,1,4,0,0,1
+Epidermolysis Bullosa,4,2,1,4,4,2,1,4
+Small Cell Lung Carcinoma,4,4,1,3,4,4,1,3
+Angelman Syndrome,4,1,1,3,3,0,0,2
+Obstetric Labor Complications,4,3,2,4,4,3,2,4
+"Histiocytosis, Non-Langerhans-Cell",4,3,3,4,3,2,2,3
+"Pancreatitis, Chronic",4,4,2,3,2,2,2,2
+Sarcopenia,4,4,2,4,4,4,2,4
+Proctitis,4,4,1,1,0,0,0,0
+Papilloma,4,4,3,3,1,1,1,1
+Stomach Neoplasms,4,4,1,3,4,4,1,3
+Intervertebral Disc Degeneration,4,4,3,4,4,4,3,4
+Intracranial Hypertension,4,2,2,2,4,2,2,2
+Amyloid Neuropathies,4,0,0,1,4,0,0,1
+"Fatigue Syndrome, Chronic",4,4,3,3,4,4,3,3
+"Epilepsy, Generalized",4,3,1,2,0,0,0,0
+Presbycusis,4,4,2,2,0,0,0,0
+Cockayne Syndrome,4,2,2,3,4,2,2,3
+Neurofibromatoses,4,1,1,2,3,0,0,1
+Jaw Abnormalities,4,3,3,3,0,0,0,0
+Acne Vulgaris,4,4,2,3,4,4,2,3
+Autoimmune Lymphoproliferative Syndrome,4,2,1,3,4,2,1,3
+Tetralogy of Fallot,4,3,2,4,4,3,2,4
+Ciliary Motility Disorders,4,3,2,3,4,3,2,3
+Oropharyngeal Neoplasms,4,4,1,4,4,4,1,4
+"Myoclonic Epilepsies, Progressive",4,3,1,2,0,0,0,0
+"Pregnancy Complications, Neoplastic",4,2,2,3,4,2,2,3
+Adenomatous Polyps,4,2,1,2,2,2,1,1
+"Scleroderma, Diffuse",4,1,1,3,4,1,1,3
+Netherton Syndrome,4,4,1,1,4,4,1,1
+"Renal Tubular Transport, Inborn Errors",4,3,2,3,2,1,1,2
+Diabetic Retinopathy,4,4,3,3,3,3,2,2
+Puerperal Disorders,4,3,2,3,2,1,1,2
+"Rhinitis, Allergic, Seasonal",4,2,1,3,4,2,1,3
+Cleft Palate,4,3,3,3,0,0,0,0
+"Hearing Loss, Sensorineural",4,4,2,2,0,0,0,0
+Maxillofacial Abnormalities,4,3,3,3,0,0,0,0
+Arteritis,4,4,2,2,4,4,2,2
+Gonadal Dysgenesis,4,1,1,3,4,1,1,3
+"Cell Transformation, Neoplastic",3,3,1,1,3,3,1,1
+Rubinstein-Taybi Syndrome,3,1,1,3,2,0,0,2
+"Sleep Disorders, Intrinsic",3,3,3,2,3,3,3,2
+"Leukemia, Plasma Cell",3,2,1,3,3,2,1,3
+Brain Infarction,3,3,2,2,1,1,1,1
+Marfan Syndrome,3,2,2,3,2,1,1,2
+Bacteremia,3,3,1,1,3,3,1,1
+Sex Cord-Gonadal Stromal Tumors,3,3,1,2,2,2,1,1
+Mucopolysaccharidosis I,3,0,0,1,3,0,0,1
+"Enterocolitis, Necrotizing",3,3,3,3,2,2,2,2
+Wiskott-Aldrich Syndrome,3,0,0,1,3,0,0,1
+"Headache Disorders, Primary",3,0,0,1,3,0,0,1
+Cerebral Infarction,3,3,2,2,1,1,1,1
+Niemann-Pick Diseases,3,3,3,3,2,2,2,2
+"Paraneoplastic Syndromes, Nervous System",3,3,2,2,3,3,2,2
+Necrobiotic Disorders,3,3,1,3,3,3,1,3
+"Leukemia, Prolymphocytic, T-Cell",3,2,1,3,3,2,1,3
+Cryptorchidism,3,2,2,3,2,1,1,2
+Gastroesophageal Reflux,3,3,1,2,3,3,1,2
+Hypoglycemia,3,3,2,2,0,0,0,0
+Androgen-Insensitivity Syndrome,3,3,2,2,3,3,2,2
+Angina Pectoris,3,3,1,2,3,3,1,2
+Drug Eruptions,3,2,1,2,3,2,1,2
+Thromboembolism,3,2,1,2,3,2,1,2
+"Neoplasms, Cystic, Mucinous, and Serous",3,3,3,3,3,3,3,3
+Purpura,3,3,2,2,3,3,2,2
+"Glomerulonephritis, Membranous",3,2,2,3,3,2,2,3
+Testicular Diseases,3,2,2,3,2,1,1,2
+"Lymphoma, T-Cell, Peripheral",3,0,0,3,2,0,0,2
+Intestinal Polyposis,3,0,0,2,0,0,0,0
+Adrenocortical Carcinoma,3,1,1,3,3,1,1,3
+"Obstetric Labor, Premature",3,2,1,3,3,2,1,3
+Keratoconus,3,3,2,3,3,3,2,3
+"Infertility, Female",3,3,2,3,1,1,1,1
+Cholangitis,3,3,2,3,2,2,2,2
+Prion Diseases,3,3,3,2,2,2,2,1
+Oligodendroglioma,3,2,1,3,3,2,1,3
+Migraine Disorders,3,0,0,1,3,0,0,1
+Pemphigus,3,2,1,2,3,2,1,2
+Osteomyelitis,3,2,1,2,1,0,0,1
+Endotoxemia,3,3,1,1,3,3,1,1
+Cerebral Palsy,3,1,1,2,3,1,1,2
+Werner Syndrome,3,0,0,2,3,0,0,2
+Cerebral Arterial Diseases,3,2,1,2,1,0,0,1
+Esophageal Motility Disorders,3,3,1,2,3,3,1,2
+Tracheoesophageal Fistula,3,0,0,1,3,0,0,1
+Silver-Russell Syndrome,3,2,1,2,3,2,1,2
+Trisomy 18 Syndrome,3,0,0,3,3,0,0,3
+Deglutition Disorders,3,3,1,2,3,3,1,2
+Headache Disorders,3,0,0,1,3,0,0,1
+Deafness,3,1,1,3,0,0,0,0
+Uterine Cervical Dysplasia,3,1,1,2,3,1,1,2
+Duodenal Diseases,3,3,1,2,2,2,1,1
+Meningeal Neoplasms,3,2,1,3,3,2,1,3
+"Leukodystrophy, Globoid Cell",3,3,2,2,2,2,1,1
+Glucose Intolerance,3,3,2,2,1,1,1,1
+Enteritis,3,3,2,2,3,3,2,2
+Esophageal Fistula,3,0,0,1,3,0,0,1
+Xeroderma Pigmentosum,3,2,1,3,3,2,1,3
+Renal Artery Obstruction,3,3,1,1,0,0,0,0
+"Encephalitis, Arbovirus",3,0,0,2,3,0,0,2
+Lymphopenia,3,0,0,1,3,0,0,1
+Squamous Intraepithelial Lesions of the Cervix,3,1,1,2,3,1,1,2
+Gestational Trophoblastic Disease,3,1,1,2,3,1,1,2
+Friedreich Ataxia,3,2,1,2,3,2,1,2
+"Sarcoma, Alveolar Soft Part",3,2,1,2,1,1,1,1
+Myasthenia Gravis,3,3,2,2,3,3,2,2
+Synostosis,3,3,1,1,3,3,1,1
+Hydatidiform Mole,3,1,1,2,3,1,1,2
+"Spastic Paraplegia, Hereditary",3,3,2,2,3,3,2,2
+Hemangioma,3,2,2,3,2,1,1,2
+"Cholangitis, Sclerosing",3,3,2,3,2,2,2,2
+Granuloma Annulare,3,3,1,3,3,3,1,3
+Stroke,3,3,2,2,1,1,1,1
+Glycogen Storage Disease Type II,3,3,3,2,1,1,1,1
+Craniosynostoses,3,3,1,1,3,3,1,1
+Eczema,3,2,1,3,3,2,1,3
+Granulosa Cell Tumor,3,3,1,2,2,2,1,1
+Hydronephrosis,3,3,1,1,0,0,0,0
+"Osteoporosis, Postmenopausal",3,3,1,1,3,3,1,1
+Graves Ophthalmopathy,3,3,3,2,3,3,3,2
+ST Elevation Myocardial Infarction,3,3,1,1,3,3,1,1
+Enterocolitis,3,3,3,3,2,2,2,2
+Nematode Infections,3,2,1,2,1,0,0,1
+Leukopenia,3,0,0,1,3,0,0,1
+"Hyperlipidemia, Familial Combined",3,1,1,2,3,1,1,2
+Adrenocortical Adenoma,3,2,2,3,3,2,2,3
+Mastitis,3,2,1,2,1,0,0,1
+Paramyxoviridae Infections,3,3,1,2,3,3,1,2
+Diabetic Cardiomyopathies,3,3,2,3,0,0,0,0
+"Nephritis, Hereditary",3,0,0,2,1,0,0,1
+Vascular Malformations,3,2,2,3,3,2,2,3
+Venous Thromboembolism,3,2,1,2,3,2,1,2
+Epidermolysis Bullosa Dystrophica,3,2,1,3,3,2,1,3
+Congenital Microtia,3,1,1,2,3,1,1,2
+Streptococcal Infections,3,3,1,2,3,3,1,2
+"Leukemia, Prolymphocytic",3,2,1,3,3,2,1,3
+Subarachnoid Hemorrhage,3,3,2,2,2,2,1,1
+Distal Myopathies,3,2,1,2,3,2,1,2
+Charcot-Marie-Tooth Disease,3,0,0,2,3,0,0,2
+Chagas Cardiomyopathy,3,3,2,3,1,1,1,1
+Anaphylaxis,2,2,1,1,2,2,1,1
+Myalgia,2,2,1,1,0,0,0,0
+"Fibromatosis, Abdominal",2,2,1,1,2,2,1,1
+Rotator Cuff Injuries,2,2,1,1,0,0,0,0
+"Leukemia, Megakaryoblastic, Acute",2,1,1,2,2,1,1,2
+Vision Disorders,2,1,1,2,0,0,0,0
+Melanosis,2,2,2,2,2,2,2,2
+Cocaine-Related Disorders,2,2,1,1,2,2,1,1
+Sleep Initiation and Maintenance Disorders,2,2,2,1,2,2,2,1
+Uveomeningoencephalitic Syndrome,2,1,1,2,2,1,1,2
+GATA2 Deficiency,2,0,0,1,2,0,0,1
+Chronic Periodontitis,2,2,2,2,2,2,2,2
+Idiopathic Interstitial Pneumonias,2,2,1,2,2,2,1,2
+Alexander Disease,2,1,1,2,2,1,1,2
+Cleft Lip,2,1,1,1,0,0,0,0
+Vitamin A Deficiency,2,2,1,1,0,0,0,0
+Choroideremia,2,0,0,1,2,0,0,1
+Noonan Syndrome,2,0,0,2,2,0,0,2
+"Adenocarcinoma, Sebaceous",2,0,0,1,2,0,0,1
+"Rhabdomyosarcoma, Embryonal",2,0,0,1,0,0,0,0
+"Insomnia, Fatal Familial",2,2,2,1,2,2,2,1
+Drug Hypersensitivity Syndrome,2,1,1,1,2,1,1,1
+"Adenoma, Liver Cell",2,2,1,2,1,1,1,1
+Gangliosidoses,2,0,0,1,2,0,0,1
+"Histiocytosis, Langerhans-Cell",2,2,2,2,2,2,2,2
+Retinoblastoma,2,1,1,2,2,1,1,2
+Pneumovirus Infections,2,2,1,1,2,2,1,1
+MELAS Syndrome,2,1,1,2,2,1,1,2
+Mucopolysaccharidosis III,2,0,0,2,2,0,0,2
+"Tuberculosis, Multidrug-Resistant",2,0,0,1,2,0,0,1
+"Sarcoidosis, Pulmonary",2,2,2,2,2,2,2,2
+Musculoskeletal Pain,2,2,1,1,0,0,0,0
+Bronchitis,2,1,1,2,2,1,1,2
+Invasive Fungal Infections,2,2,1,2,2,2,1,2
+"Supranuclear Palsy, Progressive",2,2,2,2,2,2,2,2
+Cerebral Small Vessel Diseases,2,1,1,2,2,1,1,2
+Fibromyalgia,2,2,2,2,2,2,2,2
+Severe Dengue,2,0,0,2,2,0,0,2
+Dent Disease,2,2,1,1,0,0,0,0
+Nephrosis,2,2,2,2,2,2,2,2
+Retinal Neoplasms,2,1,1,2,2,1,1,2
+"Gastritis, Atrophic",2,1,1,2,1,1,1,1
+Meningioma,2,2,1,2,2,2,1,2
+"Metal Metabolism, Inborn Errors",2,2,2,2,1,1,1,1
+Papillomavirus Infections,2,1,1,2,1,0,0,1
+"Leukemia, Large Granular Lymphocytic",2,0,0,2,2,0,0,2
+Pancreatic Intraductal Neoplasms,2,2,2,2,2,2,2,2
+Filoviridae Infections,2,0,0,1,0,0,0,0
+"Niemann-Pick Disease, Type C",2,2,2,2,1,1,1,1
+Nijmegen Breakage Syndrome,2,1,1,2,1,0,0,1
+Pterygium,2,2,2,2,2,2,2,2
+Duodenitis,2,2,1,1,2,2,1,1
+"Neoplasms, Adnexal and Skin Appendage",2,0,0,1,2,0,0,1
+Paraganglioma,2,0,0,1,2,0,0,1
+Speech Disorders,2,1,1,2,1,0,0,1
+IgA Vasculitis,2,2,1,1,2,2,1,1
+Adenomyosis,2,2,1,2,2,2,1,2
+Brucellosis,2,2,1,1,2,2,1,1
+Hemorrhoids,2,2,1,1,2,2,1,1
+"Polyendocrinopathies, Autoimmune",2,0,0,1,0,0,0,0
+"Candidiasis, Invasive",2,2,1,2,2,2,1,2
+"Cardiomyopathy, Hypertrophic, Familial",2,2,1,1,0,0,0,0
+West Nile Fever,2,0,0,1,2,0,0,1
+Aphasia,2,1,1,2,1,0,0,1
+Candidemia,2,2,1,2,2,2,1,2
+Central Nervous System Vascular Malformations,2,1,1,2,2,1,1,2
+Diabetic Foot,2,2,1,1,2,2,1,1
+Trisomy 13 Syndrome,2,0,0,2,2,0,0,2
+Familial Primary Pulmonary Hypertension,2,1,1,2,2,1,1,2
+Polyradiculoneuropathy,2,2,1,2,2,2,1,2
+"Carcinoma, Adenosquamous",2,2,2,2,0,0,0,0
+"Kidney Failure, Chronic",2,1,1,2,2,1,1,2
+Rhabdoid Tumor,2,1,1,2,1,0,0,1
+Fallopian Tube Diseases,2,2,1,1,0,0,0,0
+Hyperpigmentation,2,2,2,2,2,2,2,2
+Hepatic Encephalopathy,2,2,2,1,2,2,2,1
+Coagulation Protein Disorders,2,0,0,2,2,0,0,2
+Lymphangiomyoma,2,1,1,2,2,1,1,2
+"Obesity, Metabolically Benign",2,2,1,1,2,2,1,1
+"Stomatitis, Aphthous",2,0,0,1,2,0,0,1
+Erythema Chronicum Migrans,2,2,1,1,2,2,1,1
+Hyperpituitarism,2,2,1,2,2,2,1,2
+Leg Ulcer,2,2,1,1,2,2,1,1
+Spinal Dysraphism,2,2,2,2,2,2,2,2
+Rheumatic Fever,2,2,1,1,2,2,1,1
+Microcephaly,2,2,2,2,1,1,1,1
+Neurogenic Inflammation,2,2,1,2,0,0,0,0
+Mucormycosis,2,0,0,1,2,0,0,1
+"Nephrosis, Lipoid",2,2,2,2,2,2,2,2
+Thymus Neoplasms,2,0,0,2,1,0,0,1
+Ophthalmoplegia,2,2,2,2,2,2,2,2
+Retinoschisis,2,2,1,2,1,1,1,1
+Perivascular Epithelioid Cell Neoplasms,2,1,1,2,2,1,1,2
+Albinism,2,1,1,2,1,0,0,1
+Diabetic Neuropathies,2,2,1,1,2,2,1,1
+Respiratory Syncytial Virus Infections,2,2,1,1,2,2,1,1
+Hemangiosarcoma,2,2,2,1,2,2,2,1
+Pulmonary Aspergillosis,2,2,1,1,0,0,0,0
+Fungemia,2,2,1,2,2,2,1,2
+Thyroid Hormone Resistance Syndrome,2,2,1,1,0,0,0,0
+"Pneumonia, Bacterial",2,1,1,2,2,1,1,2
+Orbital Pseudotumor,2,2,2,1,2,2,2,1
+Fallopian Tube Neoplasms,2,2,1,1,0,0,0,0
+Language Disorders,2,1,1,2,1,0,0,1
+"Hemorrhagic Fever, Ebola",2,0,0,1,0,0,0,0
+Severe Combined Immunodeficiency,2,0,0,1,2,0,0,1
+Carotid Artery Diseases,2,0,0,2,1,0,0,1
+"Hemangioma, Cavernous",2,1,1,2,2,1,1,2
+Adenomatous Polyposis Coli,2,0,0,1,0,0,0,0
+"Malaria, Falciparum",2,1,1,2,2,1,1,2
+Typhoid Fever,2,2,1,1,0,0,0,0
+Communication Disorders,2,1,1,2,1,0,0,1
+Prostatic Intraepithelial Neoplasia,2,2,1,1,0,0,0,0
+Teratoma,2,0,0,1,2,0,0,1
+"Infarction, Middle Cerebral Artery",2,2,1,1,0,0,0,0
+"Sarcoma, Synovial",2,1,1,2,0,0,0,0
+Zygomycosis,2,0,0,1,2,0,0,1
+Lipoma,2,2,1,1,2,2,1,1
+Thymoma,2,0,0,2,1,0,0,1
+"Gangliosidoses, GM2",2,0,0,1,2,0,0,1
+Hepatitis E,2,1,1,1,2,1,1,1
+Cytomegalovirus Infections,2,1,1,2,1,0,0,1
+Foot Ulcer,2,2,1,1,2,2,1,1
+"Hemangioma, Cavernous, Central Nervous System",2,1,1,2,2,1,1,2
+"Carcinoma, Adenoid Cystic",2,2,2,1,2,2,2,1
+Preleukemia,2,2,1,1,0,0,0,0
+Mucositis,2,2,1,1,0,0,0,0
+Lymphangioleiomyomatosis,2,1,1,2,2,1,1,2
+Guillain-Barre Syndrome,2,2,1,2,2,2,1,2
+Measles,1,1,1,1,1,1,1,1
+Appendicitis,1,1,1,1,1,1,1,1
+Warts,1,1,1,1,0,0,0,0
+"Scleroderma, Limited",1,0,0,1,1,0,0,1
+Mitral Valve Insufficiency,1,1,1,1,1,1,1,1
+Gingival Diseases,1,1,1,1,1,1,1,1
+Oligospermia,1,1,1,1,0,0,0,0
+"Keratosis, Seborrheic",1,1,1,1,1,1,1,1
+Polyuria,1,1,1,1,0,0,0,0
+"Candidiasis, Vulvovaginal",1,1,1,1,0,0,0,0
+Churg-Strauss Syndrome,1,1,1,1,1,1,1,1
+Infectious Mononucleosis,1,0,0,1,1,0,0,1
+Leigh Disease,1,0,0,1,1,0,0,1
+Fetal Growth Retardation,1,1,1,1,1,1,1,1
+Polyomavirus Infections,1,1,1,1,0,0,0,0
+Arteriovenous Malformations,1,1,1,1,1,1,1,1
+"Osteoarthritis, Knee",1,1,1,1,1,1,1,1
+alpha 1-Antitrypsin Deficiency,1,1,1,1,1,1,1,1
+Chilblains,1,1,1,1,1,1,1,1
+"von Willebrand Disease, Type 3",1,0,0,1,1,0,0,1
+Carotid Stenosis,1,0,0,1,0,0,0,0
+Lissencephaly,1,1,1,1,1,1,1,1
+"Elephantiasis, Filarial",1,0,0,1,1,0,0,1
+Galactosemias,1,1,1,1,0,0,0,0
+AIDS-Related Complex,1,1,1,1,0,0,0,0
+"Epilepsies, Partial",1,1,1,1,1,1,1,1
+Ehlers-Danlos Syndrome,1,1,1,1,1,1,1,1
+Oculocerebrorenal Syndrome,1,0,0,1,1,0,0,1
+Hepatolenticular Degeneration,1,1,1,1,0,0,0,0
+Alagille Syndrome,1,1,1,1,1,1,1,1
+Vulvovaginitis,1,1,1,1,0,0,0,0
+Vestibular Diseases,1,1,1,1,1,1,1,1
+Trigeminal Nerve Diseases,1,1,1,1,1,1,1,1
+Nasal Obstruction,1,1,1,1,0,0,0,0
+Lipodystrophy,1,0,0,1,1,0,0,1
+Kashin-Beck Disease,1,0,0,1,1,0,0,1
+Duodenal Neoplasms,1,1,1,1,0,0,0,0
+Burkitt Lymphoma,1,1,1,1,1,1,1,1
+Hermanski-Pudlak Syndrome,1,0,0,1,1,0,0,1
+"Liver Cirrhosis, Alcoholic",1,1,1,1,1,1,1,1
+Vitamin B Deficiency,1,0,0,1,0,0,0,0
+Thrombotic Microangiopathies,1,1,1,1,1,1,1,1
+Morbillivirus Infections,1,1,1,1,1,1,1,1
+Moyamoya Disease,1,0,0,1,1,0,0,1
+"Anemia, Hypochromic",1,1,1,1,0,0,0,0
+Vulvar Diseases,1,1,1,1,0,0,0,0
+Placenta Accreta,1,1,1,1,1,1,1,1
+Neurofibrosarcoma,1,0,0,1,1,0,0,1
+"Ichthyosis, Lamellar",1,1,1,1,1,1,1,1
+"Malformations of Cortical Development, Group II",1,1,1,1,1,1,1,1
+Megacolon,1,1,1,1,1,1,1,1
+Trichothiodystrophy Syndromes,1,1,1,1,1,1,1,1
+"Still's Disease, Adult-Onset",1,0,0,1,1,0,0,1
+Kallmann Syndrome,1,1,1,1,1,1,1,1
+"Puberty, Precocious",1,1,1,1,1,1,1,1
+Facial Neuralgia,1,1,1,1,1,1,1,1
+"Hepatitis B, Chronic",1,1,1,1,1,1,1,1
+Schistosomiasis japonica,1,1,1,1,0,0,0,0
+Machado-Joseph Disease,1,1,1,1,0,0,0,0
+Spirurida Infections,1,0,0,1,1,0,0,1
+Mitral Valve Prolapse,1,1,1,1,1,1,1,1
+Platelet Storage Pool Deficiency,1,0,0,1,1,0,0,1
+"Epilepsy, Temporal Lobe",1,1,1,1,1,1,1,1
+Prolactinoma,1,1,1,1,1,1,1,1
+"Trypanosomiasis, African",1,1,1,1,0,0,0,0
+Optic Atrophy,1,0,0,1,1,0,0,1
+Bronchiolitis Obliterans,1,1,1,1,1,1,1,1
+"Lymphohistiocytosis, Hemophagocytic",1,0,0,1,1,0,0,1
+Premature Birth,1,1,1,1,1,1,1,1
+Peanut Hypersensitivity,1,0,0,1,1,0,0,1
+Familial Mediterranean Fever,1,1,1,1,1,1,1,1
+Erythema Nodosum,1,1,1,1,1,1,1,1
+Bronchiolitis,1,1,1,1,1,1,1,1
+Bardet-Biedl Syndrome,1,0,0,1,1,0,0,1
+Dental Caries,1,1,1,1,1,1,1,1
+"Bone Diseases, Endocrine",1,1,1,1,1,1,1,1
+Peri-Implantitis,1,1,1,1,1,1,1,1
+Cestode Infections,1,1,1,1,1,1,1,1
+"Carcinoma, Papillary",1,1,1,1,0,0,0,0
+"Glaucoma, Open-Angle",1,1,1,1,1,1,1,1
+Iron Deficiencies,1,1,1,1,0,0,0,0
+"Pericarditis, Constrictive",1,1,1,1,1,1,1,1
+"Urea Cycle Disorders, Inborn",1,1,1,1,1,1,1,1
+Coffin-Lowry Syndrome,1,1,1,1,0,0,0,0
+Osteochondrodysplasias,1,0,0,1,1,0,0,1
+Urinary Tract Infections,1,1,1,1,0,0,0,0
+Tyrosinemias,1,1,1,1,0,0,0,0
+Echinococcosis,1,1,1,1,1,1,1,1
+Ganglioglioma,1,1,1,1,1,1,1,1
+Secernentea Infections,1,0,0,1,1,0,0,1
+Central Nervous System Cysts,1,1,1,1,0,0,0,0
+"Leukodystrophy, Metachromatic",1,1,1,1,1,1,1,1
+Hemochromatosis,1,1,1,1,1,1,1,1
+"Aneurysm, Ruptured",1,0,0,1,1,0,0,1
+Aortic Valve Insufficiency,1,1,1,1,1,1,1,1
+Prostatic Diseases,1,1,1,1,0,0,0,0
+Schnitzler Syndrome,1,0,0,1,1,0,0,1
+Femur Head Necrosis,1,0,0,1,1,0,0,1
+Vaginal Diseases,1,1,1,1,0,0,0,0
+Sulfatidosis,1,1,1,1,1,1,1,1
+Epidermolysis Bullosa Simplex,1,0,0,1,1,0,0,1
+Latent Autoimmune Diabetes in Adults,1,0,0,1,1,0,0,1
+"Adenocarcinoma, Follicular",1,1,1,1,1,1,1,1
+Immunoglobulin Light-chain Amyloidosis,1,0,0,1,1,0,0,1
+"Angina, Unstable",1,1,1,1,1,1,1,1
+Coloboma,1,0,0,1,0,0,0,0
+HELLP Syndrome,1,1,1,1,1,1,1,1
+Pinealoma,1,1,1,1,1,1,1,1
+Fibrosarcoma,1,0,0,1,1,0,0,1
+"Muscular Dystrophies, Limb-Girdle",1,0,0,1,1,0,0,1
+Deaf-Blind Disorders,1,0,0,1,0,0,0,0
+"Mastocytosis, Systemic",1,1,1,1,1,1,1,1
+"Hypertrophy, Left Ventricular",1,1,1,1,0,0,0,0
+Tongue Neoplasms,1,1,1,1,0,0,0,0
+Hypolipoproteinemias,1,0,0,1,1,0,0,1
+Hyperlactatemia,1,1,1,1,1,1,1,1
+Amphetamine-Related Disorders,1,1,1,1,1,1,1,1
+"Muscular Dystrophy, Oculopharyngeal",1,1,1,1,0,0,0,0
+Tangier Disease,1,0,0,1,1,0,0,1
+Tracheal Stenosis,1,1,1,1,1,1,1,1
+Multiple Endocrine Neoplasia,1,1,1,1,0,0,0,0
+Iron Overload,1,1,1,1,1,1,1,1
+Choroid Plexus Neoplasms,1,1,1,1,1,1,1,1
+Periapical Periodontitis,1,1,1,1,0,0,0,0
+Retinal Detachment,1,1,1,1,1,1,1,1
+"Skin Diseases, Viral",1,1,1,1,0,0,0,0
+"Cardiomyopathy, Restrictive",1,1,1,1,1,1,1,1
+"Encephalitis, Japanese",1,0,0,1,1,0,0,1
+"Purpura, Thrombocytopenic",1,1,1,1,1,1,1,1
+Hypoalphalipoproteinemias,1,0,0,1,1,0,0,1
+Hemoperitoneum,1,1,1,1,1,1,1,1
+"Albinism, Oculocutaneous",1,0,0,1,1,0,0,1
+Hemorrhagic Fever with Renal Syndrome,1,0,0,1,1,0,0,1
+"Esthesioneuroblastoma, Olfactory",1,0,0,1,1,0,0,1
+Mastocytosis,1,1,1,1,1,1,1,1
+"Leukemia, Mast-Cell",1,1,1,1,1,1,1,1
+"Lymphoma, Primary Effusion",1,0,0,1,1,0,0,1
+Neuromyelitis Optica,1,0,0,1,0,0,0,0
+Cecal Diseases,1,1,1,1,1,1,1,1
+Arteriovenous Fistula,1,1,1,1,1,1,1,1
+Vascular Fistula,1,1,1,1,1,1,1,1
+Aniridia,1,0,0,1,1,0,0,1
+Nevus,1,1,1,1,1,1,1,1
+Periapical Diseases,1,1,1,1,0,0,0,0
+"Angina, Stable",1,1,1,1,1,1,1,1
+Disorders of Excessive Somnolence,1,1,1,1,1,1,1,1
+Meningomyelocele,1,0,0,1,1,0,0,1
+"Purpura, Thrombotic Thrombocytopenic",1,1,1,1,1,1,1,1
+Heart Valve Prolapse,1,1,1,1,1,1,1,1
+"Optic Atrophies, Hereditary",1,0,0,1,1,0,0,1
+"Rhabdomyosarcoma, Alveolar",1,1,1,1,0,0,0,0
+Nut and Peanut Hypersensitivity,1,0,0,1,1,0,0,1
+Lipomatosis,1,1,1,1,1,1,1,1
+Complex Regional Pain Syndromes,1,1,1,1,1,1,1,1
+Chondrosarcoma,1,0,0,1,1,0,0,1
+Cushing Syndrome,1,1,1,1,1,1,1,1
+Nephrosclerosis,1,1,1,1,1,1,1,1
+Carbamoyl-Phosphate Synthase I Deficiency Disease,1,1,1,1,1,1,1,1
+"Amino Acid Transport Disorders, Inborn",1,0,0,1,1,0,0,1
+Hemangioendothelioma,1,1,1,1,0,0,0,0
+Vaginitis,1,1,1,1,0,0,0,0
+Pituitary ACTH Hypersecretion,1,1,1,1,1,1,1,1
+"Depression, Postpartum",1,1,1,1,1,1,1,1
+Deltaretrovirus Infections,1,1,1,1,1,1,1,1
+Placenta Diseases,1,1,1,1,1,1,1,1
+"Papilloma, Choroid Plexus",1,1,1,1,1,1,1,1
+Ectodermal Dysplasia,1,1,1,1,1,1,1,1
+Cerebral Ventricle Neoplasms,1,1,1,1,1,1,1,1
+"Mixed Tumor, Mesodermal",1,1,1,1,0,0,0,0
+"Hepatitis C, Chronic",1,1,1,1,1,1,1,1
+"Anemia, Iron-Deficiency",1,1,1,1,0,0,0,0
+"Alveolitis, Extrinsic Allergic",1,1,1,1,1,1,1,1
+Tay-Sachs Disease,1,0,0,1,1,0,0,1
+Urination Disorders,1,1,1,1,0,0,0,0
+Solitary Fibrous Tumors,1,1,1,1,1,1,1,1
+"Lichen Planus, Oral",1,1,1,1,1,1,1,1
+Gingivitis,1,1,1,1,1,1,1,1
+Heart Septal Defects,1,0,0,1,1,0,0,1
+Hypertriglyceridemia,1,1,1,1,0,0,0,0
+Antiphospholipid Syndrome,1,0,0,1,1,0,0,1
+Xerophthalmia,1,1,1,1,0,0,0,0
+"Carcinoma, Neuroendocrine",1,1,1,1,0,0,0,0
+Airway Obstruction,1,1,1,1,0,0,0,0
+"Myelitis, Transverse",1,0,0,1,0,0,0,0
+HTLV-I Infections,1,1,1,1,1,1,1,1
+"Cystadenocarcinoma, Serous",1,1,1,1,1,1,1,1
+Filariasis,1,0,0,1,1,0,0,1
+Dystonic Disorders,1,1,1,1,0,0,0,0
+Rheumatic Heart Disease,1,1,1,1,1,1,1,1
+"Colitis, Lymphocytic",1,1,1,1,1,1,1,1
+"Trophoblastic Tumor, Placental Site",1,1,1,1,1,1,1,1
+Narcolepsy,1,1,1,1,1,1,1,1
+Hirschsprung Disease,1,1,1,1,1,1,1,1
+Prolidase Deficiency,1,0,0,1,1,0,0,1
+"Heart Septal Defects, Ventricular",1,0,0,1,1,0,0,1
+Protein C Deficiency,1,0,0,1,1,0,0,1
+Teratozoospermia,1,0,0,1,1,0,0,1
+Transposition of Great Vessels,1,0,0,1,1,0,0,1
+Prostatic Hyperplasia,1,1,1,1,0,0,0,0
+Chordoma,1,0,0,1,1,0,0,1
+Whipple Disease,1,0,0,1,1,0,0,1
+Myositis Ossificans,1,0,0,1,1,0,0,1
+Zika Virus Infection,1,0,0,1,0,0,0,0
+"Leukemia, Monocytic, Acute",1,1,1,1,1,1,1,1
+WAGR Syndrome,1,0,0,1,1,0,0,1
+Blindness,1,0,0,1,0,0,0,0
+Fanconi Anemia,1,0,0,1,1,0,0,1
+Actinomycosis,1,0,0,1,1,0,0,1
+"Lipomatosis, Multiple Symmetrical",1,1,1,1,1,1,1,1
+"Pyruvate Metabolism, Inborn Errors",1,0,0,1,1,0,0,1
+"Colorectal Neoplasms, Hereditary Nonpolyposis",1,1,1,1,1,1,1,1
+Dystonia,1,1,1,1,1,1,1,1
+"Adenocarcinoma, Mucinous",1,1,1,1,1,1,1,1
+CHARGE Syndrome,1,0,0,1,0,0,0,0
+Giant Cell Tumors,1,1,1,1,1,1,1,1
+"Fibromatosis, Aggressive",1,1,1,1,1,1,1,1
+Nerve Compression Syndromes,1,1,1,1,0,0,0,0
+Muscle Neoplasms,1,1,1,1,0,0,0,0
+Bloom Syndrome,1,0,0,1,1,0,0,1
+Activated Protein C Resistance,1,0,0,1,1,0,0,1
+"Carcinoma, Signet Ring Cell",1,1,1,1,1,1,1,1
+"Carcinoma, Merkel Cell",1,1,1,1,0,0,0,0
+Fanconi Syndrome,1,1,1,1,1,1,1,1
+Sandhoff Disease,1,0,0,1,1,0,0,1
+Polycythemia,1,0,0,1,1,0,0,1
+"Hemangioendothelioma, Epithelioid",1,1,1,1,0,0,0,0
+Vulvitis,1,1,1,1,0,0,0,0
+Capillary Leak Syndrome,1,0,0,1,1,0,0,1
+Neurocytoma,1,1,1,1,1,1,1,1
+Hantavirus Infections,1,0,0,1,1,0,0,1
+Eosinophilia-Myalgia Syndrome,1,1,1,1,1,1,1,1
+Pseudotumor Cerebri,1,1,1,1,1,1,1,1
+Pseudomonas Infections,1,1,1,1,0,0,0,0
+Ameloblastoma,1,0,0,1,1,0,0,1
+"Ventricular Dysfunction, Right",1,1,1,1,0,0,0,0
+Trigeminal Neuralgia,1,1,1,1,1,1,1,1
+Phenylketonurias,1,0,0,1,1,0,0,1
+Pheochromocytoma,1,0,0,1,1,0,0,1
+"Nevus, Sebaceous of Jadassohn",1,1,1,1,1,1,1,1
+"Paraparesis, Tropical Spastic",1,1,1,1,1,1,1,1
+Choriocarcinoma,1,1,1,1,1,1,1,1
+von Willebrand Diseases,1,0,0,1,1,0,0,1
+Hyperhomocysteinemia,1,0,0,1,0,0,0,0
+Intestinal Perforation,1,1,1,1,1,1,1,1
+Cystadenocarcinoma,1,1,1,1,1,1,1,1
+"Paget Disease, Extramammary",1,1,1,1,1,1,1,1
+Acromegaly,1,1,1,1,1,1,1,1
+"Obesity, Morbid",1,1,1,1,1,1,1,1
+Myelitis,1,1,1,1,1,1,1,1

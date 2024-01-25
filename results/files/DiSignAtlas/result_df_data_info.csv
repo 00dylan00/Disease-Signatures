@@ -1,0 +1,1496 @@
+disease,N_SIGNATURES,N_DATASETS,N_TISSUE_INFO,N_TISSUE_TYPES,HUMAN_COUNT
+Huntington's Disease,331,66,299,23,62
+Alzheimer's Disease,169,86,149,40,111
+Asthma,162,73,110,22,152
+COVID-19,161,85,106,22,146
+Influenza,154,32,49,8,114
+Parkinson's Disease,136,79,98,26,111
+Systemic Lupus Erythematosus,134,70,74,9,130
+Obesity,132,80,112,34,39
+Hepatocellular Carcinoma,123,76,99,5,89
+Crohn's Disease,123,64,107,24,117
+Ulcerative Colitis,116,59,105,22,109
+Sepsis,109,43,77,12,53
+Breast Cancer,105,65,75,14,82
+Psoriasis,100,55,87,11,89
+Schizophrenia,95,53,62,13,94
+Multiple Sclerosis,93,58,63,19,82
+Amyotrophic Lateral Sclerosis,89,45,50,14,65
+Tuberculosis,87,46,68,7,59
+Chronic Obstructive Pulmonary Disease,87,50,42,16,83
+Rheumatoid Arthritis,86,42,52,9,82
+Idiopathic Pulmonary Fibrosis,84,49,63,3,77
+Colorectal Carcinoma,82,59,68,14,65
+Type 1 Diabetes,76,42,46,17,59
+Non-Alcoholic Steatohepatitis,65,43,62,3,19
+Melanoma,63,40,33,8,51
+Diabetes,63,48,55,26,19
+Myocardial Infarction,60,25,55,12,15
+Acute Myeloid Leukemia (Aml-M2),60,40,40,5,51
+Colitis,59,27,57,9,4
+Prostate Cancer,59,32,51,6,45
+Type 2 Diabetes,59,35,51,20,34
+Atopic Dermatitis,55,23,52,6,46
+Chronic Lymphocytic Leukemia,53,27,25,5,45
+Duchenne Muscular Dystrophy,48,22,43,12,14
+Bipolar Disorder,47,31,33,10,46
+Multiple Myeloma,46,30,30,7,41
+Autism Spectrum Disorder,45,21,25,8,41
+Diabetes;Obesity,43,5,42,4,0
+Leukemia,43,19,18,5,3
+Chronic Myeloid Leukemia,42,13,34,4,39
+Glioblastoma,42,26,28,1,40
+Major Depressive Disorder,39,26,31,11,36
+Pancreatic Ductal Adenocarcinoma,38,23,35,8,27
+Juvenile Idiopathic Arthritis,38,18,10,5,38
+Pancreatic Cancer,38,16,33,7,23
+Down Syndrome,36,28,19,10,26
+Heart Failure,35,20,31,6,18
+Non-Alcoholic Fatty Liver Disease,34,22,30,2,9
+Lung Adenocarcinoma,34,23,27,2,25
+Lymphoma,33,15,15,7,11
+Colon Tumor,33,15,33,5,21
+Systemic Sclerosis [Scleroderma],33,21,18,3,32
+Lung Injury,32,6,32,1,2
+Polycystic Ovary Syndrome,32,24,21,10,30
+Osteoarthritis,32,26,22,11,28
+Malaria,31,8,24,6,10
+Pre-Eclampsia,31,22,26,8,31
+Sarcoidosis,30,17,15,7,30
+Alcohol Use Disorder,30,12,30,11,21
+Primary Sjogren Syndrome,29,16,15,5,29
+Atherosclerosis,29,15,15,7,22
+Bladder Cancer,29,17,22,5,18
+Spinal Muscular Atrophy,29,14,23,11,14
+Endometriosis,29,16,16,2,29
+Brain Tumor,28,8,18,3,23
+Allergic Rhinitis,27,12,17,7,27
+Lung Cancer,27,18,27,7,15
+Myelodysplastic Syndromes,27,18,23,2,27
+Acute Kidney Injury,26,13,26,3,2
+Cardiomyopathy,26,18,20,6,8
+Cystic Fibrosis,26,21,18,10,21
+Liver Tumor,26,16,23,1,3
+Acute Lung Injury,25,6,19,2,0
+Liver Cancer,25,12,14,3,13
+Hepatitis C,25,12,9,5,25
+Acute Myeloid Leukemia,25,15,13,3,20
+Ovarian Cancer,24,16,13,4,21
+"Arthritis, Collagen-Induced",24,4,24,6,0
+Non-Small Cell Lung Cancer,24,14,12,3,24
+Sickle Cell Disease,24,12,21,7,18
+Gastric Cancer,23,16,16,4,23
+Ischemic Stroke,23,8,21,4,4
+Diabetic Kidney Disease,23,17,20,8,13
+Hutchinson-Gilford Progeria Syndrome,23,14,7,3,22
+Liver Cirrhosis,23,12,23,3,11
+Dilated Cardiomyopathy,22,16,16,6,16
+Renal Cell Carcinoma,22,14,14,4,21
+Allergic Asthma,22,13,17,8,15
+Injury of Liver,22,12,21,2,1
+Ischemia Reperfusion Injury,21,10,21,7,4
+Cervical Cancer,21,12,15,4,21
+Myotonic Dystrophy Type 1,21,13,12,6,21
+Frontotemporal Dementia,21,7,14,7,21
+Myelodysplastic Syndrome,21,12,14,1,21
+Brain Damage,20,8,20,7,4
+Fibrosis; Liver,20,12,18,1,3
+Pulmonary Arterial Hypertension,20,17,17,5,16
+Chronic Mucocutaneous Candidiasis,20,2,20,2,20
+Pulmonary Fibrosis,20,9,20,1,4
+Gaucher Disease,19,8,15,6,5
+Colon Cancer,19,14,15,3,14
+Inflammatory Bowel Disease,19,12,18,5,7
+Inflammation,19,8,10,9,3
+Glioma,18,9,8,1,17
+Ovarian Serous Carcinoma,18,8,16,4,9
+Squamous Cell Carcinoma,18,15,12,4,12
+Facioscapulohumeral Muscular Dystrophy,18,10,16,5,18
+Mammary Tumor,18,9,18,7,0
+Epilepsy,18,9,18,5,2
+Acquired Immunodeficiency Syndrome,18,9,8,3,18
+Experimental Autoimmune Encephalomyelitis,18,13,15,6,0
+Hypertension,17,10,14,10,11
+Lung Squamous Cell Carcinoma,17,9,14,1,14
+Coeliac Disease,17,13,11,6,17
+Juvenile Dermatomyositis,17,6,15,2,17
+Age Related Macular Degeneration,16,10,8,3,15
+Sjogren's Syndrome,16,12,14,8,14
+Type 2 Diabetes Mellitus,16,8,8,6,14
+Leprosy,16,6,15,4,16
+Cirrhosis,16,13,13,4,16
+Arthritis,16,9,14,8,7
+Post-Traumatic Stress Disorder,16,7,12,4,13
+Glaucoma,16,9,12,3,5
+Allergy,15,6,11,4,13
+Metabolic Syndrome,15,7,13,4,10
+Ankylosing Spondylitis,15,9,11,4,15
+Lupus Nephritis,15,10,15,4,13
+Periodontitis,15,11,11,3,14
+Clear Cell Renal Cell Carcinoma,15,12,12,2,15
+Papillary Thyroid Carcinoma,15,10,11,1,15
+Dengue Disease,15,7,13,3,14
+Oral Squamous Cell Carcinoma,15,10,11,6,15
+Chronic Kidney Disease,14,9,11,5,11
+Skin Wound,14,1,14,2,0
+Autism,14,9,10,6,9
+Hepatitis B,14,9,10,5,11
+Medulloblastoma,14,10,8,2,5
+Spinal Cord Disorder,14,7,12,3,3
+Acute Erythroid Leukemia,14,1,14,1,0
+T-Cell Acute Lymphoblastic Leukemia,13,11,7,3,5
+Muscular Dystrophy,13,6,12,5,3
+Esophageal Squamous Cell Carcinoma,13,10,9,2,12
+Spinal And Bulbar Muscular Atrophy,13,7,8,6,8
+Irritable Bowel Syndrome,13,6,12,5,13
+Facioscapulohumeral Dystrophy,13,9,6,4,9
+Acute Pancreatitis,13,8,10,4,3
+Acute Lymphoblastic Leukemia,12,7,7,3,10
+Pancreatic Tumor,12,5,11,3,10
+Polytrauma,12,2,6,3,0
+Wilms Tumor,12,3,9,1,12
+Graft Versus Host Disease,12,4,1,1,9
+Coronary Artery Disease,12,9,8,5,12
+Neuroblastoma,12,8,4,1,7
+Abdominal Aortic Aneurysm,12,4,4,3,3
+B-Cell Acute Lymphoblastic Leukemia,12,3,1,1,11
+Lung Disease,12,2,12,2,12
+Systemic Juvenile Idiopathic Arthritis,12,7,3,2,12
+Listeriosis,12,1,12,3,0
+Cutaneous T Cell Lymphoma,12,6,7,1,12
+Esophageal Cancer,12,5,11,3,12
+Hidradenitis Suppurativa,11,6,10,2,11
+Behcet's Disease,11,8,7,2,11
+Eosinophilic Esophagitis,11,7,11,3,10
+Depression,11,11,10,10,7
+Steatosis,11,8,9,2,8
+Bronchopulmonary Dysplasia,11,3,11,2,11
+Familial Hypercholesterolemia,11,5,1,1,10
+Myeloproliferative Neoplasm,11,5,10,2,10
+Ovarian Tumor,11,5,11,2,8
+Gestational Diabetes,11,5,9,4,11
+Head And Neck Squamous Cell Carcinoma,11,9,3,3,11
+Septic Shock,11,9,9,2,11
+H1N1 Influenza,11,6,10,1,1
+Monoclonal Gammopathy of Undetermined Significance,11,11,6,3,11
+Colorectal Adenoma,10,5,10,2,10
+Active Tuberculosis,10,4,10,3,10
+Spinocerebellar Ataxia Type 2,10,2,10,3,0
+Pharyngitis,10,2,9,1,9
+Pneumonia,10,8,8,4,7
+Nasopharyngeal Carcinoma,10,9,8,1,10
+Cholangiocarcinoma,10,5,6,2,7
+Adenocarcinoma,10,6,5,2,7
+Rett Syndrome,10,7,6,5,8
+Central Nervous System Neurodegenerative Disorder,10,2,10,1,0
+Kawasaki Disease,10,7,10,4,10
+Cornelia De Lange Syndrome,10,6,7,2,10
+Systemic Inflammatory Response Syndrome,10,7,8,3,7
+Smith-Lemli-Opitz Syndrome,9,3,1,1,8
+Airway Injury,9,1,9,1,9
+Intracranial Aneurysm,9,7,7,5,9
+Stroke,9,6,8,7,4
+Retinitis Pigmentosa,9,5,6,1,4
+Diffuse Large B-Cell Lymphoma,9,6,6,3,9
+Chronic Rhinosinusitis,9,6,7,4,9
+Hypertrophic Cardiomyopathy,9,9,6,3,8
+Otitis Media,9,3,9,2,0
+Cutaneous Lupus Erythematosus,9,3,9,2,9
+Polyarticular Juvenile Idiopathic Arthritis,9,3,7,2,9
+Muscle Injury,9,1,9,1,0
+Primary Biliary Cholangitis,9,5,4,2,4
+Williams Syndrome,9,6,7,4,7
+Follicular Lymphoma,9,7,8,3,9
+Focal Segmental Glomerulosclerosis,9,6,6,4,6
+Chronic Myelogenous Leukemia,9,6,3,3,8
+Common Variable Immunodeficiency,9,6,8,3,9
+Astrocytoma,8,4,4,1,8
+Dermatomyositis,8,8,8,4,8
+Essential Thrombocythemia,8,5,2,1,8
+Non-Obstructive Azoospermia,8,3,8,1,8
+Mycosis Fungoides,8,2,8,1,8
+Ductal Carcinoma In Situ,8,4,7,1,3
+Hepatoblastoma,8,7,7,1,7
+Juvenile Myelomonocytic Leukemia,8,4,7,1,7
+Primary Myelofibrosis,8,7,7,3,8
+Generalized Pustular Psoriasis,8,7,5,3,8
+Leishmaniasis,8,4,7,3,3
+Biphasic Inflammatory,8,1,8,1,0
+Endometrial Cancer,8,4,8,3,4
+Acute-On-Chronic Liver Failure,8,6,4,3,8
+Interstitial Lung Disease,8,6,4,1,8
+Leiomyoma,8,6,7,2,8
+Rhinitis,8,5,8,6,8
+Rectal Cancer,8,5,7,2,8
+Schizoaffective Disorder,8,2,8,2,8
+T-Cell Lymphoma,8,2,2,1,2
+Clinically Isolated Syndrome,8,5,3,3,8
+Ichthyosis,8,2,8,1,8
+Barrett's Esophagus,8,7,6,2,8
+Tuberculosis/Hyperglycaemia And Diabetes,8,1,8,1,8
+Lymphocytic Choriomeningitis,8,2,8,1,0
+Systemic Sclerosis With Lung Involvement,8,3,8,1,8
+Cutaneous Leishmaniasis,8,4,3,1,8
+IgA Nephropathy,8,8,5,2,8
+Alopecia Areata,8,5,8,3,5
+Waldenstrom Macroglobulinemia,8,4,7,1,8
+Peripheral Artery Disease,7,4,4,2,7
+Granuloma,7,1,7,1,0
+Vestibular Schwannoma,7,4,5,1,7
+Severe Acute Respiratory Syndrome,7,3,7,2,5
+Peripheral Neuropathy,7,4,7,1,0
+Cardiac Hypertrophy,7,5,7,1,1
+Hypercholesterolemia,7,5,2,2,3
+Myotonic Dystrophy,7,5,5,4,5
+Granulomatosis With Polyangiitis,7,4,2,2,7
+Uremia,7,6,6,5,7
+Intellectual Disability,7,5,4,2,7
+Colon Adenocarcinoma,7,3,7,1,6
+Dupuytren's Disease,7,4,4,3,7
+Limb-Girdle Muscular Dystrophy Type 2A,7,4,7,3,7
+Glioblastoma Multiforme,7,7,7,3,7
+Fetal Alcohol Spectrum Disorder,7,5,7,2,0
+Azoospermia,7,3,4,1,6
+Head And Neck Cancer,7,5,3,3,7
+Undifferentiated Schizophrenia,7,1,7,1,7
+Intellectual Developmental Disorder With Cardiac Arrhythmia,7,1,5,5,0
+Tuberculosis Infection,7,3,5,2,7
+Multiple System Atrophy,7,6,7,4,7
+Schistosomiasis,7,3,7,2,0
+Prediabetes,7,3,3,2,5
+Nemaline Myopathy,7,2,7,7,0
+Pulmonary Hypertension,7,5,5,2,4
+Seizure,7,2,7,2,4
+Encephalomyelitis,7,2,7,2,0
+Diamond-Blackfan Anemia,7,4,6,1,7
+Epstein-Barr Virus Infection,6,2,4,1,6
+Acute Liver Failure,6,5,5,1,6
+Disorder of Skeletal Muscle,6,1,6,1,0
+Ataxia Telangiectasia,6,4,3,1,4
+Immune Dysregulation,6,2,1,1,6
+Breast Metastasis,6,1,6,1,0
+Thyroid Cancer,6,2,6,1,6
+Acute Coronary Syndrome,6,4,6,4,6
+Autosomal Dominant Polycystic Kidney Disease,6,2,2,1,4
+Atrial Fibrillation,6,4,3,2,5
+Chronic Cholangitis,6,3,6,1,0
+Neurodevelopmental Disorder,6,4,3,1,2
+Basal Cell Carcinoma,6,5,6,3,4
+Gestational Diabetes Mellitus,6,4,4,3,6
+Pneumocystis Pneumonia,6,2,6,1,0
+Ureteral Obstruction,6,3,6,1,0
+AIDS Dementia,6,1,6,3,6
+Allergic Contact Dermatitis,6,2,6,1,4
+Tongue Squamous Cell Carcinoma,6,4,2,1,6
+Disorganized Schizophrenia,6,1,6,1,6
+Thrombocytopenia,6,1,6,2,0
+Alcoholic Hepatitis,6,6,6,2,4
+Scleroderma,6,6,3,2,6
+Actinic Keratosis,6,5,6,2,6
+Trachoma,6,4,4,2,6
+Cerebral Malaria,6,4,4,3,3
+Diabetes Mellitus,6,6,4,3,3
+Cachexia,6,4,6,4,0
+Muscle Atrophy,6,2,6,3,0
+Fuchs Endothelial Corneal Dystrophy,6,5,3,2,6
+Pancreatitis,6,3,6,1,2
+Vitamin D Deficiency,6,3,6,3,0
+Vitiligo,6,5,6,3,5
+Leptospirosis,6,2,2,1,2
+Klinefelter Syndrome,6,5,4,4,6
+Visceral Leishmaniasis,6,3,6,3,6
+Thalassaemia,6,3,6,1,6
+Neonatal-Onset Multisystem Inflammatory Disease,6,4,5,3,6
+Meningococcal Infection,5,1,5,5,5
+Pemphigoid,5,1,5,1,5
+Lung Tumor,5,5,5,1,4
+Skin Carcinoma,5,2,5,1,0
+Esophageal Adenocarcinoma,5,4,4,4,5
+Chronic Heart Failure,5,3,4,4,1
+Brain Metastatic,5,1,5,1,0
+Cutaneous Melanoma,5,2,5,3,3
+Gaucher Disease Type 1,5,1,5,2,0
+Emery-Dreifuss Muscular Dystrophy,5,2,5,2,5
+Becker Muscular Dystrophy,5,3,5,1,5
+Leber Congenital Amaurosis,5,3,3,1,2
+Loeys-Dietz Syndrome,5,2,4,1,5
+Anaplastic Thyroid Carcinoma,5,4,5,1,5
+Malignant Pleural Mesothelioma,5,3,1,1,5
+Hepatic Steatosis,5,4,5,2,1
+Sciatic Nerve Lesion,5,1,5,1,0
+Hypoplastic Left Heart Syndrome,5,4,3,2,3
+Sotos Syndrome,5,3,5,3,5
+Mammary Carcinoma,5,2,5,1,0
+Kidney Fibrosis,5,3,5,1,0
+Paranoid Schizophrenia,5,1,5,1,5
+Axon Injury,5,1,5,1,0
+Intrahepatic Cholangiocarcinoma,5,2,4,1,1
+Q Fever,5,3,4,2,5
+Malnutrition,5,3,5,3,0
+Liposarcoma,5,2,4,2,1
+22Q11.2 Deletion Syndrome,5,2,4,1,5
+Esophagitis,5,2,5,2,5
+Relapsing-Remitting Multiple Sclerosis,5,4,5,3,5
+Chronic Graft-Versus-Host Disease,5,3,4,2,5
+Lewis Lung Carcinoma,5,2,5,2,0
+Salmonella Infection Nos,5,1,5,1,0
+Severe Asthma,5,4,1,1,5
+Autoinflammatory Disease,5,2,3,1,5
+Myotonic Dystrophy Type 2,5,4,5,3,5
+Pitt-Hopkins Syndrome,5,4,1,1,5
+Papillary Renal Cell Carcinoma,5,5,3,1,5
+Traumatic Brain Injury,5,3,5,3,0
+Rhabdomyosarcoma,5,3,1,1,0
+Emphysema,5,3,4,1,3
+Chromophobe Renal Cell Carcinoma,5,4,3,1,5
+Subacute Cutaneous Lupus Erythematosus,5,4,5,1,5
+Keloid,5,4,4,1,5
+Inclusion Body Myositis,5,5,5,3,5
+Macular Degeneration,5,4,4,3,3
+Polycythemia Vera,5,5,3,1,5
+Paroxysmal Nocturnal Hemoglobinuria,5,2,5,1,5
+Psoriatic Arthritis,5,4,3,2,5
+Biliary Atresia,5,3,5,2,2
+Retinopathy,5,3,4,1,0
+Gestational Hypertension,5,1,5,1,5
+Prostate Tumor,5,4,5,1,2
+Myocarditis,5,2,5,1,0
+Pulmonary Tuberculosis,5,5,4,3,5
+Infant Acute Respiratory Distress Syndrome,5,1,5,2,5
+Sezary Syndrome,4,2,3,1,4
+Adrenocortical Carcinoma,4,4,1,1,4
+Cleft Palate;Calvarial Defect,4,1,4,2,0
+Hyperplastic Polyp,4,3,4,1,4
+Thyroid Tumor,4,3,4,2,2
+Vexas Syndrome,4,1,4,2,4
+Interstitial Cystitis,4,3,3,1,4
+Transverse Aortic Constriction,4,2,4,2,0
+Metabolic Diseases,4,3,3,2,1
+Diabetic Retinopathy,4,3,4,3,3
+Giant Cell Arteritis,4,2,4,2,4
+Systemic-Onset Juvenile Idiopathic Arthritis,4,4,2,2,4
+Chronic Constriction Injury,4,1,4,2,0
+H Syndrome,4,1,4,1,4
+Intrauterine Growth Restriction,4,3,4,1,4
+Prostate Adenocarcinoma,4,2,3,1,4
+Kidney Injury,4,3,3,1,1
+Acute Myeloblastic Leukemia,4,2,4,1,4
+Small Cell Lung Cancer,4,3,4,1,4
+Neurotoxoplasmosis,4,1,4,2,0
+Scleroderma-Associated Interstitial Lung Disease,4,2,3,1,4
+Severe Fever With Thrombocytopenia Syndrome,4,3,1,1,4
+Aortic Dissection,4,4,4,2,2
+Global Developmental Delay,4,3,2,2,3
+Autoimmune Lymphoproliferative Syndrome,4,3,2,1,4
+Bronchoconstriction,4,1,4,1,4
+Pilocytic Astrocytoma,4,4,4,3,4
+Cognitive Impairment,4,4,2,2,3
+Invasive Breast Carcinoma,4,2,1,1,3
+Diarrhea,4,1,4,1,4
+Acute Myocardial Infarction,4,4,3,3,3
+Kidney Tumor,4,2,4,1,2
+Disuse Osteoporosis,4,1,4,1,0
+Exencephaly,4,1,4,2,0
+Osteoarthritis Arthritis,4,1,4,1,0
+Prader-Willi Syndrome,4,2,4,3,0
+Neurofibromatosis Type 1,4,2,1,1,3
+Uterine Leiomyoma,4,3,2,1,4
+Limb-Girdle Muscular Dystrophy,4,2,3,3,4
+Lewy Body Dementia,4,1,4,4,4
+Peripheral Nerve Damage,4,1,4,1,0
+Pelvic Organ Prolapse,4,2,4,2,4
+Mitochondrial Myopathy,4,2,4,2,4
+Atypical Teratoid Rhabdoid Tumor,4,3,2,1,4
+Pancreatic Adenocarcinoma,4,3,3,1,4
+Obsessive-Compulsive Disorder,4,2,4,2,1
+Chronic Pain,4,2,4,2,0
+Sporadic Creutzfeldt-Jakob Disease,4,3,4,2,2
+Cerebral Hemorrhage,4,1,1,1,4
+Netherton Syndrome,4,1,4,1,4
+Williams-Beuren Syndrome,4,3,2,1,4
+Chronic Lung Inflammation,4,1,4,1,0
+B-Cell Lymphomas,4,2,4,1,0
+"Carcinoma, Lewis Lung",4,2,4,2,0
+Myocardial Ischemia,4,2,4,1,0
+Endometrium In Polycystic Ovary Syndrome,4,1,4,1,4
+Gastric Tumor,4,3,4,1,4
+Turner Syndrome,4,3,1,1,4
+Progressive Myoclonus Epilepsy,4,2,3,1,0
+Collagenous Colitis,4,2,4,1,4
+Tuberous Sclerosis Complex,4,3,3,2,3
+Sarcopenia,4,4,4,2,4
+Clear Cell Ependymoma,4,1,4,1,4
+Meniere Disease,4,2,1,1,4
+X-Linked Hypophosphatemia;Low Renal Retention,4,1,4,1,0
+Presbycusis,4,2,4,2,0
+Non-Obese Diabetes,4,2,4,2,0
+Invasive Pneumococcal Disease; Recurrent Isolated,4,1,4,1,4
+Myelofibrosis,4,2,4,2,2
+Obliterative Airway Disease,4,1,4,1,0
+Behavioral Sensitization,4,1,4,1,0
+Sporadic Amyotrophic Lateral Sclerosis,4,3,1,1,4
+Keratopathy,4,3,3,3,4
+Memory Dysfunction,4,1,4,1,0
+Ischemic Cardiomyopathy,4,4,3,2,4
+Obstructive Sleep Apnea,4,4,3,3,3
+Oropharyngeal Cancer,4,4,4,1,4
+Thyroid Carcinoma,4,2,1,1,4
+Stress; Psychological,4,1,4,1,0
+Stress,4,1,4,1,0
+Psoriasis-Like Disease,4,1,4,1,0
+Kidney Damage,4,1,4,1,0
+Proctitis,4,1,4,1,0
+Liver Disease,4,1,4,1,4
+Renal Fibrosis,4,3,4,1,1
+Pancreatic Neuroendocrine Tumor,4,1,4,1,0
+Acne,4,3,4,2,4
+Seasonal Allergic Rhinitis,4,3,2,1,4
+Epithelial Ovarian Cancer,4,4,4,2,3
+Cleft Palate,4,3,3,3,0
+Chronic Pancreatitis,4,3,4,2,2
+AIPL1-Leber Congenital Amaurosis,4,1,4,1,4
+Tetralogy of Fallot,4,4,3,2,4
+Chronic Fatigue Syndrome,4,3,4,3,4
+Cockayne Syndrome,4,3,2,2,4
+Angelman Syndrome,4,3,1,1,3
+Metastatic Melanoma,4,4,2,2,4
+Retina Degeneration,4,3,4,1,0
+Pituitary Tumor,4,2,3,1,3
+Aplastic Anemia,3,3,2,1,3
+Familial Combined Hyperlipidemia,3,2,1,1,3
+Chronic Idiopathic Urticaria,3,1,3,1,3
+Myasthenia Gravis,3,2,3,2,3
+Oxidation Resistance 1 Mutation,3,1,1,1,3
+Postmenopausal Osteoporosis,3,1,3,1,3
+Juvenile Spondyloarthropathy,3,2,1,1,3
+Acute Liver Failure;Post Operative Delirium,3,1,3,1,0
+Bacterial Sepsis,3,1,3,2,3
+Neurotic; Stress-Related And Somatoform Disorders,3,1,2,2,0
+Testicular Seminoma,3,1,3,1,3
+Succinic Semialdehyde Dehydrogenase Deficiency,3,1,3,1,0
+Intraductal Papillary Adenocarcinoma,3,1,3,1,3
+Mitochondrial Encephalomyopathies,3,1,3,1,3
+Granulosa Cell Tumor,3,2,3,1,2
+Environmental Enteric Dysfunction,3,2,3,1,3
+Acute Graft Versus Host Disease,3,2,3,1,3
+Fever,3,3,3,2,3
+Aortic Stenosis,3,3,3,3,3
+Metastatic Cancer To The Breast,3,2,2,1,1
+Cardiovascular Disease,3,2,2,1,3
+Metastatic Prostate Cancer,3,3,2,2,3
+Multiple Organ Failure,3,1,3,3,0
+Psoriasis Vulgaris,3,3,3,3,3
+Ciliopathy,3,2,2,1,3
+Plasma Cell Leukemia,3,3,2,1,3
+Renal Artery Stenosis,3,1,3,1,0
+Tnf Receptor-Associated Periodic Syndrome (Traps),3,1,3,1,3
+Papilloma,3,2,3,2,0
+Thymic Lymphoma,3,3,1,1,0
+Intervertebral Disc Degeneration,3,3,3,3,3
+Cryptorchidism,3,3,2,2,2
+Severe Fever With Thrombocytopenia Syndrome Banyangvirus,3,1,3,1,3
+Autosomal Dominant Hyper-Ige Syndrome,3,3,2,2,3
+Ataxia-Telangiectasia,3,3,2,2,3
+Tuberous Sclerosis,3,2,3,2,1
+St Segment Elevation Myocardial Infarction,3,1,3,1,3
+Toxic Nephropathy,3,2,3,2,0
+Hepatic Fibrosis,3,3,1,1,2
+Adult-Onset Autosomal Dominant Leukodystrophy,3,1,1,1,3
+7Q31 Microdeletion Syndrome,3,2,1,1,3
+Dyt6 Dystonia Disorders,3,1,3,1,0
+Necrotizing Enterocolitis,3,3,3,3,2
+Mastitis,3,2,2,1,1
+Hypoglycemia,3,2,3,2,0
+Alcoholic Liver Disease,3,2,3,1,1
+Hemorrhagic Shock,3,3,3,2,0
+Androgenetic Alopecia,3,2,3,2,3
+Neonatal Hypoxic And Ischemic Brain Injury,3,1,3,3,0
+Alveolar Soft Part Sarcoma,3,2,2,1,1
+Microtia,3,2,1,1,3
+Congenital Melanocytic Nevus,3,2,3,2,2
+Primary Sclerosing Cholangitis,3,3,3,2,2
+High-Grade Serous Ovarian Cancer,3,2,1,1,3
+Venous Thromboembolism,3,2,2,1,3
+Ocular Hypertension,3,2,3,2,1
+Sudden Infant Death Syndrome,3,1,3,3,3
+Colorectal Adenocarcinoma,3,3,3,1,2
+Dermatitis,3,3,3,2,3
+Endotoxemia,3,1,3,1,3
+Tumor,3,2,3,1,0
+Granuloma Annulare,3,3,3,1,3
+Metastatic Colorectal Cancer,3,2,1,1,3
+Increased Intracranial Pressure,3,1,1,1,3
+Active Uveitis,3,1,3,1,3
+Lichen Planus,3,2,2,2,3
+Tongue Carcinoma,3,3,3,2,3
+Autoimmune Polyendocrinopathy,3,2,1,1,3
+Xeroderma Pigmentosum,3,3,2,1,3
+Brain Inflammation,3,1,3,1,0
+Hypertensive Pregnancies,3,1,3,1,3
+Rash,3,1,3,1,3
+Rubinstein-Taybi Syndrome,3,3,1,1,2
+Non-Sjogren's sicca,3,2,1,1,3
+Cardioembolic Stroke,3,1,3,1,3
+Craniosynostosis,3,1,3,1,3
+HIV-Associated Neurocognitive Disorder,3,2,1,1,3
+Skeletal Muscle Atrophy,3,2,3,2,0
+Infiltrating Ductal Carcinoma,3,2,3,1,3
+Diffuse Cutaneous Systemic Sclerosis,3,2,1,1,3
+Steatohepatitis,3,2,1,1,1
+Rosacea,3,2,3,1,1
+Plaque Psoriasis,3,2,3,1,3
+Glucose Intolerance,3,2,3,2,1
+Shwachman-Diamond Syndrome,3,2,1,1,3
+Chronic Liver Disease,3,3,2,1,3
+Atopic Eczema,3,3,2,1,3
+Hodgkin Lymphoma,3,2,2,2,3
+Discoid Lupus Erythematosus,3,2,3,2,3
+Liver Steatosis,3,2,3,1,0
+Burn,3,2,2,1,3
+T-Cell Leukemia,3,2,1,1,3
+Congenital Insensitivity To Pain,3,1,3,1,0
+Tumorigenesis,3,1,3,1,3
+Chronic Spontaneous Urticaria,3,2,2,2,3
+Keratoconus,3,3,3,2,3
+Inflammatory Responses Driven By The High Fat Diet,3,1,3,1,0
+Developmental Disability,3,2,1,1,2
+Idiopathic Dilated Cardiomyopathy,3,3,3,3,3
+Complete Hydatidiform Mole,3,2,1,1,3
+Opioid Use Disorder; Severe,3,2,3,2,3
+Peripartum Cardiomyopathy,3,2,3,2,3
+Tauopathy,3,2,3,1,0
+Restrictive Respiratory Disease,3,2,3,3,3
+Respiratory Syncytial Virus (Rsv),3,2,1,1,3
+Aneurysm,3,2,3,2,1
+Pompe Disease,3,2,3,3,1
+Cerebral Palsy,3,2,1,1,3
+Gastric Adenocarcinoma,3,2,2,1,2
+Tibial Muscular Dystrophy,3,2,2,1,3
+Inflammatory Pain,3,1,3,1,0
+Friedreich Ataxia,3,2,2,1,3
+Embryonal Tumor With Multilayered Rosettes,3,1,3,1,0
+Gastroesophageal Reflux Disease,3,2,3,1,3
+Sessile Serrated Adenoma/Polyp,3,2,3,1,3
+Colon Adenoma,3,2,3,1,3
+Monocytosis,3,2,3,1,3
+Zellweger Spectrum Disorder,3,2,1,1,2
+Viral Myocarditis,3,1,3,1,0
+Hydronephrosis,3,1,3,1,0
+Mantle Cell Lymphoma,3,3,1,1,2
+Marfan Syndrome,3,3,2,2,2
+Familial Adenomatous Polyposis,3,2,3,2,3
+Silver-Russell Syndrome,3,2,2,1,3
+Acute Leukemia,3,1,3,1,0
+Arthrogryposis With Renal Dysfunction And Cholestasis Syndrome,3,1,3,1,0
+Tuberculous Meningitis,3,3,3,3,3
+Recessive Dystrophic Epidermolysis Bullosa,3,3,2,1,3
+Cutaneous Squamous Cell Carcinoma,3,3,2,1,3
+Early Pregnancy Loss,3,2,2,1,3
+Tendinopathy,3,2,1,1,3
+Oligodendroglioma,3,3,2,1,3
+Oral Mucosa Leukoplakia,3,1,3,1,3
+Recurrent Thromboembolism,3,1,3,1,3
+Polymyositis,3,3,3,2,3
+Cach Syndrome,3,1,3,3,0
+Localized Scleroderma,3,2,3,1,3
+Gram-Negative Sepsis,3,2,2,1,3
+Prostate Carcinoma,3,3,3,2,3
+Diabetic Cardiomyopathy,3,3,3,2,0
+Membranous Nephropathy,3,3,2,2,3
+Osteomyelitis,3,2,2,1,1
+Mir-424/503 Deficiency,2,1,2,1,0
+Liver Neoplasm,2,1,2,1,0
+Spared Nerve Injury,2,1,2,1,0
+Diabetic Peripheral Neuropathy,2,1,2,2,0
+Primary Progressive Multiple Sclerosis,2,2,2,1,2
+Reactive Oxygen Injury,2,1,2,1,2
+Chronic Thromboembolic Pulmonary Hypertension,2,2,2,2,2
+Insulin Resistance,2,2,2,2,1
+Adenocarcinoma of Esophagus,2,1,2,2,2
+Adenoid Cystic Carcinoma,2,1,2,2,2
+High Grade Serous Carcinoma,2,2,1,1,1
+Cerebral Cavernous Malformation,2,2,1,1,2
+Lung Metastases,2,2,2,1,0
+Aortic Valve Stenosis,2,1,2,1,0
+Prenatal Stress,2,1,2,1,0
+Langerhans Cell Histiocytosis,2,2,2,2,2
+Secondary Progressive Multiple Sclerosis,2,2,1,1,2
+Ovarian Endometriosis,2,1,2,1,2
+Irritable Bowel Syndrome With Diarrhea,2,2,2,2,2
+Epileptic Syndromes,2,1,2,1,0
+Cutaneous Lichenoid Immune-Related Adverse Events,2,1,2,1,2
+Latent Tuberculosis,2,2,1,1,2
+Adhesive Capsulitis,2,1,2,1,2
+"Atopic Dermatitis, Chronic",2,1,2,2,0
+Sepsis/Inflammation,2,1,1,1,0
+Pituitary Adenoma,2,1,2,1,2
+Kabuki Syndrome,2,1,2,1,0
+RelA haploinsufficiency,2,1,2,1,2
+Kidney Clear Cell Carcinoma,2,2,1,1,1
+Infectious Keratitis,2,1,2,1,2
+Cleft Lip With Or Without Cleft Palate,2,1,1,1,0
+Cytomegalovirus Infection,2,2,1,1,1
+Listeria Monocytogenes,2,1,2,1,0
+Juvenile Polymyositis,2,1,2,1,2
+Proliferative Diabetic Retinopathy,2,1,2,1,2
+B-Cell Pediatric Acute Lymphoblastic Leukemia,2,1,2,1,2
+Neuropathic Pain,2,2,2,1,0
+Chronic Periodontitis,2,2,2,2,2
+Intestinal Tumor,2,2,2,2,0
+C3 Glomerulopathy,2,1,2,2,0
+Dementia With Lewy Bodies,2,2,2,2,2
+Metachondromatosis,2,1,2,1,0
+Alcohol Dependence,2,1,2,2,0
+Idiopathic Environmental Intolerance,2,2,1,1,2
+Adult Onset Asthma,2,2,1,1,2
+Icf Syndrome,2,1,2,1,0
+Gastrointestinal Inflammation,2,2,2,2,0
+Preterm Labor,2,2,1,1,2
+Progressive Colorectal Carcinoma,2,2,2,1,2
+Pyogenic Arthritis; Pyoderma Gangrenosum; And Acne Syndrome [Papa],2,1,1,1,2
+Alexander Disease,2,2,1,1,2
+Osteoporosis,2,2,1,1,2
+Hepatitis E,2,1,1,1,2
+Demyelination,2,2,2,2,0
+T-Cell Prolymphocytic Leukemia,2,2,2,1,2
+Multiple Mitochondrial Dysfunctions Syndrome,2,1,2,1,2
+Ulcer of Intestine,2,1,2,1,0
+Diabetic Foot Ulcer,2,1,2,1,2
+Kindler Syndrome,2,2,2,1,2
+Disorder of Skull,2,1,2,1,0
+Ischemia,2,2,2,2,1
+Macroangiopathy,2,1,2,2,0
+Coronary Disease,2,1,1,1,2
+Viral Encephalitis,2,1,2,2,0
+Methylmalonic Acidemia,2,2,2,1,1
+Dysphasia,2,2,1,1,1
+Hypertensive Nephropathy,2,2,2,1,2
+Androgen Insensitivity Syndrome,2,1,2,1,2
+Radiation Injury,2,1,2,1,0
+Acute Quadriplegic Myopathy,2,1,2,1,2
+Alveolar Injury,2,1,2,1,0
+Diabetes;Heart Malformation,2,1,2,1,0
+Brain Ischemia,2,1,2,1,0
+Erythema Migrans,2,1,2,1,2
+Influenza A (H1N1),2,2,2,1,1
+Mandibulofacial Dysostosis-Microcephaly Syndrome,2,1,2,1,0
+Secretory Breast Carcinoma,2,1,2,1,0
+Progressive Spinal Muscular Atrophy,2,1,2,1,0
+Motor Deficit,2,1,2,1,0
+Pterygium,2,2,2,2,2
+Peeling Skin Syndrome,2,2,2,2,0
+Chronic Myelomonocytic Leukemia,2,2,2,2,2
+Myotonic Dystrophy 1,2,2,1,1,2
+Tumor of Fallopian Tube,2,1,2,1,0
+Bile Duct Paucity,2,1,2,1,0
+Asthma;Rhinitis,2,1,2,2,2
+Pulmonary Aspergillosis,2,1,2,1,0
+Chronic Infantile Neurological Cutaneous And Articular Syndrome,2,2,1,1,2
+Aromatic L-Amino Acid Decarboxylase Deficiency,2,1,2,1,2
+Non-Specific Interstitial Pneumonia,2,2,2,1,2
+Heart Failure With Preserved Ejection Fraction,2,2,2,2,1
+Spondylitis,2,2,2,1,0
+Bacterial Meningitis,2,1,2,1,2
+IgG4-Related Disease,2,2,1,1,2
+Acne Inversa,2,2,2,1,2
+Cerebral Ischemia,2,1,2,1,0
+Hemorrhoids,2,1,2,1,2
+Adrenocortical Adenoma,2,2,1,1,2
+Transient Patchy Type Disease,2,1,2,1,2
+Patchy Type Disease,2,1,2,1,2
+Rhabdomyolysis;Acute Kidney Injury,2,1,2,1,0
+Heart Ischemia,2,1,2,1,0
+Intrahepatic Cholestasis of Pregnancy,2,1,2,1,2
+Acute Otitis Media,2,2,2,1,2
+Fetal Alcohol Syndrome,2,2,2,2,0
+Breast Hypoplasia,2,1,2,1,0
+Trauma,2,1,2,1,2
+Primary Mitochondrial Respiratory Chain Disease,2,1,1,1,2
+Congenital Muscular Dystrophy (Disorder),2,1,2,1,2
+Miscarriage,2,2,2,2,2
+Stress Fracture,2,1,2,1,0
+Golabi-Ito-Hall Syndrome,2,2,2,2,2
+Adenomatous Polyps,2,1,2,1,2
+Nodular Lymphocyte Predominant Hodgkin Lymphoma,2,1,2,1,2
+Early Proximal Colon Preneoplasia,2,1,2,1,2
+Lupus,2,1,2,1,2
+Hepatic Encephalopathy,2,1,2,2,2
+Nematode Infections,2,1,2,1,0
+Chronic Myeloproliferative Neoplasm,2,1,2,1,2
+Gastric Metaplastic Polyp,2,1,2,1,2
+Chronic Atrophic Gastritis,2,2,1,1,1
+Bone Fracture,2,1,2,1,0
+Microcephaly,2,2,2,2,1
+Aicardi Goutieres Syndrome,2,2,1,1,1
+Colon Serrated Polyposis,2,1,2,1,2
+Head Trauma,2,1,2,1,2
+Anaphylaxis,2,1,2,1,2
+Mecp2 Duplication Syndrome,2,2,2,1,0
+Central Centrifugal Cicatricial Alopecia,2,2,2,2,2
+Uc - L Colitis,2,1,2,2,2
+Uc - Pancolitis,2,1,2,2,2
+Posterior Polymorphous Corneal Dystrophy,2,2,1,1,2
+Brucellosis,2,1,2,1,2
+Hidradenitis,2,2,2,2,2
+Pola1 Deficiency,2,1,2,1,2
+Graves Disease,2,1,2,1,2
+Oral Leukoplakia,2,2,1,1,2
+Henoch-Schoenlein Purpura,2,1,2,1,2
+Lipomas,2,1,2,1,2
+Subarachnoid Hemorrhage,2,2,2,2,1
+Schimke Immuno-Osseous Dysplasia,2,2,1,1,2
+Human T-Cell Lymphotrophic Virus; Type I,2,1,2,1,2
+Damaged Optic Nerve,2,2,2,1,0
+Kidney Disease,2,2,2,2,2
+Progressive Neurodegeneration,2,1,2,1,0
+X-Linked Dystonia Disorders-Parkinsonism,2,1,1,1,2
+Drug Hypersensitivity Syndrome,2,1,1,1,2
+Respiratory Failure,2,1,2,1,0
+Skin Injury,2,2,1,1,0
+Neoplasm,2,1,2,1,2
+Rotator Cuff Tear,2,1,2,1,0
+Endocrine Tumor,2,1,2,1,2
+Ischemic Heart Disease,2,2,2,2,1
+Typhoid Fever,2,1,2,1,0
+Minimal Change Disease,2,2,2,2,2
+Non-Functioning Pituitary Adenoma,2,1,2,1,2
+Intraabdominal Fibromatosis,2,1,2,1,2
+Cervical Squamous Cell Carcinoma,2,1,2,1,2
+Uterine Leiomyosarcoma,2,1,2,1,2
+Invasive Ductal Carcinoma,2,2,1,1,2
+Chagas Cardiomyopathy,2,2,2,2,1
+Chronic Hepatitis,2,2,2,2,2
+Rhinosinusitis,2,1,2,1,2
+Chronic Colitis,2,2,2,1,0
+Eosinophilic Asthma,2,1,2,1,2
+Progressive Melanoma,2,1,2,1,0
+Thyroid Proliferative Lesion,2,1,2,1,0
+Hemangiosarcoma,2,1,2,2,2
+Autosomal Dominant Centronuclear Myopathy,2,1,2,1,0
+Acutely Injured,2,2,2,1,2
+Metastatic Head And Neck Squamous Cell Carcinoma,2,2,1,1,2
+Cognitive Dysfunction,2,2,2,2,1
+Diabetic Peripheral Angiopathy,2,2,1,1,2
+Metastatic Ovarian Serous Carcinoma,2,1,2,1,0
+Cranial Defect,2,1,2,2,0
+Adenosquamous Carcinoma,2,2,2,2,0
+Acute Megakaryoblastic Leukemia,2,2,1,1,2
+Chronic Cutaneous Lupus Erythematosus,2,2,2,1,2
+Lupus Erythematosus,2,2,2,1,2
+Attention Deficit Hyperactivity Disorder,2,2,1,1,1
+Osteoma Cutis,2,2,2,1,2
+Ausitm Spectrum Disorder,2,1,2,1,2
+Duodenitis,2,1,2,1,2
+Phelan-Mcdermid Syndrome,2,1,2,1,2
+Mixed Hcc/Cc Tumours,2,1,2,1,2
+Prurigo Nodularis,2,1,2,1,2
+Metastatic Lung Tumor,2,1,2,1,0
+Cocaine Related Disorders,2,1,2,1,2
+Severe Aplastic Anemia,2,1,2,2,2
+Globoid Cell Leukodystrophy,2,1,2,1,2
+Preleukemia,2,1,2,1,0
+Intensive Care Unit Acquired Weakness,2,1,2,1,2
+Pharyngeal Carcinoma,2,1,2,1,2
+Cystic Tumor,2,1,2,1,2
+Tubular Adenoma,2,1,2,1,2
+Myocardial Fibrosis,2,2,2,2,1
+Hernia,2,1,1,1,2
+Medullary Thyroid Cancer,2,1,2,1,2
+Stress Induced Cardiomyopathy,2,1,2,1,0
+Hepatocellular Adenoma,2,2,2,1,1
+Invasive Lobular Carcinoma,2,1,2,1,2
+Villitis of Unknown Etiology,2,1,2,1,2
+Anterior Cruciate Ligament Tear,2,2,2,1,1
+Spinal Muscular Atrophy With Respiratory Distress Type 1,2,1,2,1,0
+Bacterial Pneumonia,2,2,1,1,2
+D-2-Hydroxyglutaric Aciduria,2,1,2,1,0
+Ovarian Serous Cystadenoma,2,1,2,1,2
+Pulmonary Sarcoidosis,2,2,2,2,2
+Adrenal Tumor,2,1,2,1,2
+Ependymoma,2,2,1,1,2
+Smoldering Multiple Myeloma,2,2,2,1,2
+Liver Dysplastic Nodule,2,1,2,1,2
+Desmosterolosis,2,1,1,1,0
+Necrotizing Myopathy,2,2,2,2,2
+Obstructive Uropathy,2,1,2,1,0
+Mucositis,2,1,2,1,0
+Middle Cerebral Artery Occlusion,2,1,2,1,0
+Infertility,2,2,2,2,1
+Meningioma,2,2,2,1,2
+Vitamin A Deficiency,2,1,2,1,0
+Lewy Body Disease,2,2,1,1,2
+Metastatic Uveal Melanoma,2,1,2,1,2
+Skin Inflammation,2,1,2,1,2
+Guillain-Barre Syndrome,2,2,2,1,2
+Vulvar Intraepithelial Neoplasia,2,1,2,2,2
+Resistance To Thyroid Hormone,2,1,2,1,0
+Minor Trauma,2,2,2,1,0
+Idiopathic Pulmonary Arterial Hypertension,2,2,1,1,2
+Meningeal Tuberculosis,2,2,1,1,2
+Cancer,2,2,2,2,0
+Candidemia,2,2,2,1,2
+Cystitis,2,1,2,1,0
+Neonatal Hypoparathyroidism,2,1,2,1,2
+Dyt1 Dystonia Disorders,2,1,2,1,2
+C26-Tumor,2,1,2,1,0
+Diffuse Astrocytoma,2,2,1,1,2
+Fungal Keratitis,2,1,2,1,2
+Focal Cortical Dysplasia,2,2,2,2,2
+Microinvasive Squamous Cell Carcinoma,2,2,2,2,2
+Acute Hepatitis,2,1,2,1,0
+Familial Hypertrophic Cardiomyopathy,2,1,2,1,0
+Pfapa Syndrome,2,1,2,1,2
+Diabetic Macular Edema,2,1,2,2,2
+Ovarian Clear Cell Adenocarcinoma,2,2,2,1,1
+Late-Onset Form of Familial Alzheimer Disease,2,2,2,2,2
+Gastritis,2,1,2,1,2
+Invasive Aspergillosis,2,2,2,1,2
+Orbit (Eye Disorders),2,1,2,1,0
+Fatal Familial Insomnia,2,1,2,2,2
+Non-Proliferative Dr,2,1,2,2,2
+Cryopyrin-Associated Periodic Syndromes,2,2,2,2,2
+Borderline Ovarian Epithelial Tumor,2,2,2,1,2
+Smoldering Myeloma,2,2,1,1,2
+Vogt-Koyanagi-Harada Disease,2,2,1,1,2
+Prostatic Intraepithelial Neoplasia,2,1,2,1,0
+Adult T-Cell Leukemia,2,2,1,1,2
+7Q11.23 Microduplication Syndrome,2,1,2,1,2
+Reproductive And Metabolic Disorders,2,1,2,2,0
+Spinocerebellar Ataxia Type 1,2,2,2,1,1
+Timothy Syndrome,2,1,2,2,2
+Small Intestine Tumor,2,1,2,1,0
+Pseudotumor (Inflammatory) of Orbit,2,1,2,2,2
+Avian Influenza,2,1,2,1,0
+Ophthalmopathies Thyroid Assoc,2,1,2,2,2
+Hereditary Spastic Paraplegia 3A,2,1,2,1,2
+Synovial Sarcoma,2,2,1,1,0
+Spondyloarthropathy,2,2,2,2,2
+Retinoblastoma,2,2,1,1,2
+Urothelial Carcinoma,2,1,2,1,2
+Dyslipidemia,2,2,1,1,1
+Hereditary Spastic Paraplegia,2,1,2,1,2
+Severe Congenital Neutropenia,2,2,2,1,2
+Nijmegen Breakage Syndrome,2,2,1,1,1
+Deafness,2,2,1,1,0
+Tumors of The Central Nervous System,2,1,2,1,0
+Liver Dysplasia,2,1,2,1,2
+Uterine Fibroid,2,2,2,1,2
+Hyperplastic Polyposis Syndrome,2,1,2,1,2
+Progressive Hepatocellular Carcinoma,2,1,2,1,2
+Autoimmune Hepatitis,2,2,2,1,1
+Bladder Urothelial Carcinoma,2,1,2,1,0
+Endogenous Depression,2,1,2,1,0
+Spina Bifida,2,2,2,2,2
+Progressive Idiopathic Pulmonary Fibrosis,2,1,2,1,2
+Dent Disease,2,1,2,1,0
+Idiopathic Interstitial Pneumonia,2,2,2,1,2
+Neurogenic Inflammation,2,2,2,1,0
+Gastrointestinal Cancer,2,2,2,2,2
+Adenoma,2,2,2,2,2
+Progressive Supranuclear Palsy,2,2,2,2,2
+Urinary Bladder Inflammation,2,1,2,1,0
+Proximal Aortic Coarctation,2,1,2,1,0
+Anti-Basement Membrane Glomerulonephritis,2,1,2,1,0
+Maculopapular Lesion,2,1,2,1,2
+Idiopathic Myelofibrosis,2,2,2,2,2
+Psoriasiform Dermatitis,2,2,2,2,0
+Proliferative Dr,2,1,2,2,2
+Idiopathic Fibrosing Alveolitis,2,1,2,1,2
+Renal Cysts,2,1,2,1,0
+Metastatic Pancreatic Ductal Adenocarcinoma,2,2,2,1,2
+Cerebellar Malformation,2,1,2,1,0
+Urothelial Carcinoma of The Urinary Bladder,2,1,2,1,2
+Cancer of The Gastric Cardia,2,1,2,1,2
+Angioimmunoblastic T-Cell Lymphoma,2,1,2,2,0
+Respiratory Syncytial Virus Infectious Disease,2,1,2,1,2
+Limb-Girdle Muscular Dystrophy Type 2B,2,1,2,1,2
+Muscle Ache,2,1,2,1,0
+Lymphangioleiomyomatosis,2,2,1,1,2
+Aortic Aneurysm,2,2,2,2,1
+Fatty Liver,2,2,2,1,0
+Lymphoblastic Lymphoma,1,1,1,1,1
+Follicular Thyroid Carcinoma,1,1,1,1,1
+Idiopathic Pulmonary Fibrosis;Non-Specific Interstitial Pneumonia,1,1,1,1,1
+Mitral Valve Prolapse,1,1,1,1,1
+Metastatic Colorectal Carcinoma,1,1,1,1,1
+Idiopathic Non-Cirrhotic Portal Hypertension,1,1,1,1,1
+Precocious Puberty,1,1,1,1,1
+Aortic Disease,1,1,1,1,1
+Metastatic Adenocarcinoma,1,1,1,1,1
+Critical Limb Ischemia,1,1,1,1,1
+Medullary Thyroid Carcinoma,1,1,1,1,1
+Alpha-1 Antitrypsin Deficiency,1,1,1,1,1
+Transitional Cell Tumor,1,1,1,1,1
+Unstable Angina Pectoris,1,1,1,1,1
+Classic Galactosemia,1,1,1,1,0
+Melanosis,1,1,1,1,1
+AIDS related complex,1,1,1,1,0
+Extrapulmonary Tuberculosis,1,1,1,1,1
+Sebaceous Hyperplasia,1,1,1,1,1
+Follicular Thyroid Adenoma,1,1,1,1,1
+Thyroid Oncocytic Adenoma,1,1,1,1,1
+Generalized Chronic Periodontitis,1,1,1,1,1
+Generalized Periodontitis,1,1,1,1,1
+Coffin-Lowry Syndrome,1,1,1,1,0
+Kidney Oncocytoma,1,1,1,1,1
+Bicuspid Aortic Valve,1,1,1,1,1
+Congenital Anomalies of Kidney And Urinary Tract 1,1,1,1,1,1
+Atypical Ductal Hyperplasia,1,1,1,1,1
+Chronic Small Plaque Psoriasis,1,1,1,1,1
+Thyroid Oncocytic Carcinoma,1,1,1,1,1
+Simple Ductal Hyperplasia,1,1,1,1,1
+Gne Myopathy,1,1,1,1,0
+Cardiac Dysfunction,1,1,1,1,0
+Liver Failure,1,1,1,1,1
+Gallbladder Cancer,1,1,1,1,1
+Congenital Merosin-Deficient Muscular Dystrophy 1A,1,1,1,1,0
+Bronchiolitis Obliterans,1,1,1,1,1
+Stable Angina Pectoris,1,1,1,1,1
+Meth-Dependency Without Psychosis,1,1,1,1,1
+Salivary Gland Adenoid Cystic Carcinoma,1,1,1,1,1
+Methamphetamine Dependence,1,1,1,1,1
+Discoid Lupus Rash,1,1,1,1,1
+Chronic Granulomatous Disease,1,1,1,1,1
+Postpartum Depression,1,1,1,1,1
+Caries,1,1,1,1,1
+Intrahepatic Cholestasis,1,1,1,1,1
+Mental Depression,1,1,1,1,1
+Pancreatic Intraductal Papillary-Mucinous Neoplasm,1,1,1,1,1
+Pregnancy Loss; Recurrent; Susceptibility To; 2,1,1,1,1,1
+Infertile,1,1,1,1,0
+Non-Alcoholic Steatohepatitis;Hepatocellular Carcinoma,1,1,1,1,1
+Retinal Diseases,1,1,1,1,0
+Infantile Liver Failure,1,1,1,1,1
+Pancreatic Intraductal Papillary-Mucinous Adenoma,1,1,1,1,1
+Metabolic Myopathy,1,1,1,1,0
+Acute Pyelonephritis,1,1,1,1,0
+Lymphatic Malformation 3,1,1,1,1,1
+Pure Total Flavonoids From Citrus,1,1,1,1,0
+Lethal Congenital Contracture Syndrome,1,1,1,1,1
+Oligoarticular Juvenile Idiopathic Arthritis,1,1,1,1,1
+Brachial Plexus Lesions,1,1,1,1,0
+Defective Skin Barrier Function,1,1,1,1,0
+Chronic Hepatic Encephalopathy,1,1,1,1,1
+Motor Neuron Disease,1,1,1,1,1
+Pemphigus Foliaceus,1,1,1,1,1
+Pemphigus Vulgaris,1,1,1,1,1
+Eosinophilic Gastritis,1,1,1,1,1
+Primary Lateral Sclerosis,1,1,1,1,1
+Proteinuria;Glomerulosclerosis;Progressive Renal Failure,1,1,1,1,0
+Complex Regional Pain Syndrome,1,1,1,1,1
+Obesity;Asthma,1,1,1,1,1
+Esophageal Small Cell Carcinoma,1,1,1,1,1
+Focal Palmoplantar Keratoderma,1,1,1,1,1
+Critical Illness Myopathy,1,1,1,1,1
+Myopathy,1,1,1,1,1
+Type A Aortic Dissection,1,1,1,1,1
+Haemoperitoneum,1,1,1,1,1
+Primary Biliary Cirrhosis,1,1,1,1,1
+Non-Hodgkins Lymphoma,1,1,1,1,1
+Dystonia Disorders,1,1,1,1,1
+Basal-Like Breast Cancer,1,1,1,1,0
+Ischemic Insult,1,1,1,1,0
+Fibrogensis Imperfecta Ossium,1,1,1,1,1
+Xerophthalmia,1,1,1,1,0
+Dysferlinopathy,1,1,1,1,1
+Caveolinopathy 3,1,1,1,1,1
+Four And A Half Lim Domains Protein 1 Deficiency,1,1,1,1,1
+Inflammatory Mfh,1,1,1,1,0
+Immune Thrombocytopenia,1,1,1,1,1
+Refractory Anemia With Ring Sideroblasts,1,1,1,1,1
+Retinoschisis,1,1,1,1,0
+Invasive Ductal Breast Carcinoma,1,1,1,1,1
+X-Linked Dystonia Disorders Parkinsonism,1,1,1,1,1
+Hypersensitivity Pneumonitis,1,1,1,1,1
+Prolactinoma,1,1,1,1,1
+Peritonitis;Sepsis,1,1,1,1,0
+Colon Carcinoma Metastatic To The Liver,1,1,1,1,1
+Cbl-Related Disorder,1,1,1,1,0
+Squamous Cell Carcinoma In Situ,1,1,1,1,1
+Fatty Liver Disease,1,1,1,1,0
+Hypertensive Heart Failure,1,1,1,1,0
+Spindle Cell Carcinoma,1,1,1,1,0
+Urinary Tract Infection,1,1,1,1,0
+Cerebral Infarction,1,1,1,1,1
+Lung Cysts,1,1,1,1,0
+Behavioral Abnormality,1,1,1,1,0
+Wart,1,1,1,1,0
+B-Cell Expansion With Nfkb And T-Cell Anergy,1,1,1,1,1
+Pulmonary Infection,1,1,1,1,0
+Vascular Ehlers-Danlos Syndrome,1,1,1,1,1
+Henoch-Schonlein Purpura Nephritis,1,1,1,1,1
+Progressive Crohn's Disease,1,1,1,1,1
+Myositis,1,1,1,1,1
+Nerve Entrapment,1,1,1,1,0
+Myomatous Tumor,1,1,1,1,0
+Malignant Glioma,1,1,1,1,0
+Bile Duct Disease,1,1,1,1,0
+Metastatic Ovarian Cancer,1,1,1,1,1
+Duodenal Tumor,1,1,1,1,0
+Eosinophilic Infiltration of The Esophagus,1,1,1,1,0
+Lymphocytic Colitis,1,1,1,1,1
+Sarcomatoid Carcinoma,1,1,1,1,0
+Eosinophilic Granulomatosis With Polyangiitis,1,1,1,1,1
+Mammary Gland Aplasia,1,1,1,1,0
+Drug Induced Liver Injury,1,1,1,1,0
+Drug Induced Liver Injury;Liver Cancer,1,1,1,1,0
+Thyroid Associated Opthalmopathies,1,1,1,1,1
+Dysbiosis,1,1,1,1,0
+Pyogranulomas,1,1,1,1,0
+Choroid Plexus Papilloma,1,1,1,1,1
+Ovarian Adenocarcinoma,1,1,1,1,1
+2Q23.1 Microdeletion Syndrome,1,1,1,1,0
+Microglossia,1,1,1,1,0
+Lynch Syndrome,1,1,1,1,1
+Non specific Myopathy,1,1,1,1,1
+Progressive Chronic Myeloid Leukemia,1,1,1,1,1
+Papillary Carcinoma,1,1,1,1,0
+"Inclusion Body Myopathy, Autosomal Dominant",1,1,1,1,1
+Progressive Diabetic Kidney Disease,1,1,1,1,1
+End Stage Renal Disease,1,1,1,1,1
+Submucosal Cleft Palate,1,1,1,1,0
+Intestinal Perforation,1,1,1,1,1
+Tumor of Lung,1,1,1,1,0
+Asthma;Dermatitis;Rhinitis,1,1,1,1,1
+Undifferentiated Soft Tissue Sarcoma,1,1,1,1,1
+Spinocerebellar Ataxia Type 12,1,1,1,1,1
+Unilateral Nasal Obstruction,1,1,1,1,0
+Influenza A/H5N1,1,1,1,1,0
+Acute Viral Encephalitis,1,1,1,1,0
+High Grade Colorectal Adenoma,1,1,1,1,1
+Central Nervous System Sensitization,1,1,1,1,0
+Asymptomatic Myeloma,1,1,1,1,1
+Congenital Heart Disease,1,1,1,1,0
+Invasive Mucinous Lung Adenocarcinoma,1,1,1,1,1
+Burkitt Lymphoma,1,1,1,1,1
+Iron-Deficiency Anemia,1,1,1,1,0
+Squamous Cell Papilloma,1,1,1,1,1
+X-Linked Myotubular Myopathy,1,1,1,1,0
+Tonsillar Cancer,1,1,1,1,1
+Pancreatic Intraductal Papillary Mucinous Neoplasm,1,1,1,1,1
+Mast Cell Leukemia,1,1,1,1,1
+Mast Cell Leukemia;Chronic Erythroblastic Leukemia,1,1,1,1,1
+Conjunctival Squamous Cell Carcinoma,1,1,1,1,1
+Glomerulopathy,1,1,1,1,0
+Genital Prolapse,1,1,1,1,1
+Cholestasis,1,1,1,1,0
+Fracture,1,1,1,1,0
+Hypertrophy,1,1,1,1,0
+"Disorder of Vestibular Function, Unspecified",1,1,1,1,1
+Microinvasive Breast Carcinoma,1,1,1,1,1
+Oculopharyngeal Muscular Dystrophy,1,1,1,1,0
+Autoinflammatory Syndrome,1,1,1,1,0
+Autosomal Recessive Congenital Ichthyosis,1,1,1,1,1
+Dissection of Aorta,1,1,1,1,1
+Vasculitis,1,1,1,1,1
+Glomerulosclerosis,1,1,1,1,1
+Seminoma,1,1,1,1,1
+Early Inflammatory Arthritis,1,1,1,1,1
+Non syndromic cleft lip/palate (NSCL/P),1,1,1,1,1
+Immune Reconstitution Inflammatory Syndrome,1,1,1,1,1
+Primitive Neuroectodermal Tumor,1,1,1,1,1
+Acute Monocytic Leukemia,1,1,1,1,1
+High Grade Gastric Cancer,1,1,1,1,1
+Enteritis,1,1,1,1,1
+Signet Ring Cell Carcinoma,1,1,1,1,1
+Colorectal Polyps,1,1,1,1,0
+Hypercapnia,1,1,1,1,0
+Infection Due To Toxoplasma Gondii,1,1,1,1,0
+Left Ventricular Hypertrophy,1,1,1,1,0
+Neural Tube Defects,1,1,1,1,0
+Periapical Periodontitis,1,1,1,1,0
+Spinal Cord Contusion Injury,1,1,1,1,0
+Female Sterility,1,1,1,1,0
+Anaplastic Astrocytoma,1,1,1,1,1
+Merkel Cell Carcinoma,1,1,1,1,0
+Epithelioid Hemangioendothelioma,1,1,1,1,0
+Anaplastic Pleomorphic Xanthoastrocytoma,1,1,1,1,1
+Pleomorphic Xanthoastrocytoma,1,1,1,1,1
+Retinal Detachment,1,1,1,1,1
+Pseudomonas Aeruginosa Infection,1,1,1,1,0
+Albinism,1,1,1,1,0
+Malignant Struma Ovarii,1,1,1,1,1
+Pleomorphic Sarcoma,1,1,1,1,0
+Severe Periodontitis,1,1,1,1,0
+Benign Struma Ovarii,1,1,1,1,1
+Beta-Cell Dysfunction,1,1,1,1,0
+Vulvovaginal Candidiasis,1,1,1,1,0
+Polyuria,1,1,1,1,0
+Vascular Abnormalities,1,1,1,1,0
+Skeletal Muscle Acute Injury,1,1,1,1,0
+Fibromyalgia Syndrome,1,1,1,1,1
+Cleft Secondary Palate,1,1,1,1,0
+Rathke Cleft Cysts,1,1,1,1,0
+Preterm Birth,1,1,1,1,1
+Immune Dysfunction,1,1,1,1,0
+X-Linked Retinitis Pigmentosa,1,1,1,1,1
+Temporal Lobe Epilepsy,1,1,1,1,1
+Malignant Mixed Mullerian Tumor,1,1,1,1,0
+Oligoasthenoteratozoospermia,1,1,1,1,0
+Oligospermia,1,1,1,1,0
+Chronic (Viral) Hepatitis B,1,1,1,1,1
+Shwannoma,1,1,1,1,1
+Ganglioglioma,1,1,1,1,1
+Skin Tumor,1,1,1,1,0
+Aortic Valve Disease,1,1,1,1,1
+Severe COVID-19,1,1,1,1,1
+Niemann-Pick Disease,1,1,1,1,1
+Complete Androgen Insensitivity Syndrome,1,1,1,1,1
+Nephrosclerosis,1,1,1,1,1
+Subsyndromal Symptomatic Depression,1,1,1,1,1
+Progressive Osteoarthritis,1,1,1,1,1
+Hypertrophic Obstructive Cardiomyopathy,1,1,1,1,1
+Cutaneous Sarcoidosis,1,1,1,1,1
+Constrictive Pericarditis,1,1,1,1,1
+S. Pneumoniae Infected,1,1,1,1,0
+Hemochromatosis,1,1,1,1,1
+Renal Tumor,1,1,1,1,1
+Trichothiodystrophy,1,1,1,1,1
+Congenital Heart Block,1,1,1,1,1
+Heart Failure;Human Dilated Cardiomyopathy,1,1,1,1,1
+Hypoxic-Ischemic Encephalopathy,1,1,1,1,1
+Epithelioid Trophoblastic Tumor,1,1,1,1,1
+Placental Site Trophoblastic Tumor,1,1,1,1,1
+Falciparum Malaria,1,1,1,1,1
+Neurocytoma,1,1,1,1,1
+Pineocytoma,1,1,1,1,1
+Spinocerebellar Ataxia Type 7,1,1,1,1,0
+Epidermolysis Bullosa Simplex With Mottled Pigmentation,1,1,1,1,1
+Thrombotic Thrombocytopenic Purpura,1,1,1,1,1
+Cervical Intraepithelial Neoplasia,1,1,1,1,1
+Respiratory Distress Syndrome,1,1,1,1,0
+Inclusion Body Myopathy; Sporadic,1,1,1,1,1
+Dystonia Disorders Disorders,1,1,1,1,0
+Congenital Lipoid Adrenal Hyperplasia,1,1,1,1,0
+5Q-Syndrome,1,1,1,1,1
+High Grade Glioblastoma,1,1,1,1,1
+Multiple Endocrine Neoplasia Syndrome,1,1,1,1,0
+Very Low Birth Weight,1,1,1,1,1
+Polycythemia Due To High Altitude,1,1,1,1,1
+Kufs Disease,1,1,1,1,1
+Cushing Syndrome,1,1,1,1,1
+Central Nervous System Tumor,1,1,1,1,0
+Extracranial Solid Tumor,1,1,1,1,0
+Metastatic Colon Carcinoma,1,1,1,1,0
+X-Linked Juvenile Retinoschisis 1,1,1,1,1,1
+Mecp2 Duplication Or Triplication Syndrome,1,1,1,1,0
+Peri-Implantitis,1,1,1,1,1
+Angina,1,1,1,1,1
+Progressive Sjogren's Syndrome,1,1,1,1,1
+Endometrioma,1,1,1,1,1
+Anencephaly;Spina Bifida,1,1,1,1,1
+HBS1L Mutation,1,1,1,1,1
+Invasive Lung Mucinous Adenocarcinoma,1,1,1,1,1
+Global Glomerulosclerosis,1,1,1,1,0
+Mucinous Carcinoma,1,1,1,1,1
+Devastating Woree Syndrome,1,1,1,1,1
+Nephropathy,1,1,1,1,0
+Acute Ischemic Heart Disease,1,1,1,1,1
+Female Infertility,1,1,1,1,0
+Blister,1,1,1,1,0
+Alveolar Rhabdomyosarcoma,1,1,1,1,0
+Descending Thoracic Aorta Aneurysm,1,1,1,1,1
+Cervical Spondylosis With Myelopathy,1,1,1,1,1
+Ossification of The Posterior Longitudinal Ligament of Spine,1,1,1,1,1
+"Hepatitis C, Chronic",1,1,1,1,1
+Vaginal Atrophy,1,1,1,1,1
+Odontogenic Keratocysts of The Jaw,1,1,1,1,1
+Nonallergic Asthma,1,1,1,1,1
+High Grade Intraepithelial Neoplasia,1,1,1,1,1
+Metastatic Castration-Resistant Prostate Carcinoma,1,1,1,1,1
+Aortic Insufficiency,1,1,1,1,1
+Uterine Endometriosis,1,1,1,1,1
+Lung Carcinoid Tumor,1,1,1,1,1
+Diabetic Gastroenteropathy,1,1,1,1,1
+Pleomorphic Adenoma Carcinoma,1,1,1,1,1
+Clear Cell Sarcoma of The Kidney,1,1,1,1,1
+Idiopathic Iga Nephopathy,1,1,1,1,1
+Extramammary Paget Disease,1,1,1,1,1
+Classical Ehlers-Danlos Syndrome,1,1,1,1,1
+Tubulointerstitial Nephropathy,1,1,1,1,0
+Ventilator-Induced Lung Injury,1,1,1,1,0
+Pre-Eclampsia;Intrauterine Growth Restriction,1,1,1,1,1
+Sicca,1,1,1,1,1
+Autoimmune Pulmonary Alveolar Proteinosis,1,1,1,1,1
+Tropical Spastic Paraparesis,1,1,1,1,1
+Diet-Induced Obese  Non-Alcoholic Steatohepatitis ,1,1,1,1,0
+Arteriovenous Fistula,1,1,1,1,1
+Hoil1 Deficiency,1,1,1,1,1
+Deficiency Disease,1,1,1,1,1
+Muckle-Wells Syndrome,1,1,1,1,1
+Striated Muscle Laminopathies,1,1,1,1,0
+Glycogen Storage Disease,1,1,1,1,1
+Type I Tyrosinemia,1,1,1,1,0
+Ductal Breast Carcinoma,1,1,1,1,1
+Coccidiosis Granuloma,1,1,1,1,1
+Tuberculosis Granuloma,1,1,1,1,1
+Oral Lichen Planus,1,1,1,1,1
+Abnormality of The Pulmonary Veins,1,1,1,1,1
+Sclerotic Aortic Valve,1,1,1,1,1
+Calcified Aortic Valve,1,1,1,1,1
+Hepatitis,1,1,1,1,1
+Hepatic Hemangioma,1,1,1,1,1
+Acral Lentiginous Melanoma,1,1,1,1,1
+Neurodegenerative Diseases,1,1,1,1,1
+Pediatric Ulcerative Colitis,1,1,1,1,1
+Rheumatic Disease,1,1,1,1,0
+Alcoholic Cirrhosis,1,1,1,1,1
+Astroblastoma,1,1,1,1,1
+Autosomal Dominant Retinitis Pigmentosa,1,1,1,1,1
+Skin Squamous Cell Carcinoma,1,1,1,1,1
+Squamous Intraepithelial Lesion,1,1,1,1,1
+Impulse Control Disorder,1,1,1,1,0
+Pediatric Crohn's Disease,1,1,1,1,1
+Serous Cystadenocarcinoma,1,1,1,1,1
+Congestive Heart Failure,1,1,1,1,0
+Aldosterone-Producing Adenoma,1,1,1,1,1
+Primary Pulmonary Hypoplasia,1,1,1,1,0
+Papillary Thyroid Cancer,1,1,1,1,1
+High Grade Liver Dysplasia,1,1,1,1,1
+Acute Appendicitis,1,1,1,1,1
+Joint Pain/Joint Inflammation,1,1,1,1,0
+Syndromic Biliary Atresia,1,1,1,1,1
+Alagille Syndrome,1,1,1,1,1
+Isolated Biliary Atresia,1,1,1,1,1
+Hyperglycemia,1,1,1,1,0
+Visual Impairment,1,1,1,1,0
+Postoperative Delirium,1,1,1,1,1
+Skin Fibroma,1,1,1,1,1
+Pheochromocytomas And Paragangliomas,1,1,1,1,1
+Ectodermal Dysplasia,1,1,1,1,1
+Congenital Myotonic Dystrophy,1,1,1,1,1
+Metabolically Healthy Obesity,1,1,1,1,1
+Obesity; Metabolically Benign,1,1,1,1,1
+Pck1 Deficiency; Cytosolic,1,1,1,1,0
+Large-Artery Atherosclerotic Stroke,1,1,1,1,1
+D-2-Hydroxyglutaric Aciduria 2,1,1,1,1,1
+Social Defeat Stress,1,1,1,1,0
+Squamous Cell Carcinoma of Cervix,1,1,1,1,1
+Ovarian Fibroma,1,1,1,1,1
+Ovarian Serous Adenocarcinoma,1,1,1,1,1
+Malignant Neoplasm of Oesophagus,1,1,1,1,1
+Myelodysplasia,1,1,1,1,1
+Mitochondrial Encephalomyopathy,1,1,1,1,1
+Squamous Cell Lung Carcinoma,1,1,1,1,1
+Schwannoma,1,1,1,1,1
+IPF Alveolar Septae,1,1,1,1,1
+IPF Fibrobalst Foci,1,1,1,1,1
+African Trypanosomiasis,1,1,1,1,0
+Familial Mediterranean Fever,1,1,1,1,1
+Gingivitis,1,1,1,1,1
+Hydrosalpinx (Disease),1,1,1,1,1
+Hypothyroidism,1,1,1,1,1
+Cervical Adenocarcinoma,1,1,1,1,1
+Tnf Receptor-Associated Periodic Fever Syndrome (Traps),1,1,1,1,1
+Low-Grade Glioma,1,1,1,1,0
+Unexplained Infertility,1,1,1,1,1
+Right Ventricular Dysfunction,1,1,1,1,0
+Hereditary Gingival Fibromatosis,1,1,1,1,1
+Primary Open Angle Glaucoma,1,1,1,1,1
+Portal inflammation,1,1,1,1,0
+HIV encephalitis,1,1,1,1,1
+Niemann-Pick Disease Type C,1,1,1,1,0
+Influenza And Pneumonia,1,1,1,1,1
+Bacterial pneumonia;influenza A pneumonia,1,1,1,1,1
+Inflammatory Myopathy,1,1,1,1,1
+Kallmann Syndrome,1,1,1,1,1
+Spinocerebellar Ataxia Type 3,1,1,1,1,0
+Stomach Cancer,1,1,1,1,1
+Villous Atrophy,1,1,1,1,0
+Cleft Lip/Palate,1,1,1,1,1
+Sebaceous of Jadassohn Nevus,1,1,1,1,1
+Infantile Krabbe Disease,1,1,1,1,0
+Arterial Tortuosity Syndrome,1,1,1,1,1
+Adenomyosis,1,1,1,1,1
+Cyfip2 Deficiency,1,1,1,1,0
+Degenerative Intervertebral Discs,1,1,1,1,1
+Developmental Dysplasia of The Hip,1,1,1,1,1
+Iscu Myopathy,1,1,1,1,1
+Wilson Disease,1,1,1,1,0
+Hyperlactatemia,1,1,1,1,1
+Bacterial Infection,1,1,1,1,1
+Viral Infection,1,1,1,1,1
+Lymphedema,1,1,1,1,1
+C4 Deficiency,1,1,1,1,1
+Post-Infection Irritable Bowel Syndrome,1,1,1,1,1
+Neurocognitive Disorders,1,1,1,1,0
+Post-Traumatic Osteoarthritis Nos,1,1,1,1,0
+Pregnancy Loss,1,1,1,1,1
+Porto-sinusoidal vascular disease,1,1,1,1,1
+Post–Polycythemia Vera Myelofibrosis,1,1,1,1,1
+Idiopathic Intracranial Hypertension,1,1,1,1,1
+Cortical Hyperostosis With Syndactyly,1,1,1,1,1
+Cardiac Failure,1,1,1,1,0
+X-Linked Adrenoleukodystrophy,1,1,1,1,1
+Type C Niemann-Pick Disease,1,1,1,1,1
+Hypermobile Ehlers-Danlos Syndrome,1,1,1,1,1
+Hypermobility Spectrum Disorders,1,1,1,1,1
+Schistosoma Japonicum Infection,1,1,1,1,0
+Still's Disease,1,1,1,1,1
+Baumannii Infection,1,1,1,1,0
+Intestinal Graft Versus Host Disease,1,1,1,1,1
+Persistent Polyclonal B-Cell Lymphocytosis,1,1,1,1,1
+Collecting Duct Carcinoma,1,1,1,1,1
+Early Gastric Cancer,1,1,1,1,1
+Synovitis,1,1,1,1,0
+Secondary Acute Myeloid Leukemia,1,1,1,1,1
+B-Cell Non-Hodgkin's Lymphoma,1,1,1,1,1
+Chronic Active Ebv Infection,1,1,1,1,1
+B-Cell Non-Hodgkin Lymphoma,1,1,1,1,1
+Narcolepsy,1,1,1,1,1
+Rectal Carcinoma,1,1,1,1,1
+Melas Syndrome,1,1,1,1,1
+Dry Eyes,1,1,1,1,1
+Carcinoma of The Retromolar Trigonu,1,1,1,1,1
+Soft Palate Carcinoma,1,1,1,1,1
+Tonsillar Carcinoma,1,1,1,1,1
+Sinonasal Inverted Papilloma,1,1,1,1,1
+Atr-X Syndrome,1,1,1,1,1
+X-Linked Acrogigantism,1,1,1,1,1
+Systemic Sclerosis-Associated Interstitial Lung Disease,1,1,1,1,1
+Panic Disorder,1,1,1,1,1
+Rasmussen Encephalitis,1,1,1,1,1
+Focal Cortical Dysplasia Type I,1,1,1,1,1
+Rheumatic Heart Disease,1,1,1,1,1
+Recurrent Non-Muscle Invasive Tumor,1,1,1,1,1
+Fibrolamellar Hepatocellular Carcinoma,1,1,1,1,1
+Unspecified Septicemia,1,1,1,1,1
+Brittle Cornea Syndrome,1,1,1,1,1
+Adrenoleukodystrophy,1,1,1,1,1
+Hepatitis C;Adrenoleukodystrophy,1,1,1,1,1
+Tracheal Stenosis,1,1,1,1,1
+Giant Cell Tumor,1,1,1,1,1
+Anal Melanoma,1,1,1,1,1
+Endotoxic Shock,1,1,1,1,0
+Erythema Nodosum,1,1,1,1,1
+Panniculitis,1,1,1,1,1
+Transfusion Dependent Thalassemia,1,1,1,1,1
+Acute Rheumatic Fever,1,1,1,1,1
+Cushing's Disease,1,1,1,1,1
+Hypertriglyceridemia,1,1,1,1,0
+Infective Endocarditis,1,1,1,1,1
+Erythematotelangiectatic Rosacea,1,1,1,1,1
+Papulopustular Rosacea,1,1,1,1,1
+Cerebral Aneurysm,1,1,1,1,1
+Hellp Syndrome,1,1,1,1,1
+Gallstones,1,1,1,1,1
+Lissencephaly,1,1,1,1,1
+Amyloidosis,1,1,1,1,1
+Ulcer,1,1,1,1,0
+Perinatal Subarachnoid Hemorrhage,1,1,1,1,1
+Neutrophilic Dermatosis,1,1,1,1,0
+Restrictive Cardiomyopathy,1,1,1,1,1
+Esophageal Tumor,1,1,1,1,0
+Blast Traumatic Brain Injury,1,1,1,1,0
+Prion Disease,1,1,1,1,0
+Age-Related Hearing Loss,1,1,1,1,0
+Xeroderma Pigmentosum Variant,1,1,1,1,1
+Coronary Heart Disease,1,1,1,1,1
+Morbid Obesity,1,1,1,1,1
+Alopecia Totalis,1,1,1,1,1
+Alopecia Universalis,1,1,1,1,1
+Ichthyosis Hystrix of Curth-Macklin,1,1,1,1,1
+Multifocal Motor Neuropathy,1,1,1,1,1
+Intestinal Tuberculosis,1,1,1,1,1
+Herpesviral  Infections,1,1,1,1,1
+Diabetes;Heart Failure,1,1,1,1,1
+Eosinophilia Myalgia Syndrome,1,1,1,1,1
+Metachromatic Leukodystrophy,1,1,1,1,1
+Bipolar Depression,1,1,1,1,1
+Plasmodium,1,1,1,1,0
+Chronic Chagas' Disease Cardiomyopathy,1,1,1,1,0
+Fetal Growth Restriction,1,1,1,1,1
+Umor of Retina,1,1,1,1,1
+Acth-Independent Macronodular Adrenal Hyperplasia,1,1,1,1,1
+Primary Ciliary Dyskinesia,1,1,1,1,1
+Male Infertility,1,1,1,1,0
+Strep Infection,1,1,1,1,1
+Ollier Enchondroma,1,1,1,1,1
+Seborrheic Keratosis,1,1,1,1,1
+Malt Lymphoma,1,1,1,1,1
+Fibromyalgia,1,1,1,1,1
+Spoan Syndrome,1,1,1,1,1
+Group A Streptococcal Infections,1,1,1,1,1
+Dextran Sodium Sulfate Induced-Colitis,1,1,1,1,0
+Staphylococcus Infection,1,1,1,1,1
+Respiratory System Disease,1,1,1,1,1
+Chronic Rejection of Renal Transplant,1,1,1,1,1
+Placenta Accreta,1,1,1,1,1
+Myxofibrosarcoma,1,1,1,1,1
+Solitary Fibrous Tumor,1,1,1,1,1
+Familial Danish Dementia,1,1,1,1,0
+Frontal Fibrosing Alopecia,1,1,1,1,1
+Lichen Planopilaris,1,1,1,1,1
+Hypoxia,1,1,1,1,0
+Childhood Onset,1,1,1,1,1
+Acromegaly,1,1,1,1,1
+Hepatosplenic T-Cell Lymphoma,1,1,1,1,1
+Measles,1,1,1,1,1
+Monosomy 21,1,1,1,1,0
+Obesity;Stroke,1,1,1,1,1
+Microcystic Lymphatic Malformation,1,1,1,1,1
+Macrocystic Lymphatic Malformation,1,1,1,1,1
+Corticobasal Degeneration,1,1,1,1,1
+Dopa-Responsive Dystonia Disorders,1,1,1,1,1
+Low-Grade Fibromyxoid Sarcoma,1,1,1,1,1
+Renal Lipoma,1,1,1,1,1
+Renal Oncocytoma,1,1,1,1,1
+Rhabdoid Tumor of The Kidney,1,1,1,1,1
+Metabolic Ectopic Mineralization Disorder Pseudoxanthoma Elsaticum,1,1,1,1,0
+Nasu-Hakola Disease,1,1,1,1,1
+Trigeminal Neuralgia,1,1,1,1,1
+Episodic Vestibular Syndrome With Hyperventilation-Induced Downbeat Nystagmus,1,1,1,1,1
+Non-Bacterial Osteomyelitis,1,1,1,1,1
+High Grade Ovarian Serous Carcinoma,1,1,1,1,1
+Echinococcosis,1,1,1,1,1
+Recurrent Implantation Failure,1,1,1,1,1
+Odontogenic Keratocyst,1,1,1,1,1
+Ossification of Ligamentun Flavum(Olf),1,1,1,1,1
+Chilblains,1,1,1,1,1
+Septicemia,1,1,1,1,1
+Non-Erosive Reflux Disease,1,1,1,1,1
+T-Lymphoblastic Lymphoma,1,1,1,1,1
+Carcinoma of The Base of The Tongue,1,1,1,1,1
+Melanoma In Situ,1,1,1,1,1
+Post Polycythaemia Vera Myelofibrosis,1,1,1,1,1
+Erythroleukemia,1,1,1,1,0
+Sporadic Basal-Like Cancers,1,1,1,1,1
+Idiopathic Parkinsonism Or Parkinson's Disease,1,1,1,1,1
+Cholangiocellular Carcinoma,1,1,1,1,1
+Gata6 Deficiency,1,1,1,1,0
+Tendon Injury,1,1,1,1,1
+Colorectal Tumor,1,1,1,1,1
+Melasma,1,1,1,1,1
+Childhood Gliosarcoma,1,1,1,1,1
+Prostatic Hyperplasia,1,1,1,1,0
+Achalasia,1,1,1,1,1
+Fanconi-Bickel Syndrome,1,1,1,1,1
+Arthritis-Associated Interstitial Diseases,1,1,1,1,1
+Pulmonary Alveolar Microlithiasis,1,1,1,1,1
+Major Depression,1,1,1,1,1
+Atrophy of testis,1,1,1,1,1
+Frontotemporal Lobar Degeneration,1,1,1,1,1
+Placenta Accreta Spectrum,1,1,1,1,1
+Hirschsprung Disease,1,1,1,1,1
+Multiple Symmetric Lipomatosis,1,1,1,1,1
+Pleuropulmonary Blastoma,1,1,1,1,1
+Tongue Tumor,1,1,1,1,0
+Hyperlipidemia,1,1,1,1,0
+Heterotopic Ossification,1,1,1,1,1
+Mitral Regurgitation,1,1,1,1,1
+Extraskeletal Myxoid Chondrosarcoma,1,1,1,1,1
+Osteoarthritis of Knee,1,1,1,1,1
+Peripheral T-Cell Lymphoma; Not Otherwise Specified,1,1,1,1,1
+Metastatic Lung Cancer,1,1,1,1,1
+Severe Cognitive Disability And Early Dementia,1,1,1,1,1
+Piriformal Recessus Carcinoma,1,1,1,1,1
+Glottic Carcinoma,1,1,1,1,1
+Subglottic Carcinoma,1,1,1,1,1
+Encephalitis,1,1,1,1,0
+Supraglottic Carcinoma,1,1,1,1,1
+Transglottic Carcinoma,1,1,1,1,1
+Malignant Tumor of Floor of Mouth,1,1,1,1,1
+Pten Deficiency,1,1,1,1,0
+Primary Leiomyosarcoma,1,1,1,1,1
+Primary Carcinoma,1,1,1,1,1
+Desmoid Fibromatosis,1,1,1,1,1
