@@ -1,4 +1,4 @@
-Root MeSH Term,Nº of Signatures,Nº of Datasets,Nº of Baseline,Nº of Factor Cell Line,Nº of Factor Time,Nº of Factor Disease State,Nº of Factor Agent,Nº of Factor Tissue,Nº of Factor Age,Nº of Factor Genotype,Nº of Factor Specimen,Nº of Factor Protocol,Nº of Factor Cell Type,Nº of Factor Other
+Root MeSH Term,Nº of Signatures,Nº of Datasets,Nº of Control Conditions,Nº of Factor Cell Line,Nº of Factor Time,Nº of Factor Disease State,Nº of Factor Agent,Nº of Factor Tissue,Nº of Factor Age,Nº of Factor Genotype,Nº of Factor Specimen,Nº of Factor Protocol,Nº of Factor Cell Type,Nº of Factor Other
 Neoplasms,2457,394,226,155,250,547,269,102,179,150,146,88,85,411
 Skin and Connective Tissue Diseases,620,122,52,60,78,108,131,4,0,35,35,35,10,92
 Urogenital Diseases,574,114,71,9,80,137,49,42,0,47,82,31,12,66
